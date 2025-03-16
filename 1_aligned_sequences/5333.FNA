@@ -1,0 +1,45 @@
+>cubatanensis single_hit
+------------------------------------------------------------
+------------------------------------------gggaaagatgaggtcatg
+cgattagcgcatgaactctgtgaagaacttcaggccctcggtaaaccggcggaagctgca
+aaaattgccctggattattgtagagacgtgaaggctggagtcagcttactggtaagagca
+agggagtgggaagaggcactgagggttgctttaatgcatgatggggatgatttagactca
+gaagtgaaggatgcgtcccttgaatgtgcgggcgcactgattagcgagtacgaggaaggc
+ttggagaaagttgggaaatatgtggctcggtacctggctgttcggcagagaaggttgctt
+ctcgctgcaaaacttcagtcagaggaa
+>ferruginata single_hit
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------gaacttcaggccctcggtaaaccggcggaagctgca
+aaaattgccctggattattgtagagacgtgaaggctggagtcagcttactggtaagagca
+agggaatgggaagaggcactgagggttgctttaatgcatgatggggatgatttagactca
+gaagtgaaggatgcgtcccttgaatgtgcgggcgcactgattagcgagtacgaggaaggc
+ttggagaaagttggg---------------------------------------------
+---------------------------
+>hyemalis single_hit
+------------------------------------------------------------
+------tctggtgtgttgacggtggctggacagatgcaattggcgaaagatgaggtcatg
+cgattagcacatgaactctgtgaagaacttcaggccctcggtaaaccagcagaagctgca
+aaaattgccctggattattgcagagacgtgagggctggagtcggcttactggtaagagca
+agggagtgggaagaggctctgagggttgctttaatgcatgatggggatgatttagactca
+gaagtgaaggatgcgcccctcgaatgtgcgggcgcactgattagcgagtacgaggaaggc
+ttggagaaagttgggaaatatgtggctcggtacctggctgttcggcagagaaggttgctt
+ctcgct---------------------
+>lymanii single_hit
+accacctatttatgctgtcaaagtctggagaaggctctgaaggcttatcgttctaacggc
+agctggtctggtgtgttgacggtggctggacagatgcaattggggaaagatgaggtcatg
+cgattagcgcatgaactctgtgaagaacttcaggccctcggtaaaccggcggaagctgca
+aaaattgccctggattattgtggagacgtgaaggctggagtcagcttactggtaagagca
+agggagtgggaagaggcgctgagggttgctttaatgcatgatggggatgatttagactca
+gaagtgaaggatgcgtcccttgaatgtgcgggcgcactgattagcgagtacgaggaaggc
+ttggagaaagttgggaaatatgtggctcggtacctggctgttcggcagagaaggttgctt
+ctcgctgcaaaacttcagtcagaggaa
+>penduliflora single_hit
+------------------------------------------------------------
+------------------------------------------------------------
+---------catgaactctatgaagaacttcaggccctcggtaaaccggcggaagctgca
+aaaattgccctggattattgtggagacgtgaaggctggagtcagcttactggtaagagca
+agggagtgggaagaggcactgagggttgctttaatgcatgatggggatgatttagactca
+gaagtgaaggatgcgtcccttgaatgtgcgggcgcactgattagcgagtacgaggaaggc
+ttggagaaagttgggaaatatgtggctcggtacctggctgttcggcagagaaggttgctt
+ctcgctgcaaaacttcagtcagaggaa
