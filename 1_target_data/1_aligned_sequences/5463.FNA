@@ -1,0 +1,664 @@
+>amoena single_hit
+------------gtcattgaagctgagaagcaagctgctcgggatctaattaaagaaaag
+agaaaagatagagcattgttggcactgaagaagaagaggacgcaagaagacttgctgaag
+caagttgatgcctggcttctcaatgtagaacaacagttggcggatattgaactatcaagc
+aagcagaaagccgtttttgaaagtttaaaggcgggtaacaatgcaattaaagcaatacaa
+agtgagataaacttggatgacgtccaaaagctgatggatgacactgctgatgctcaagcg
+tatcaa------------------------------------------------------
+---------------------------
+>albicans single_hit
+cagcttgataaggtcatcgaagccgagaagcaagcagcaaaggacctaattaaagagaag
+agaaaggatagggcgctgctggcgctgaagaagaagaagacacaagaagagttgctgaag
+caagtcgatacctggcttctcaatgtcgaaaaacag------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+---------------------------
+>amnicola single_hit
+cagcttgataaagtcatcgaagccgagaagcaagcagcaaaggacctaattaaagagaag
+agaaaggatagggcgctgctggcgctgaagaagaagaagacacaagaagagttgctaaag
+caagtcgatacctggcttctcaatgtcgaacaacagctggcggatattgaactagcaagc
+aagcagaaggcggtgtttgaaagtttaaaggcaggtaataatgcaattaaagcgatacag
+agcgagataaacttggatgacgtccaaaagctgatg------------------------
+------------------------------------------------------------
+---------------------------
+>argyrophylla single_hit
+cagcttgataaagtcatcgtagccgtgaagcaagcagcaaaggacctaattaaagagaag
+agaaaggatagggcgctgctggcgctgaagaagaagaagacacagggagagttgctgaag
+caagtcgatacctggctcctcaacgtcgaacaacaggtg---------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+---------------------------
+>affinis single_hit
+---cttgataaagtcattgaagctgagaagcaagctgctcgggacctaattaaagaaaag
+agaaaagatagagcattgttggcactgaagaagaagaagacgcaagaagagttgctgaag
+caagttgatgcttggcttctcaatgtagaacaacagttggcagatattgaactagcaagc
+aagcagaaagccgtttttgaaagtttaaaggcgggtaacaatgcaattaaagcaatacaa
+agtgagataaacttggat------------------------------------------
+------------------------------------------------------------
+---------------------------
+>angelana single_hit
+---cttgataaagtcattgaagctgagaagcaagctgctcgggaactaattaaagaaaag
+agaaaagatagagcattgttggcactgaagaagaagaagacgcaagaagagttgctgaag
+caagttgatgcctggcttctcaatgtagaacaacagttggcggatattgaactatcaagc
+aagcagaaagccgtttttgaaagtttaaaggcgggtaacaatgcaattaaagcaatacaa
+agtgagataagcttggatgacgtccaaaagctaatg------------------------
+------------------------------------------------------------
+---------------------------
+>baumgratziana multi_hit_stitched_contig_comprising_2_hits
+cagcttgataaagtcattgaagctgagaagcaagctgctcgggacctaattaaagaaaag
+agaaaagatagagcattgttggcactgaagaagaagaagacgcaagaagagttgctgaag
+caagttgatgcctggcttctcaatgtagaacaacagttggcggatattgaactatcaagc
+aagcagaaagccgtttttgaaagtttaaaggcgggtaacaatgcaattaaagcaatacaa
+agtgagataagcttggatgacgtccaaaagctaatg------------------------
+------------------------------------------------------------
+---------------------------
+>brunnea single_hit
+cagcttgataaagtcatcgaagccgagaagcaagcagcaaaggacctaattaaagagaag
+agaaaggatagggcgctgttggcgctgaagaagaagaagacacaagaagagttgctaaag
+caagtcgatagctggcttctcaatgtcgaacaacagctggcggatattgaactagcaagc
+aagcagaaggcggtgtttgaaagtttaaaggcaggtaataatgcaattaaagcgatacag
+aacgagataaacttggatgacgtccaaaagctggtg------------------------
+------------------------------------------------------------
+---------------------------
+>buddlejoides single_hit
+---cttgataaagtcattgaagctgagaagcaagctgctcgggacctaattaaagaaaag
+agaaaagatagagcattgttggcactgaagaagaagaagacgcaagaagagttgctgaag
+caagttgatgcctggcttctcaatgtagaacaacagctggcggatattgaactagcaagc
+aagcagaaagccgtttatgaaagtttaaaggcgggtaacaatgcaattaaagcaatacaa
+agtgagataaacttggatgacgtccaaaagctaatg------------------------
+------------------------------------------------------------
+---------------------------
+>burchellii single_hit
+cagcttgataaagtcatcgaagccgagaagcaagcagcaaaggacctaattaaagagaag
+agaaaggatagggcgctgttggcgctgaagaagaagaagacacaagaagagttgctaaag
+caagtcgatacctggcttctcaatgtcgaacaacagctggcggatattgaactagcaagc
+aagcagaaggcggtgtttgaaagtttaaaggcaggtaataatgcaattaaagcgatacag
+agcgagataaacttggatgacgtccaaaagctgatggatgacactgctgaagctcaagct
+tatcag------------------------------------------------------
+---------------------------
+>atlantica multi_hit_stitched_contig_comprising_2_hits
+cagcttgataaagtcattgaagctgagaagcaagctgctcgggacctaattaaagaaaag
+agaaaagatagagcattgttggcactgaagaagaagaagacgcaagaagagttgctgaag
+caagttgatgcctggcttctcaatgtagaacaacagttggcggatattgaactatcaagc
+aagcagaaagccgtttttgaaagtttaaag------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+---------------------------
+>caiuia single_hit
+cagcttgataaagtcatcgaagccgagaagcaagcagcaaaggacctaattaaagagaag
+agaaaggatagggcactgctggcgctgaagaagaagaagacacaagaagagttgctaaag
+caagtcgatacctggcttctcaatgtcgaacgacagctggcggatattgaactagcaagc
+aagcagaaggcggtgtttgaaagtttaaaggcaggtaataatgcaattaaagcgatacag
+agcgagataaacttggatgacgtccaaaagctgatg------------------------
+------------------------------------------------------------
+---------------------------
+>astroplocama multi_hit_stitched_contig_comprising_2_hits
+cagcttgataaagtcattgaagctgagaagcaagctgctcgggacctaattaaagaaaag
+agaaaagatagagcattgttggcactgaagaagaagaagacgcaagaagagttgctgaag
+caagttgatgcctggcttctcaatgtagaacaacagttggcggatattgaactagcaagc
+aagcagaaagccgtttttgaaagtttaaaggcgggtaacaatgcaattaaagcaatacaa
+agtgagatcaacttggatgacgtccaaaagctaatggacgacactgctgaagctcaagct
+tatcaagaggaaataaatgcaatcctcggagagaaattgtccccggaagacgaggaggag
+atccttgccgaattcgagagcttagaa
+>castaneiflora single_hit
+------------gtcattgaagctgagaagcaagctgctcgggacctaattaaagaaaag
+agaaaagatagagcattgttggcacttaagaagaagaagacgcaagaagagttgctgaag
+caagtagatgcctggcttctcaatgtagaacaacagttggcggatattgaactatcaagc
+aagcagaaagccgtttttgaaagtttaaaggcgggtaacaatgcaattaaagcaatacaa
+agtgagataaacttggatgacgtccaaaagctaatggacgacactgctgaagctcaagct
+tatcaa------------------------------------------------------
+---------------------------
+>calvescens single_hit
+---cttgataaagtcattgaagctgagaagcaagctgctcgggacctaattaaagaaaag
+agaaaagatagagcattgttggcactgaagaagaagaagacgcaagaagagttgctgaag
+caagttgatgcctggcttctcaatgtagaacaacaggta---------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+---------------------------
+>capixaba single_hit
+cagcttgataaagtcatcgaagccgagaagcaagcagcaaaggacctaattaaagaaaag
+agaaaggatagggcgctgttggcgctgaagaagaagaagacacaagaagagttgctaaag
+caagtcgatacctggcttctcaatgtcgaacaacagctggcggatattgaactagcaagc
+aagcagaaggcggtgtttgaaagtttaaaggcaggtaataatgcaattaaagcgatacag
+agcgagataaacatggacgacgtccaaaagctggtg------------------------
+------------------------------------------------------------
+---------------------------
+>cipoensis single_hit
+cagcttgataaagtcatcgaagccgagaagcaagcagcaaaggacctaattaaagagaag
+agaaaggatagggcgctgctggcgctgaggaagaagaagacacaagaagagttgctaaag
+caagtcgatacctggcttctcaatgtcgaacaacagctggcggatattgaactagcaagc
+aagcagaaggcggtgtttgaaagtttaaaggcaggtaataatgcaattaaagcgatacag
+agcgagataaacttggatgacgtccaaaagctgatg------------------------
+------------------------------------------------------------
+---------------------------
+>caudigera multi_hit_stitched_contig_comprising_2_hits
+cagcttgacaaagtcattgaagctgagaagcaagctactcgggacctaattaaagaaaag
+agaaaagatagagcattgttggcactgaagaagaagaagacgcaagaagagttgctgaag
+caagttgatgcctggcttctcaatgtagaacaacagttggcggatattgaactagcaagc
+aagcagaaagccgtttttgaaagtttaaaggcgggtaacaatgcaattaaagcaatacaa
+cgtgagataaac------------------------------------------------
+------------------------------------------------------------
+---------------------------
+>collatata multi_hit_stitched_contig_comprising_2_hits
+cagcttgataaagtcattgaagctgagaagcaagctgctcgggacctaattaaagaaaag
+agaaaagatagagcattgttggcactgaagaagaagaagacgcaagaagagttgctgaag
+caagttgatgcctggcttctcaatgtagaacaacagttggcggatattgaactatcaagc
+aagcagaaagccgtttttgaaagt------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+---------------------------
+>cinnamomifolia single_hit
+---ctcgataaagtcattgaagctgagatgcaagctgctcgggacctaattaaagaaaag
+agaaaagatagagcattgttggcactgaagaagaagaagacgcaggaagagttgctgaag
+caagttgatgcctggcttctcaatgtagaacaacaggta---------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+---------------------------
+>alborufescens single_hit
+------------gtcattgaagctgagaagcaagctgctcgggacttaattaaagaaaag
+agaaaagatagagcattgttggcgctgaagaagaagaagacgcaagaagacttgctgaag
+caagttgatgcctggcttctcaatgtagaacaacagttggcagatcttgaactatcaagc
+aagcagaaagccgtttttgaaagtttaagggcgggtaacaatgcaattaaagcaatacaa
+agtgagataaacttggatgacgtccaaaagctaatggacgacactgctgaagctcaagct
+tatcaa------------------------------------------------------
+---------------------------
+>corallina single_hit
+cagcttgataaagtcatcgaagccgagaagcaagcagcaaaggacctaattaaagagaag
+agaaaggatagggcgctgttggcgctgaagaagaagaagacacaagaagagttgctaaag
+caagtcgatacctggcttctcaatgtcgaacaacagctggcggatattgaaatagcaagc
+aagcagaaggcggtgtttgaaagtttaaaggcaggtaataatgcaattaaagcgatacag
+agcgagataaacttggatgacgtccaaaagctggtg------------------------
+------------------------------------------------------------
+---------------------------
+>dichrophylla single_hit
+---cttgataaagtcattgaagctgagaagcaagctgctcgggacctaattaaagaaaag
+agaaaagatagagcattgttggcactgaagaagaagaagacgcaagaagagttgctgaag
+caagttgatgcctggcttctcaatgtagaacaacagttggcggatattgaactatcaagc
+aagcagaaagcc------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+---------------------------
+>dispar single_hit
+cagcttgataaagtcatcgaagccgagaagcaagcagcaaaggacctaattaaagagaag
+agaaaggatagggcgctgctggctctgaagaagaagaagacacaagaagagttgctaaag
+caagtcgatacctggcttctcaatgtcgaacaacaggtg---------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+---------------------------
+>elata single_hit
+cagcttgataaagtcatcgaagccgagaagcaagcagcaaaggacctaattaaagagaag
+agaaaggatagggcgctgttggcgctgaagaagaagaagacacaagaagagttgctaaag
+caagtcgatagctggcttctcaatgtcgaacaacaggta---------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+---------------------------
+>discolor single_hit
+---cttgataaagtcattgaagctgagaagcaagctgctcgggacctaattaaagaaaag
+agaaaagatagagcattgttggcactgaagaagaagaagacgcaagaagagttgctgaag
+caagttgatgcctggcttctcaatgtagaacaacagttggcggatattgaactatcaagc
+aagcagaaagccgtttttgaaagtttaaaggcgggtaacaatgcaattaaagcaatacaa
+agtgagataagcttggatgacgtccaaaagctaatg------------------------
+------------------------------------------------------------
+---------------------------
+>cubatanensis multi_hit_stitched_contig_comprising_2_hits
+cagcttgataaagtcattgaagctgagaagcaagctgctcgggacctaattaaagaaaag
+agaaaagatagagcattgttggcactgaagaagaagaagacgcaagaagagttgctgaag
+caagttgatgcctggcttctcaatgtagaacaacagttggcggatattgaactatcaagc
+aagcagaaagccgtttttgaaagtttaaaggcgggcaacaatgcaattaaagcaatacaa
+agtgagataaacttggatgacgtccaaaagctaatg------------------------
+------------------------------------------------------------
+---------------------------
+>fasciculata multi_hit_stitched_contig_comprising_2_hits
+cagcttgataaagtcattgaagctgagaagcaagctgctcgggacctaattaaagaaaag
+agaaaagatagagcattgttggcactgaagaagaagaagacgcaagaagagttgctgaag
+caagttgatgcctggcttctcaatgtagaacaacagttggcggatattgaactatcaagc
+aagcagaaagccgtttttgaaagtttaaaggcgggtaacaatgcaattaaagcaatacaa
+agtgagataagcttggatgacgtccaaaagctaatg------------------------
+------------------------------------------------------------
+---------------------------
+>eriodonta multi_hit_stitched_contig_comprising_2_hits
+cagcttgataaagtcattgaagctgagaagcaagctgctcgggacctaattaaagaaaag
+agaaaagatagagcattgttggcactgaagaagaagaagacgcaagaagagttgctgaag
+caagttgatgcctggcttctcaatgtagaacaacagttggcggatattgaactagcaagc
+aagcaaaaagccgtttttgaaagtttaaaggcgggtaacaatgcaattaaagcaatacaa
+agtgagataaacttggatgacgtccaaaagctaatggatgacaccgctgaagctcaagct
+tatcaa------------------------------------------------------
+---------------------------
+>cyathanthera multi_hit_stitched_contig_comprising_2_hits
+---cttgataaagtcattgaagctgagaagcaagctgctcgggacctaattaaagaaaag
+agaaaagatagagcattgttggcactgaagaagaagaagacgcaagaagagttgctgaag
+caagtagatgcctggcttctcaatgtagaacaacagttggcggatattgaactaacaagc
+aagcagaaagccgttttcgaaagtttaaaggcgggtaacaatgcaattaaagcaatacaa
+agtgagataaacttggatgacgtccaaaagctaatggatgacactgctgaagctcgagct
+tatcaa------------------------------------------------------
+---------------------------
+>fallax single_hit
+---cttgataaagtcattgaagctgagaagcaagctgcccgggacctaattaaagaaaag
+agaaaagatagagcattgttggcactgaagaagaagaagacgcaagaagagttgctgaag
+caagttgatgcctggcttctcaatgtagaacaacagttggcggatattgaacta------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+---------------------------
+>formosa single_hit
+cagcttgataaagtcatcgaagccgagaagcaagcagcaaaggacctaattaaagagaag
+agaaaggatagggcgctgttggcgctgaagaagaagaagacacaagaagagttgttaaag
+caagtcgatacctggcttctcaatgtcgaacaacagctggcggatattgaactagcaagc
+aagcagaaggcggtgtttgaaagtttaaaggcaggtaataatgcaattaaagcgatacag
+agcgagataaacttggatgacgtccaaaagctggtggatgacactgctgaagctcaagct
+tatcaa------------------------------------------------------
+---------------------------
+>flammea single_hit
+cagcttgataaagtcatcgaagccgagaagcaagcagcaaaggacctaattaaagagaag
+agaaaggatagggcgctgttggcgctgaagaagaagaagacacaagaagagttgctaaag
+caagtcgatagctggcttctcaatgtcgaacaacagctggcggatattgaactagcaagc
+aagcagaaggcggtgtttgaaagtttaaaggcaggtaataatgcaattaaagcgatacag
+aacgagataaacttggatgacgtccaaaagctggtg------------------------
+------------------------------------------------------------
+---------------------------
+>dorsaliporosa multi_hit_stitched_contig_comprising_2_hits
+cagcttgataaagtcattgaagctgagaagcaagctgctcgggacctaattaaagaaaag
+agaaaagatagagcattgttggcactgaagaagaagaagacgcaagaagagttgctgaag
+caagttgatgcctggcttctcaatgtagaacaacagttggcggatattgaactagcaagc
+aagcagaaggcggtgtttgaaagtttaaaggcaggtaataatgcaattaaagcgatacag
+agcgagataaacttggatgacgtccaaaagctgatg------------------------
+------------------------------------------------------------
+---------------------------
+>hypoleuca single_hit
+---cttgataaagtcattgaagctgagaagcaagctgctcgggacctaattaaagaaaag
+agaaaagatagagcattgttggcactgaagaagaagaagacgcaagaagacttgctgaag
+caagttgatgcctggcttctcaatgtagaacaacaggta---------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+---------------------------
+>kriegeriana multi_hit_stitched_contig_comprising_2_hits
+cagcttgataaagtcattgaagctgagaagcaagctgctcgggacctaattaaagaaaag
+agaaaagatagagcattgttggcactgaagaagaagaagacgcaagaagagttgctgaag
+caagttgatgcctggcttctcaatgtagaacaacagttggcggatattgaactagcaagc
+aagcagaaggcggtgtttgaaagtttaaaggcaggtaataatgcaattaaagcgatacag
+------------------------------------------------------------
+------------------------------------------------------------
+---------------------------
+>kollmannii single_hit
+cagcttgataaagtcatcgaagccgagaagcaagcagcaaaggacctaattaaagagaag
+agaaaggatagggcgctgttggcgctgaagaagaagaagacacaagaagagttgctaaag
+caagtcgatacctggcttctcaatgtcgaacaacagctggcggatattgagctagcaagc
+aagcagaaggcagtgtttgaaagtttaaaggcaggtaataatgcaattaaagcgatacag
+agcgagataaacttggatgacgtccaaaagctggtggatgacactgctgaagctcaagct
+tatcaa------------------------------------------------------
+---------------------------
+>chrysophylla single_hit
+cagcttgataaagtcatcgaagccgagaagcaagcagcaaaggacctaattaaagagaag
+agaaaggatagagcgctgctggcgctgaagaagaaaaagacacaggaagagttgctgaag
+caagtcgatacctggcttctcaatgtcgaacaacaggtg---------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+---------------------------
+>heliotropoides single_hit
+cagcttgataaagtcatcgaagccgagaagcaagcagcaaaggacctaattaaagagaag
+agaaaggatagggcgctgctggcgctgaagaagaagaagacacaagaagagttgctaaag
+caagtcgatacctggcttctcaatgtcgaacaacagctggcggatattgaactagcaagc
+aagcagaaggcggtgtttgaaagtttaaaggcgggtagtagtgcaattaaagcgatacag
+ggcgagataaacttggacgacgttcaaaagctaatggatgacactgctgatgctcaagcg
+tatcaa------------------------------------------------------
+---------------------------
+>ferruginata multi_hit_stitched_contig_comprising_2_hits
+cagcttgataaagtcattgaagctgagaagcaagctgctcgggacctaattaaagaaaag
+agaaaagatagagcattgttggcactgaagaagaagaagacgcaagaagagttgctgaag
+caagttgatgcctggcttctcaatgtagaacaacagttggcggatattgaactagcaagc
+aagcagaaagccgtttatgaaagtttaaaggcgggtaacaatgcaattaaagcaatacaa
+agtgagataaacttggatgacgtccaaaagctaatggacgacactgctgaagctcaagct
+tatcaa------------------------------------------------------
+---------------------------
+>hyemalis single_hit
+cagcttgataaggtcatcgaagccgagaagcaagcagcgaaggacctaattaaagagaag
+agaaaggatagggcgctgctggcactgaagaagaagaagacacaagaagagttgctgaag
+caagttgatacctggcttctcaatgtcgaacaacaggta---------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+---------------------------
+>longispicata multi_hit_stitched_contig_comprising_2_hits
+cagcttgataaagtcattgaagctgagaagcaagctgctcgggacctaattaaagaaaag
+agaaaagatagagcattattggcactgaagaagaagaagacgcaagaagagttgctgaag
+caagttgatgcctggcttctcaatgtagaacaacagttggctgatattgaactatct---
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+---------------------------
+>laevigata single_hit
+cagcttgataaagtcatcgaagccgagaagcaagcagcgaaggacctaattaaagagaag
+agaaaggatagggcgctgctggcgctgaagaagaagaagacacaagaagagttgctaaag
+caagtcgatacctggcttctcaatgtcgaacaacagctggcggatattgaactagcaagc
+aagcagaaggcggtgtttgaaagtttaaaggcaggtaataatgcaattaaagcgatacag
+agcgagataaacttggatgacgtccaaatgctgatggatgacactgctgaagctcaagct
+tatcaa------------------------------------------------------
+---------------------------
+>mellina single_hit
+---cttgataaagtcattgaagctgagaagcaagctgctcgggacctaattaaagaaaag
+agaaaagatagagcattgttggcactgaagaagaagaagacgcaagaagagttgctgaag
+caagttgatgcctggcttctcaatgtagaacaacaggta---------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+---------------------------
+>lymanii single_hit
+cagcttgataaagtcatcgaagccgagaagcaagcagcaaaggacctaattaaagagaag
+agaaaggatagggcgctgttggcgctgaagaagaagaagacacaagaagagttgctaaag
+caagtcgatacctggcttctcaatgtcgaacaacagctggcggatattgaactagcaagc
+aagcagaaggcggtgtttgaaagtttaaaggcaggtaataatgcaattaaagcgatacag
+agtgagataaacttggatgacgtccaaaagctggtg------------------------
+------------------------------------------------------------
+---------------------------
+>macrothyrsa single_hit
+cagcttgataaagtcatcgaagccgagaagcaagcagcaaaggacctaattaaagagaag
+agaaaggatagggcgctgctggcgctgaagaagaagaagacacaagaagagttgctaaag
+caggtcgatacctggcttctcaatgtcgaacaacaggtg---------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+---------------------------
+>multispicata multi_hit_stitched_contig_comprising_2_hits
+cagcttgataaagtcattgaagctgagaagcaagctgctcgggacctaattaaagaaaag
+agaaaagatagagcattgttggcactgaagaagaagaagacgcaagaagagttgctgaag
+caagttgatgcctggcttctcaatgtagaacaacagttggcggatatcgaactatcaagc
+aagcagaaagccgtttttgaaagtttaaaggcgggcaacaatgcaattaaagcaata---
+------------------------------------------------------------
+------------------------------------------------------------
+---------------------------
+>lanata single_hit
+cagcttgataaagtcatcgaagccgagaagcaagcagcaaaggacctaattaaagagaag
+agaaaggatagggcgctgttggcgctgaagaagaagaagacacaagaagagttgctaaag
+caagtcgatacctggcttgtcaatgttgaacaacagctggcggatattgacctagcaagc
+aagcagaaggcggtgtttgaaagtttgaaggcaggtaataatgcaattaaagcgata---
+------------------------------------------------------------
+------------------------------------------------------------
+---------------------------
+>loutergiana single_hit
+---cttgataaagtcattgaagctgagaagcaagctgctcgggacctaattaaagaaaag
+agaaaagatagagcattgttggcactgaagaagaagaagacgcaagaagagttgctgaag
+caagttgatgcctggcttctcaatgtagaacaacagttggcggatattgaactatcaagc
+aagcagaaagccgtttttgaaagtttaaaggcgggtaacaatgcaattaaagcaatacaa
+agtgagataaacttggatgacatccaaaagctaatggacgacactgctgaagctcaagct
+tatcaa------------------------------------------------------
+---------------------------
+>oraria multi_hit_stitched_contig_comprising_2_hits
+cagcttgataaagtcattgaagctgagaagcaagctgctcgggacctaattaaagaaaag
+agaaaagatagagcattgttggcactgaagaagaagaagacgcaagaagagttgctgaag
+caagttgatgcctggcttctcaatgtagaacaacagttggcggatattgaactagcaagc
+aagcagaaggcggtgtttgaaagtttaaaggcaggtaataatgcaattaaagcgatacag
+agcgagataaacttggatgacgtccaaaagctgatg------------------------
+------------------------------------------------------------
+---------------------------
+>nambyquarae single_hit
+cagcttgataaagtcatcgaagccgagaagcgagcagcaaaggacttaattaaagagaag
+agaaaggatagggcgctgctggcgctgaagaagaagaagacacaagaagagttgctaaag
+caagtcgatacctggcttctcaatgtcgaacaacagctggcggatattgaactagcaagc
+aagcagaaggcggtgtttgaaagtttaaaggcaggtaataatgcaattaaagcgatacag
+agcgagataaacttggatgacgtccaaatgctgatggatgacactgctgaagctcaagct
+tatcaa------------------------------------------------------
+---------------------------
+>octopetala single_hit
+cagcttgataaagtcatcgaagccgagaagcaagcagtaaaggacctaattaaagagaag
+agaaaggatagggcgctgttggcgctgaagaagaagaagacacaagaagagttgctaaag
+caagtcgatacctggcttctcaatgtcgaacaacagctggcggatattgaactagcaagc
+aagcagaaggcggtgtttgaaagtttaaaggcaggtaataatgcaattaaagcgatacag
+agcgagataaacatggatgacgtccaaaagctggtg------------------------
+------------------------------------------------------------
+---------------------------
+>navioensis single_hit
+------------gtcattgaagctgagaagcaagctgctcgggacctaattaaagaaaag
+agaaaagatagagcattgttggcactgaagaagaagaagacgcaagaagagttgctgaag
+caagttgatgcctggcttctcaatgtagaacaacagttggcggatattgaactatcaagc
+aagcagaaagccgtttttgaaagtttaaaggcgggtaacaatgcaattaaagcaatacaa
+agtgagataaacttggatgacgtccaaaag------------------------------
+------------------------------------------------------------
+---------------------------
+>lepidota single_hit
+cagcttgataaagtcatcgaagccgagaagcaagcagcaaaggacctaattaaagagaag
+agaaaggatagggcgctgctggcgctgaagaagaagaagacacaagaagagttgctaaag
+caagtcgatacctggcttctcaatgtcgaacaacagctggcagatattgaactagcaagc
+aagcagaaggcggtgtttgaaagtttaaaggcaggtaataatgcaattaaagcgatacag
+agcgagataaacttggatgacgtccaaaagctgatg------------------------
+------------------------------------------------------------
+---------------------------
+>pepericarpa single_hit
+---cttgataaagtcattgaagctgagaagcaagctgctcgggacctaattaaagaaaag
+agaaaagatagagcattgttggcactgaagaagaagaagacgcaagaagagttgctgaag
+caagttgatgcctggcttctcaatgtagaacaacagttggcggatattgaactatcaagc
+aagcagaaagccgtttttgaaagtttaaaggcgggtaacaatgcaattaaagcaatacaa
+agtgagataagcttggatgacgtccaaaagctaatggacgac------------------
+------------------------------------------------------------
+---------------------------
+>polyandra multi_hit_stitched_contig_comprising_2_hits
+cagcttgataaagtcattgaagctgagaagcaagctgctcgggacctaattaaagaaaag
+agaaaagatagagcattgttggcactgaagaagaagaagacgcaagaagagttgctgaag
+caagttgatgcctggcttctcaatgtagaacaacagctggcggatattgaactagcaagc
+aagcagaaggcggtgtttgaaagtttaaaggcaggtaataatgcaattaaagcgatacag
+agcgagataaacttggatgacgtccaaaagctgatg------------------------
+------------------------------------------------------------
+---------------------------
+>organensis multi_hit_stitched_contig_comprising_2_hits
+cagcttgataaagtcattgaagctgagaagcaagctgctcgggaactaattaaagaaaag
+agaaaagatagagcattgttggcactgaagaagaagaagacgcaagaagagttgctgaag
+caagttgatgcctggcttctcaatgtagaacaacagttggcggatattgaactatcaagc
+aagcagaaagccgtttttgaaagtttaaaggcgggtaacaatgcaattaaagcaatacaa
+agtgagataagcttggatgacgtccaaaagctggtggatgacactgctgaagctcaagct
+tatcaa------------------------------------------------------
+---------------------------
+>punctata single_hit
+cagcttgataaagtcatcgaagccgagaagcaagcagcaaaggacctaattaaagagaag
+agaaaggatagagcgctgctggcgctgaagaagaaaaagacacaagaagagttgctgaag
+caagtcgatacctggcttctcaatgtcgaacaacagctggcggatattgaactagcaagc
+aagcagaaggcggtgtttgaaagtttaaaggcaggcaataatgcaattaaagcgatacag
+agcgagataaacttggatgacgtccaaaagctgatg------------------------
+------------------------------------------------------------
+---------------------------
+>renatogoldenbergii multi_hit_stitched_contig_comprising_2_hits
+caacttgataaagtcattgaagctgagaagcaagctgctcgggacctaattaaagaaaag
+agaaaagatagagcattgttggcactgaagaagaagaagacgcaagaagagttgctgaag
+caagttgatgcctggcttctcaatgtagaacagcagttagcggatattgaactatcaagc
+aagcagaaagccgtttttgaaagtttaaaggcgggtaacaatgcaattaaagcaatacaa
+agtgagataaacttggacgacatccaaaagctaatg------------------------
+------------------------------------------------------------
+---------------------------
+>robusta multi_hit_stitched_contig_comprising_2_hits
+cagcttgataaagtcattgaagctgagaagcaagctgctcgggacctaattaaagaaaag
+agaaaagatagagcattgttggcactgaagaagaagaagacgcaagaagagttgctgaag
+caagttgatgcctggcttctcaatgtagaacaacagttggcggatattgaactatcaagc
+aagcagaaagccgtttttgaaagtttaaaggcgggtaacaatgcaattaaagcaatacaa
+agtgagataagcttggatgacgtccaaaagctaatg------------------------
+------------------------------------------------------------
+---------------------------
+>pennipilis multi_hit_stitched_contig_comprising_2_hits
+cagcttgacaaagtcattgaagctgagaagcaagctactcgggacctaattaaagaaaag
+agaaaagatagagcattgttggcactgaagaagaagaagacgcaagaagagttgctgaag
+caagttgatgcctggcttctcaatgtagaacaacagttggcggatattgaactagcaagc
+aagcagaaagccgtttttgaaagtttaaaggcgggtaacaatgcaattaaagcaatacaa
+agtgagataaacttggatgacgtccaaaagctaatg------------------------
+------------------------------------------------------------
+---------------------------
+>rondoniensis multi_hit_stitched_contig_comprising_2_hits
+cagcttgataaagtcattgaagctgagaagcaagctgctcgggacctaattaaagaaaag
+agaaaagatagagcattgttggcactgaagaagaagaagacgcaagaagagttgctgaag
+caagttgatgcctggcttctcaatgtagaacaacagttggcggatattgaactagcaagc
+aagcagaaggcggtgtttgaaagtttaaaggcaggtaataatgcaattaaagcgatacag
+agcgagataaacttggatgacgtccaaaagctgatggatgacactgctgatgctcaagcg
+tatcaa------------------------------------------------------
+---------------------------
+>penduliflora single_hit
+cagcttgataaagtcatcgaagccgagaagcaagcagcaaaggacctaattaaagagaag
+agaaaggatagggcgctgttggcgctgaagaagaagaagacacaagaagagttgctaaag
+caagtcgatacctggcttctcaatgtcgaacaacagctggcggatattgaactagcaagc
+aagcagaaggcggtgtttgaaagtttaaaggcaggtaataatgcaattaaagcgatacag
+agcgagataaacttggatgacgtccaaaagctggtg------------------------
+------------------------------------------------------------
+---------------------------
+>racemifera single_hit
+cagcttgataaagtcatcgaagccgagaagcaagcagcaaaggacctaattaaagagaag
+agaaaggataaggcgctgttggcgctgaagaagaagaagacacaagaagagttgctaaag
+caagtcgatacctggcttctcaatgtcgaacaacaggta---------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+---------------------------
+>sclerophylla single_hit
+cagcttgataaagtcatcgaagccgagaagcaagcagcaaaggacctaattaaagagaag
+aaaaaggatagggcgctgctggcgctgaagaagaagaagacacaggaagagttgctgaag
+caagtcgatacctggctcctcaacgtcgaacaacaggtg---------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+---------------------------
+>rufescens multi_hit_stitched_contig_comprising_2_hits
+cagcttgataaagtcattgaagctgagaagcaagctgctcgggacctaattaaagaaaag
+agaaaagatagagcattgttggcactgaagaagaagaagacgcaagaagagttgctgaag
+caagttgatgcctggcttctcaatgtagaacaacagttggcggatattgaactagcaagc
+aagcagaaagccgtttatgaaagcttaaaggcgggtaacaatgcaattaaagcaatacaa
+agtgagataaacttggatgatgtccaaaagctaatggacgacactgctgaagctcaagct
+tatcaa------------------------------------------------------
+---------------------------
+>serialis multi_hit_stitched_contig_comprising_2_hits
+cagcttgataaagtcattgaagctgagaagcaagctgctcgggacctaattaaagaaaag
+agaaaagatagagcattgttggcactgaagaagaagaagacgcaagaagagttgctgaag
+caagttgatgcctggcttctcaatgtagaacaacagttggcggatattgaactg------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+---------------------------
+>setosociliata single_hit
+cagcttgataaagtcatcgaagccgagaagcaagcagcaaagcacctaattaaagagaag
+agaaaggatagggcgctgttggcgctgaagaagaagaagacacaagaagagttgctaaag
+caagtcgatacctggcttctcaatgtcgaacaacagctggcggatattgaactagcaagc
+aagcagaaggcggtgtttgaaagtttaaaggcaggtaataatgcaattaaagcgatacag
+agcgagataaacttggatgacgtccaaaagctggtggatgacactgctgaagctcaagct
+tatcaa------------------------------------------------------
+---------------------------
+>ruficalyx multi_hit_stitched_contig_comprising_2_hits
+cagcttgataaagtcattgaagctgagaagcaagctgctcgggacctaattaaagaaaag
+agaaaagatagagcattgttggcactgaagaagaagaagacgcaagaagagttgctgaag
+caagttgatgcctggcttctcaatgtagaacaacagttggcggatattgaactatcaagc
+aagcagaaagccgtttttgaaagtttaaaggcgggtaacaatgcaattaaagcaatacaa
+agtgagataaacttggacgacgtccaaaagctaatg------------------------
+------------------------------------------------------------
+---------------------------
+>pterocaulon single_hit
+------------gtcattgaagctgagaagcaagctgctcgggacctaattaaagaaaag
+agaaaagatagagcattgttggcactgaagaagaagaagacgcaagaagagttgctgaag
+caagttgatgcctggcttctcaatgtagaacaacaggta---------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+---------------------------
+>secundiflora multi_hit_stitched_contig_comprising_2_hits
+cagcttgataaagtcattgaagctgagaagcaagctgctcgggacctaattaaagaaaag
+agaaaagatagagcattgttggcactgaagaagaagaagacgcaagaagagttgctgaag
+caagttgatgcctggcttctcaatgtagaacaacagttggcggatattgaactatcaagc
+aagcagaaagccgtttttgaaagtttaaaggcgggtaacaatgcaattaaagcaatacaa
+agtgagataaacttggatgatgtccaaaagctaatg------------------------
+------------------------------------------------------------
+---------------------------
+>sylvatica single_hit
+---cttgataaagtcattgaagctgagaagcaagctgctcgggacctaattaaagaaaag
+agaaaagatagagcattattggcactaaagaagaagaagacgcaagaagagttgctgaag
+caagttgatgcctggcttctcaatgtagaacaacaggta---------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+---------------------------
+>schwackei single_hit
+---cttgataaagtcattgaagctgagaagcaagctgctcgggacctaattaaagaaaag
+agaaaagatagagcattgttggcactgaagaagaagaagacgcaagaagagttgctgaag
+caagttgatgcctggcttctcaatgtagaacaacagttggcggatattgaacttgcaagc
+aagcagaaagccgtttttgaaagtttgaaggcgggtaacaatgcaattaaagcaatacaa
+agtgagataaacttggatgacgtccaaaagctaatg------------------------
+------------------------------------------------------------
+---------------------------
+>suberosa single_hit
+cagcttgataaagtcatcgacgccgagaagcaagcagcaaaggacctaattaaagagaag
+agaaaggatagggcgctgttggcgctgaagaagaagaagacacaagaagagttgctaaag
+caagttgatacctggcttctcaatgtcgagcaacagctggcggatattgaactagcaagc
+aagcagaaggcggtgtttgaaagtttaaaggcaggtaataatgcaattaaagcgatacag
+agcgagataaacttggacgacgtccaaaagctaatggatgacactgctgatgctcaagcg
+tatcaa------------------------------------------------------
+---------------------------
+>triplinervis multi_hit_stitched_contig_comprising_2_hits
+---ctcgataaagtcattgaagctgagaagcaagctgctcgggacctaatcaaagaaaag
+agaaaagatagagcattgttggcactgaagaagaagaagacacaagaagagttgctgaag
+caagttgatacctggcttctcaatgtagaacaacagttggcggatattgaactagcaagc
+aagcagaaagccgtgtttgaaagtctcaaggcgggtaataatgcaattaaagcaatacag
+agtgagataaacttggatgacgttcaaaagctaatggatgacactgctgaagctcaagcc
+tatcaa------------------------------------------------------
+---------------------------
+>stenostachya multi_hit_stitched_contig_comprising_2_hits
+cagcttgataaagtcattgaagctgagaagcaagctgctcgggacctaattaaagaaaag
+agaaaagatagagcattgttggcactgaagaagaagaagacgcaagaagagttgctgaag
+caagttgatgcctggcttctcaatgtagaacaacagttggcggatattgaactatcaagc
+aagcagaaagccgtttttgaaagtttaaaagcgggtaacaatgcaattaaagcaatacaa
+agtgagataaacttggacgacgtccaaaagctaatg------------------------
+------------------------------------------------------------
+---------------------------
+>shepherdii multi_hit_stitched_contig_comprising_2_hits
+cagcttgataaagtcattgaagctgagaagcaagctgctcgggacctaattaaagaaaag
+agaaaagatagagcattgttggcactgaagaagaagaagacgcaagaagagttgctgaag
+caagttgatgcctggcttctcaatgtagaacaacagttggcggatattgaactatcaagc
+aagcagaaagccgtttttgaaagtttaaaggcgggtaacaatgcaattaaagcaatacaa
+agtgagataagcttg---------------------------------------------
+------------------------------------------------------------
+---------------------------
+>wittii single_hit
+------------gtcattgaagctgagaagcaagctgctcgggacctaattaaagaaaag
+agaaaagatagagcattgttggcactgaagaagaagaagacgcaagaagagttgctgaag
+caagttgatgcctggcttctcaatgtagaacaacagttagcggatattgaactatcaagc
+aagcagaaagccgtttttgaaagtttaaaggcgggtaacaatgca---------------
+------------------------------------------------------------
+------------------------------------------------------------
+---------------------------
+>tiliifolia single_hit
+---cttgataaagtcattgaagctgagaagcaagctgctcgggacctaattaaagaaaag
+agaaaagatagagcattgttggcactgaagaagaagaagacgcaagaagagttgctgaag
+caagttgatgcctggcttctcaatgtagaacaacagttggctgatattgaactatct---
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+---------------------------
+>valtheri multi_hit_stitched_contig_comprising_2_hits
+cagcttgataaagtcatcgaagccgagaagcaagcagcaaaggacctaattaaagagaag
+agaaaggatagagcgctgttggcgctgaagaagaaaaagacacaggaagagttgctgaag
+caagtcgatacctggctcctcaatgtcgaacaacagttggcggatattgaactaacaagc
+aagcagaaagccgtttttgaaagtttaaaggctggtaacaatgcaattaaagcaatacaa
+agtgagataaacttggatgacgtccaaaagctaatggatgacactgctgaagctcgagct
+tatcaa------------------------------------------------------
+---------------------------
+>wildenowii multi_hit_stitched_contig_comprising_2_hits
+cagcttgataaagtcattgaagctgagaagcaagctgctcgggacctaattaaagaaaag
+agaaaagatagagcattgttggcactgaagaagaagaagacgcaagaagagttgctgaag
+caagttgatgcctggcttctcaatgtagaacaacagttggcggatattgaactatcaagc
+aagcagaaagccgtttttgaaagtttaaaggcgggtaacaatgcaattaaagcaatacaa
+agtgagataagcttggatgacgtccaaaagctaatg------------------------
+------------------------------------------------------------
+---------------------------
+>weddellii single_hit
+------------gtcattgaagctgagaagcaagctgctcgggacctaattaaagaaaag
+agaaaagatagagcattgttggcactgaagaagaagaagacgcaagaagagttgctgaag
+caagttgatgcctggcttctcaatgtagaacaacaggta---------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+---------------------------
+>tentaculifera single_hit
+cagcttgataaagtcattgaagctgagaagcaagcagcaaaggacctaattaaagagaag
+agaaaggatagggcgctgttggcactgaagaagaagaagacacatgaagagttgctaaag
+caagtcgatacctggcttctcaatgtcgaacaacagttggcggatattgaactagcaagc
+aagcagaaggctgtgtttgaaagcttaaaggcgggtagtagtgcaattaaagcgatacag
+ggcgagataaacttggacgacgtccaaaagctaatg------------------------
+------------------------------------------------------------
+---------------------------

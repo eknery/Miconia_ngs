@@ -1,0 +1,36 @@
+>burchellii single_hit
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+agtgttgatggtttcagagctgtggttgagcgatttctcgacgtcgaggtctctggattg
+gatcgtaatgggaagcctatcaaagtagatgcctctggctggcaggcgagaatactgcaa
+catgaatgcgaccatctggaaggagttctgtacgtcgataaaatggtaccccggacattc
+agaactgtcgataatcttgacctgcctcttgcagacgggtgccccaagctaggggag---
+>dispar single_hit
+---------------atggtcgaggcaatgaggcgagctcccggcgtcgggctcgccgcc
+ccacaaatcggcatcccgttacagataattgtgttggaagataccagtgagtacataagt
+taccaacccatgtcggagatcaaagcacaagatagacgagcatttgatctcttggttata
+ataaaccccaagctgatcaagaagagcaagcgaaccgctcttttctttgaaggatgtttg
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+>ferruginata single_hit
+aagataatcgacgacatggtcgaggcaatgaggcgagctcccggcgtcgggctcgccgcc
+ccacaaatcggcatcccgttacagataattgtgttggaagataccagtgagtacataagt
+taccaacccatgtcggagatcaaagcacaagatagacgagcatttgatctcttggttata
+ataaaccccaagctgatcaagaaaagcaagcgaaccgctcttttctttgaaggatgtttg
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+>setosociliata multi_hit_stitched_contig_comprising_2_hits
+------------------------------------------------------------
+------------------------ataattgtgttggaagataccagtgagtacataagt
+taccaacccatgtcggagatcaaagcacaagataggcgagcatttgatctcttggttata
+ataaaccccaagctgatcaagaagagcaagcgaaccgctcttttctttgaaggatgtttg
+agtgttgatggtttcagagctgtggttgagcgatttctcgacgtcgaggtctccggattg
+gatcgtaatgggaagcctatcaaagtagatgcctctggctggcaggcgagaatactgcaa
+catgaatgcgaccatctggaaggagttctgtacgtcgataaaatggtaccccggacattc
+agaactgtcgataatcttgacctgcctcttgcagacgggtgccccatgctaggggagcgc
