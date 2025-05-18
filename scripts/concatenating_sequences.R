@@ -6,12 +6,12 @@ spp_names = spp_names$V1
 ### choose data type
 dtype = "1_skimm_data/"
 ### all species names
-n_spp = read.table(paste0(dtype, "n_spp.txt"), h=F)
-n_spp = n_spp$V1
+n_spp = read.table(paste0(dtype, "n_spp.txt"), h=T)
+n_spp = n_spp$x
 ### list file names
 loci_names = list.files(path = paste0(dtype, "2_completed_aligned_sequences"), pattern = ".FNA")
 ### loci and number of sequences
-loci_nspp = as.data.frame(cbind(loci_names,  c(44,n_spp)))
+loci_nspp = as.data.frame(cbind(loci_names,  c(n_spp)))
 ### pick the first aligment
 concatenation = read.fasta(paste0(dtype,"2_completed_aligned_sequences/", loci_names[1]))
 ### minimum number of species to consider a locus
