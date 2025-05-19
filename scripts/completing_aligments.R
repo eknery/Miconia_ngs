@@ -4,10 +4,10 @@ library("seqinr")
 spp_names = read.table("spp_names.txt", h=F)
 spp_names = spp_names$V1
 ### choose data type
-dtype = "1_skimm_data/"
+dtype = "1_target_data/"
 ### list file names
 loci_names = list.files(path = paste0(dtype,"1_aligned_sequences"), pattern = ".FNA")
-### number of species in each aligment
+### number of species in each alignment
 n_spp = c()
 ### loop 
 for(i in 1:length(loci_names)){
@@ -40,7 +40,7 @@ for(i in 1:length(loci_names)){
     },
     error = function(e) {
       n_spp = c(n_spp, 0)
-      cat("Skipping: ", loci_names[i])
+      cat("Skipping: ", loci_names[i],"; ")
       return(NULL)  # Return NULL to indicate failure
     }
   )

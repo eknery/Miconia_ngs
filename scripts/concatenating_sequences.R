@@ -4,7 +4,7 @@ library("seqinr")
 spp_names = read.table("spp_names.txt", h=F)
 spp_names = spp_names$V1
 ### choose data type
-dtype = "1_skimm_data/"
+dtype = "1_target_data/"
 ### all species names
 n_spp = read.table(paste0(dtype, "n_spp.txt"), h=T)
 n_spp = n_spp$x
@@ -15,7 +15,7 @@ loci_nspp = as.data.frame(cbind(loci_names,  c(n_spp)))
 ### pick the first aligment
 concatenation = read.fasta(paste0(dtype,"2_completed_aligned_sequences/", loci_names[1]))
 ### minimum number of species to consider a locus
-min_nspp = 42
+min_nspp = 79
 ### loop
 for(i in 2:length(loci_names) ){
   ### pick other locus
@@ -32,12 +32,15 @@ for(i in 2:length(loci_names) ){
   }
 }
 
+### number of loci selected
+n_loci = sum(n_spp >= min_nspp)
+
 ### export
 dir_out = "3_concatenated_sequences/"
 write.fasta(
   sequences = concatenation, 
   as.string = F, 
   names = spp_names,
-  file.out = paste0(dtype, dir_out, "all_loci.fasta"),
+  file.out = paste0(dtype, dir_out,n_loci,"_loci.fasta"),
   nbchar = 100
 )
