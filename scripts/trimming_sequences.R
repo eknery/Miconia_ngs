@@ -5,10 +5,13 @@ if(!require("ape")) install.packages("ape"); library("ape")
 ### choose data type
 dtype = "1_target_data/"
 
-### chose directory with FASTA data
+### chose input directory
 dir_input = "1_aligned_sequences/"
 
-### list FASTA names
+### choose output directory
+dir_out = "2_trimmed_sequences/"
+
+### list locus names
 loci_names = list.files(path = paste0(dtype, dir_input), pattern = ".FNA")
 
 ### trimming loci in loop
@@ -31,22 +34,25 @@ for(i in 1:length(loci_names) ){
     )
   ### convert back to matrix
   mtx_trim = as.matrix(as.character(trim))
-  ### convert back to list
-  list_trim = list()
-  for(i in 1:nrow(mtx_trim)){
-    list_trim[[i]] = paste0(mtx_trim[i,], collapse = "")
+  ### check if there sites left
+  if(ncol(mtx_trim) > 0){
+    ### convert back to list
+    list_trim = list()
+    for(i in 1:nrow(mtx_trim)){
+      list_trim[[i]] = paste0(mtx_trim[i,], collapse = "")
+    }
+    names(list_trim) = spp_names
+    ### export
+    write.fasta(
+      sequences = list_trim, 
+      as.string = T, 
+      names = spp_names,
+      file.out = paste0(dtype, dir_out, locus_name),
+      nbchar = 100
+    )
+    ### check!
+    print(paste0("Trimming done: ", locus_name)) 
   }
-  names(list_trim) = spp_names
-  ### export
-  write.fasta(
-    sequences = list_trim, 
-    as.string = T, 
-    names = spp_names,
-    file.out = paste0(dtype, "2_trimmed_sequences/", locus_name),
-    nbchar = 100
-  )
-  ### check!
-  print(paste0("Trimming done: ", locus_name)) 
   },
   error = function(e) {
     print(paste0("Skipping: ", locus_name))

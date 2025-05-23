@@ -76,7 +76,7 @@ dir_out = "5_concatenated_sequences/"
 write.fasta(
   sequences = conc_loci , 
   as.string = F, 
-  names = spp_names,
-  file.out = paste0(dtype, dir_out,n_loci,"_loci.fasta" ),
+  names = all_spp_names,
+  file.out = paste0(dtype, dir_out, n_loci,"_loci", max_nspp,"_spp.fasta"),
   nbchar = 1000
 )

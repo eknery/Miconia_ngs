@@ -35,7 +35,7 @@ spp_remove = c(
 )
 
 ### minimum number of species to maintain a locus
-min_nspp = 60
+min_nspp = 6
 
 ### trimming loci in loop
 for(i in 1:length(loci_names) ){

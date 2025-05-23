@@ -21,7 +21,7 @@ for(i in 1:length(loci_names)){
   ### name of one locus
   locus_name = loci_names[i]
   ### load alignment
-  one_locus = read.phyDat(paste0(dtype, dir_input,  locus_name),
+  one_locus = read.phyDat(paste0(dtype, dir_input, locus_name),
               format = "fasta",
               type = "DNA"
   )
