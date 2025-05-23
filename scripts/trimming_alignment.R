@@ -5,40 +5,51 @@ library("ape")
 ### choose data type
 dtype = "1_target_data/"
 
-### chose alignmnet directory
-dir_align = "3_concatenated_sequences/"
+### chose directory with FASTA data
+fdir = "1_aligned_sequences/"
 
-### load alignment
-align = read.fasta(paste0(dtype, dir_align, "201_loci.fasta"))
+### list FASTA names
+loci_names = list.files(path = paste0(dtype, fdir), pattern = ".FNA")
 
-### species names e number of sites
-spp_names = names(align)
-n_sites = length(align[[1]])
-
-### converting to a matrix
-mtx_align = matrix(unlist(align), ncol = n_sites, byrow = T)
-
-### trimming
-trim_align = del.colgapsonly(x = mtx_align, 
-                                 threshold = 0.1,
-                                 freq.only = FALSE)
-
-### convert back to matrix
-mtx = as.matrix(as.character(trim_align))
-
-### convert back to list
-list_trim = list()
-for(i in 1:nrow(mtx)){
-  list_trim[[i]] = paste0(mtx[i,], collapse = "")
+### trimming loci in loop
+for(i in 1:length(loci_names) ){
+  ### name of one locus
+  locus_name = loci_names[i]
+  tryCatch({
+  ### load alignment
+  one_locus = read.fasta(paste0(dtype, fdir, locus_name))
+  ### species names e number of sites
+  spp_names = names(one_locus)
+  n_sites = length(one_locus[[1]])
+  ### converting to a matrix
+  mtx_locus = matrix(unlist(one_locus), ncol = n_sites, byrow = T)
+  ### trimming
+  trim = del.colgapsonly(
+    x = mtx_locus, 
+    threshold = 0.1,
+    freq.only = FALSE
+    )
+  ### convert back to matrix
+  mtx_trim = as.matrix(as.character(trim))
+  ### convert back to list
+  list_trim = list()
+  for(i in 1:nrow(mtx_trim)){
+    list_trim[[i]] = paste0(mtx_trim[i,], collapse = "")
+  }
+  names(list_trim) = spp_names
+  ### export
+  write.fasta(
+    sequences = list_trim, 
+    as.string = T, 
+    names = spp_names,
+    file.out = paste0(dtype, "2_trimmed_sequences/", locus_name),
+    nbchar = 100
+  )
+  ### check!
+  print(paste0("Trimming done: ", locus_name)) 
+  },
+  error = function(e) {
+    print(paste0("Skipping: ", locus_name))
+    return(NULL)  # Return NULL to indicate failure
+  })
 }
-names(list_trim) = spp_names
-
-### export
-write.fasta(
-  sequences = list_trim, 
-  as.string = T, 
-  names = spp_names,
-  file.out = paste0(dtype, "4_trimmed_sequences", "trim_201_loci.fasta"),
-  nbchar = 100
-)
-
