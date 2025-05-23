@@ -21,9 +21,6 @@ for(i in 1:length(loci_names)){
   all_spp_names = sort(unique(c(all_spp_names, spp_names)))
 }
 
-### maximum number of species
-max_nspp = length(all_spp_names)
-
 ############################### COMPLETING SEQUENCES ###########################
 
 ### list with sequences completed for missing species
@@ -69,14 +66,17 @@ for(i in 2:length(complete_loci)){
 ### number of loci
 n_loci = length(loci_names)
 
+### number of species
+n_spp = length(all_spp_names)
+
 ### choose directory with sequences
 dir_out = "5_concatenated_sequences/"
 
 ### export
 write.fasta(
-  sequences = conc_loci , 
+  sequences = conc_loci, 
   as.string = F, 
   names = all_spp_names,
-  file.out = paste0(dtype, dir_out, n_loci,"_loci", max_nspp,"_spp.fasta"),
+  file.out = paste0(dtype, dir_out, n_loci,"_loci", n_spp,"_spp.fasta"),
   nbchar = 1000
 )
