@@ -77,6 +77,6 @@ write.fasta(
   sequences = conc_loci, 
   as.string = F, 
   names = all_spp_names,
-  file.out = paste0(dtype, dir_out, n_loci,"_loci", n_spp,"_spp.fasta"),
+  file.out = paste0(dtype, dir_out, n_loci,"_loci_", n_spp,"_spp.fasta"),
   nbchar = 1000
 )

@@ -1,6 +1,3 @@
->amoena
-gatctgtctggcagaccccatttaagctttgatttgcaactatctacgctaagggtcggaacatacgacactcagctggtggagcacttcttccaatctt
-tagtgaatacgtccggcatgacccttcgcatcaggcag---
 >amnicola
 gatctgtctggcagaccccatttaatctttgatttgcaactatctacgctaagggtcggaacatacgacactcagctggtggagcacttcttccaatctt
 tagtgaatacgtccggcatgacccttcacatcaggcagcta
@@ -19,6 +16,12 @@ tagtgaatacgtccggcatgacccttcacatcaggcaggta
 >brunnea
 gatctgtctggcagaccccatttaagctttgatttgcaactatctacgctaagggtcggaacatacgacactcagctggtggagcacttcttccaatctt
 tagtgaatacgtctggcatgacccttcacatcaggcaggta
+>buddlejoides
+----------------------------------------------------------------------------------------------------
+-----------------------------------------
+>burchellii
+nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnncagcta
 >atlantica
 gatctgtctggcagaccccatttaagctttgatttgcaactatcaacgctaagggtcggaacatacgacactcagctggtggagcacttcttccaatctt
 tagtgaatacgtccggcatgacccttcacatcaggcaggta
@@ -64,6 +67,12 @@ tagtgaatacgtccggcatgacccttcacatcaggcaggta
 >fasciculata
 gatctgtctggcagaccccatttaagctttgatttgcaactatctacgctaagggtcggaacatacgacactcagctggtggagcacttcttccaatctt
 tagtgaatacgtccggcatgacccttcacatcaggcaggta
+>cyathanthera
+gatctgtctggcagaccccatttaagctttgatttgcaactatctacgcaaagggtcggaacatacgacactcagctggtggagcacttcttcgaatctt
+tagtgaatacgtccggcatgacccttcacatcaggcagcta
+>fallax
+nnnnnnnnnnnnnnnnnncatttaagctttgatttgcaactatctacgctaagggtcggaacatacgacactcagctggtggagcacttcttccaatctt
+tagtgaatgcgtccggcatgacccttcacgtcaggcag---
 >formosa
 gatctgtctggcagaccccatttaagctttgatttgcaactatctacgctaagggtcggaacatacgacactcagctggtggagcacttcttccaatctt
 tagtgaatacgtccggcatgacccttcacatcaggcaggta
@@ -151,6 +160,9 @@ tagtgaatacgtccggcatgacccttcacatcaggcaggta
 >racemifera
 gatctgtctggcagaccccatttaagctttgatttgcaactatctacgctatgggtcggaacatacgacactcagctggtggagcacttcttccaatctt
 tagtgaatacgtccggcacgacccttcacatcaggcaggta
+>sclerophylla
+gatctgtctggcagaccccatttaagctttgatttgcaactatctacgctaagggtcggaacatacgacactcagctggtggagcacttcttccaatctt
+tagtgaatacgtccggcatgacccttcacatcaggcaggta
 >rufescens
 gatctgtctggcagaccccatttaagctttgatttgcaactatctacgctaagggtcggaacatacgacactcagctggtggagcacttcttccaatctt
 tagtgaatacgtccggcatgacccttcacattaggcaggta
@@ -160,6 +172,9 @@ tagtgaatacgtccggcatgacccttcacatcaggcaggta
 >setosociliata
 gatctgtctggcagaccccatttaagctttgatttgcaactatctacgctaagggtcgaaacatacgacactcagctggtggagcacttcttccaatctt
 tagtgaatacgtccggcatgacccttcacatcaggcagcta
+>ruficalyx
+gatctgtctggcagaccccatttaagctttgatttgcaactatctacgctaagggtcggaacatacgacactcagctggtggagcacttcttccaatctt
+tagtgaatacgtccggcatgacccttcacatcaggcaggta
 >pterocaulon
 nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnagggtcagaacatacgacactcagctggtggagcacttcttccaatctt
 tagtgaatacgtccggcatgacccttcacatcaggcaggta
@@ -169,6 +184,9 @@ tagtgaatacgtccggcatgacccttcacatcaggcaggta
 >sylvatica
 gatctgtctggcagaccccatttaagctttgatttgcaactatctacgctaagggtcggaacatacgacactcagctggtggagcacttcttccaatctt
 tagtgaatacgtccggcatgacccttcacatcaggcaggta
+>schwackei
+gatctgtctggtagaccccatttaagctttgatttgcaactatctacgcaaagggttggaacatacgacactcagctgctggagcacttcttccaatctt
+tagcgaatacgtccggcatgacccttcacatcaggcagcta
 >suberosa
 gatctgtctggcagaccccatttaagctttgatttgcaactatctacgctaagggtcggaacatacgacactcagctggtggagcacttcttccaatctt
 tagtgaatacgtccggcatgacccttcacatcaggcaggta

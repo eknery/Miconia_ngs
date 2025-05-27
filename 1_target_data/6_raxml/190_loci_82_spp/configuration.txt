@@ -1,0 +1,2 @@
+trimming below: 10%
+min species for selecting a locus: 65

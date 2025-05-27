@@ -5,7 +5,7 @@ if(!require("ape")) install.packages("ape"); library("ape")
 ### choose data type
 dtype = "1_target_data/"
 
-### chose directory with FASTA data
+### choose input directory
 dir_input = "2_trimmed_sequences/"
 
 ### list FASTA names
@@ -14,11 +14,12 @@ loci_names = list.files(path = paste0(dtype, dir_input), pattern = ".FNA")
 ### species to remove
 spp_remove = c(
   "albicans",
-  "buddlejoides",
-  "burchellii",
+  "amoena",
+  #"buddlejoides",
+  #"burchellii",
   "castaneiflora",
   "collatata",
-  "cyathanthera",
+  #"cyathanthera",
   "dorsaliporosa",
   "elata",
   "eriodonta",
@@ -26,16 +27,14 @@ spp_remove = c(
   "hyemalis",
   "lanata",
   "pennipilis",
-  "petroniana",
-  "ruficalyx",
-  "schwackei",
+  #"petroniana",
+  #"ruficalyx",
   "sclerophylla",
-  "triplinervis",
   "valtheri"
 )
 
 ### minimum number of species to maintain a locus
-min_nspp = 6
+min_nspp = 70
 
 ### trimming loci in loop
 for(i in 1:length(loci_names) ){
