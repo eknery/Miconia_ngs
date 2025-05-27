@@ -2,17 +2,14 @@
 if(!require("seqinr")) install.packages("seqinr"); library("seqinr")
 if(!require("ape")) install.packages("ape"); library("ape")
 
-### choose data type
-dtype = "1_target_data/"
-
 ### chose input directory
-dir_input = "1_aligned_sequences/"
+dir_input = "2_selected_sequences/"
 
 ### choose output directory
-dir_out = "2_trimmed_sequences/"
+dir_out = "3_trimmed_sequences/"
 
 ### list locus names
-loci_names = list.files(path = paste0(dtype, dir_input), pattern = ".FNA")
+loci_names = list.files(path = paste0(dir_input), pattern = ".FNA")
 
 ### trimming loci in loop
 for(i in 1:length(loci_names) ){
@@ -20,7 +17,7 @@ for(i in 1:length(loci_names) ){
   locus_name = loci_names[i]
   tryCatch({
   ### load alignment
-  one_locus = read.fasta(paste0(dtype, dir_input, locus_name))
+  one_locus = read.fasta(paste0( dir_input, locus_name))
   ### species names e number of sites
   spp_names = names(one_locus)
   n_sites = length(one_locus[[1]])
@@ -29,7 +26,7 @@ for(i in 1:length(loci_names) ){
   ### trimming
   trim = del.colgapsonly(
     x = mtx_locus, 
-    threshold = 0.1,
+    threshold = 0.5,
     freq.only = FALSE
     )
   ### convert back to matrix
@@ -47,7 +44,7 @@ for(i in 1:length(loci_names) ){
       sequences = list_trim, 
       as.string = T, 
       names = spp_names,
-      file.out = paste0(dtype, dir_out, locus_name),
+      file.out = paste0(dir_out, locus_name),
       nbchar = 100
     )
     ### check!

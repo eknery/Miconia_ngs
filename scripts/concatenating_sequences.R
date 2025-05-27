@@ -2,21 +2,17 @@
 if(!require("seqinr")) install.packages("seqinr"); library("seqinr")
 if(!require("ape")) install.packages("ape"); library("ape")
 
-### choose data type
-dtype = "1_target_data/"
-
 ### choose directory with sequences
-dir_input = "3_selected_sequences/"
+dir_input = "3_trimmed_sequences/"
 
 ### list file names
-loci_names = list.files(path = paste0(dtype,dir_input), 
-                        pattern = ".FNA")
+loci_names = list.files(path = paste0(dir_input), pattern = ".FNA")
 
 ### getting all species names across loci
 all_spp_names = c()
 for(i in 1:length(loci_names)){
   locus_name = loci_names[i]
-  one_locus = read.fasta(paste0(dtype, dir_input, locus_name))  
+  one_locus = read.fasta(paste0(dir_input, locus_name))  
   spp_names = names(one_locus)
   all_spp_names = sort(unique(c(all_spp_names, spp_names)))
 }
@@ -31,7 +27,7 @@ for(i in 1:length(loci_names) ){
     ### one locus name
     locus_name = loci_names[i]
     ### pick one locus
-    one_locus = read.fasta(paste0(dtype, dir_input, locus_name))  
+    one_locus = read.fasta(paste0(dir_input, locus_name))  
     ### number of sites
     n_sites = length(one_locus[[1]])
     ### species sampled
@@ -77,6 +73,6 @@ write.fasta(
   sequences = conc_loci, 
   as.string = F, 
   names = all_spp_names,
-  file.out = paste0(dtype, dir_out, n_loci,"_loci_", n_spp,"_spp.fasta"),
+  file.out = paste0(dir_out, n_loci,"_loci_", n_spp,"_spp.fas"),
   nbchar = 1000
 )
