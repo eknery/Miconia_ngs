@@ -1,28 +1,20 @@
->brunnea single_hit
-------------------------------------------------------------
-------------------------------------------------------------
-------------------------------------------------------------
----------------------------------------gggttctattacatcgaatat
-tccctgcaaaatcccggagaatctaagagacacatatactcggctctcggaatggcttcg
+>brunnea
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+-------------------gggttctattacatcgaatattccctgcaaaatcccggagaatctaagagacacatatactcggctctcggaatggcttcg
 aacggttggtacaatagattatacaccgtcaccggacagtatccggaagaggag
->hyemalis single_hit
-------------------------------------------------------------
-gtcagcgttgcgattactgggattggaccggatttcaccaccttgggatctttcggaaaa
-gtcgatgtgtttgcagaaactctggtaaatggattggacagaagctggaaaaggccgccc
-ggcatcgcagctaagctcatcgattgtaaagatgccaacgggttctattacattgagtat
-tccctgcaaaatcccggagaatctaagagacacatatactcggctctcggaatggcttcg
+>hyemalis
+------------------------------------------------------------gtcagcgttgcgattactgggattggaccggatttcacca
+ccttgggatctttcggaaaagtcgatgtgtttgcagaaactctggtaaatggattggacagaagctggaaaaggccgcccggcatcgcagctaagctcat
+cgattgtaaagatgccaacgggttctattacattgagtattccctgcaaaatcccggagaatctaagagacacatatactcggctctcggaatggcttcg
 aacggttggtacaacagattgtacaccgtcactggacagtatccggaagaggag
->lymanii single_hit
-gaaccgactggattcaagtcggtcaccgctttctttcctaatggggattcatcttccaat
-gtcagcgttgcgattactggcgtcggaccggacttcaccaccttgggatcttttggaaaa
-gtcgatgcgttcgcagaaactctggtgaatggattggacagaagctggaaaaggccgccc
-ggcgtcgcggctaagctcatcgattgtaaagatgccaacgggttctattacattgagtat
-tccctgcaaaatcccggagaatctaagagacacatatactcggctctcggaatggcttcg
+>lymanii
+gaaccgactggattcaagtcggtcaccgctttctttcctaatggggattcatcttccaatgtcagcgttgcgattactggcgtcggaccggacttcacca
+ccttgggatcttttggaaaagtcgatgcgttcgcagaaactctggtgaatggattggacagaagctggaaaaggccgcccggcgtcgcggctaagctcat
+cgattgtaaagatgccaacgggttctattacattgagtattccctgcaaaatcccggagaatctaagagacacatatactcggctctcggaatggcttcg
 aacggttggtacaacagattatacaccgtcactggacag---------------
->tentaculifera single_hit
-------------------------------------------------------------
-------------------------------------------------------------
-------------------------------------------------------------
----------------------------------------gggttctactacattgagtat
-tctctgcaaaatcccggagaatctaagagacacgtatactcggctctcggaatggcttca
+>tentaculifera
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+-------------------gggttctactacattgagtattctctgcaaaatcccggagaatctaagagacacgtatactcggctctcggaatggcttca
 aacggttggtacaacagattatacaccgtcaccggacag---------------

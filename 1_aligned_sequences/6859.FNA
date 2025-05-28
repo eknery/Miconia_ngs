@@ -1,12 +1,8 @@
->cyathanthera single_hit
-cagggtatcgttggattcggcatcggtctagcagcgatgggaaatcgtgcgatagcggag
-atacagtttgcggactatattttcccagccttcgatcagattgtgaatgaagctgcgaag
-tttagatatcgaagtgggaatcagtttaattgtggaggtttgactataagagcgccttat
-ggagctgttggacatggcggacattatcattcgcagtcgccagaggcattcttctgtcac
-gtccccggtatcaaagta
->laevigata single_hit
-------------------------------------------------------------
----------------------------------------attgtgaatgaagctgcgaag
-tttagatatcgaagtgggaatcagtttaattgtggaggtttgactatacgagcgccttat
-ggagctgttggacatggcggacattatcattcgcagtcgccagaggcattcttctgtcac
-gtccctggtatcaaagta
+>cyathanthera
+cagggtatcgttggattcggcatcggtctagcagcgatgggaaatcgtgcgatagcggagatacagtttgcggactatattttcccagccttcgatcaga
+ttgtgaatgaagctgcgaagtttagatatcgaagtgggaatcagtttaattgtggaggtttgactataagagcgccttatggagctgttggacatggcgg
+acattatcattcgcagtcgccagaggcattcttctgtcacgtccccggtatcaaagta
+>laevigata
+---------------------------------------------------------------------------------------------------a
+ttgtgaatgaagctgcgaagtttagatatcgaagtgggaatcagtttaattgtggaggtttgactatacgagcgccttatggagctgttggacatggcgg
+acattatcattcgcagtcgccagaggcattcttctgtcacgtccctggtatcaaagta

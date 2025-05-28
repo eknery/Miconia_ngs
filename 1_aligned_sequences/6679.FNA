@@ -1,44 +1,33 @@
->amoena single_hit
----------------------------------------------------------gca
-gtcattttgcaacctctaggggacaggggaattgcagtcattggtggtgacacgataagg
-ggcttcactacatctgatcag
->amnicola single_hit
----------------------------------------------------------gca
-gtcattttgcaacctctaggggacaggggaattgcagtcattggtggtgacacgataagg
-ggcttcactacatctgatcag
->brunnea single_hit
----------------------------------------------------------gca
-gtcattttgcaacctctaggggacaggggaattgcagtcattggtggtgacacgataagg
-ggcttcactacatctgatcag
->cubatanensis single_hit
-------------------------------------------------------caggca
-gtcattttgcaacctctaggggacaggggaattgcagtcattggtggtgacacgataagg
-ggcttcactacatctgatcag
->lymanii single_hit
-aactacctggccaatttatctctttatccagggagtacagagctgtccttcttgtaggca
-gtcattttgcaacctcttggggacaggggaattgcagtcattggtggtgacacgataagg
-ggcttcactacatctgatcag
->organensis single_hit
----------------------------------------------------------gca
-gtcattttgcaacctctaggggacaggggaattgcagtcattggtggtgacacgataagg
-ggcttcactacatctgatcag
->renatogoldenbergii single_hit
----------------------------------------------------------gca
-gtcattttgcaacctctaggggacaggggaattgcagtcattggtggtgacacgataagg
-ggcttcactacatctgatcag
->setosociliata single_hit
----------------------------------------------------------gca
-gtcattttgcaacctctaggggacaggggaattgcagtcattggtggtgacacgataagg
-ggcttcact------------
->pterocaulon single_hit
----------------------------------------------------------gca
-gtcattttgcaacctctaggggacaggggaattgcagtcattggtggtgacacgataagg
-ggcttcactacatctgatcag
->stenostachya single_hit
----------------------------------------------------------gca
-gtcattttgcaacctctaggggacaggggaattgcagtcattggtggtgacacgataagg
-ggcttcactacatctgatcag
->tiliifolia single_hit
----------------------------------------------------------gca
-gtcattttgcaacctctaggggacaggggaattgcagtcattggtggtgacacgataagg
-ggcttcactacatctgatcag
+>amoena
+---------------------------------------------------------gcagtcattttgcaacctctaggggacaggggaattgcagtca
+ttggtggtgacacgataaggggcttcactacatctgatcag
+>amnicola
+---------------------------------------------------------gcagtcattttgcaacctctaggggacaggggaattgcagtca
+ttggtggtgacacgataaggggcttcactacatctgatcag
+>brunnea
+---------------------------------------------------------gcagtcattttgcaacctctaggggacaggggaattgcagtca
+ttggtggtgacacgataaggggcttcactacatctgatcag
+>cubatanensis
+------------------------------------------------------caggcagtcattttgcaacctctaggggacaggggaattgcagtca
+ttggtggtgacacgataaggggcttcactacatctgatcag
+>lymanii
+aactacctggccaatttatctctttatccagggagtacagagctgtccttcttgtaggcagtcattttgcaacctcttggggacaggggaattgcagtca
+ttggtggtgacacgataaggggcttcactacatctgatcag
+>organensis
+---------------------------------------------------------gcagtcattttgcaacctctaggggacaggggaattgcagtca
+ttggtggtgacacgataaggggcttcactacatctgatcag
+>renatogoldenbergii
+---------------------------------------------------------gcagtcattttgcaacctctaggggacaggggaattgcagtca
+ttggtggtgacacgataaggggcttcactacatctgatcag
+>setosociliata
+---------------------------------------------------------gcagtcattttgcaacctctaggggacaggggaattgcagtca
+ttggtggtgacacgataaggggcttcact------------
+>pterocaulon
+---------------------------------------------------------gcagtcattttgcaacctctaggggacaggggaattgcagtca
+ttggtggtgacacgataaggggcttcactacatctgatcag
+>stenostachya
+---------------------------------------------------------gcagtcattttgcaacctctaggggacaggggaattgcagtca
+ttggtggtgacacgataaggggcttcactacatctgatcag
+>tiliifolia
+---------------------------------------------------------gcagtcattttgcaacctctaggggacaggggaattgcagtca
+ttggtggtgacacgataaggggcttcactacatctgatcag

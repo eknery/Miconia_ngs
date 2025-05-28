@@ -10,24 +10,17 @@ loci_names = list.files(path = paste0(dir_input), pattern = ".FNA")
 
 ### species to remove
 spp_remove = c(
-  "albicans",
   "amoena",
-  "castaneiflora",
   "collatata",
   "dorsaliporosa",
   "elata",
-  "eriodonta",
-  "fallax",
-  "hyemalis",
   "lanata",
   "pennipilis",
-  "sclerophylla",
-  "triplinervis",
-  "valtheri"
+  "triplinervis"
 )
 
 ### minimum number of species to maintain a locus
-min_nspp = 65
+min_nspp = 50
 
 ### trimming loci in loop
 for(i in 1:length(loci_names) ){
@@ -67,25 +60,21 @@ for(i in 1:length(loci_names) ){
 dir_input = "0_sanger_data/"
 
 ### locus name
-locus_name = "ITS"
+locus_name = "ETS"
 
 ### list FASTA names
 sanger = read.fasta(paste0(dir_input, locus_name,"_aligned.fas"))
 
 ### species to remove
 spp_remove = c(
+  "albicans",
   "amoena",
-  "castaneiflora",
   "collatata",
   "dorsaliporosa",
   "elata",
-  "eriodonta",
-  "hyemalis",
   "lanata",
   "pennipilis",
-  "sclerophylla",
-  "triplinervis",
-  "valtheri"
+  "triplinervis"
 )
 
 ### remvoving species

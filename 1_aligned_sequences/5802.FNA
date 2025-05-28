@@ -1,492 +1,324 @@
->amoena single_hit
-gaactcttcatttgcattgttgtgcacaatattgatgggcctggattgagggattccgac
-attcaacagtatcttgcccgaatagctgcttgttcccatattcgcatcattgcttcaatt
-gaccatgttaatgcccctctgttgtgggacaagaagatggtcgacatgcagttcaactgg
-ttttggcatcatacccctacctttgaatcttacacggttgaaggcatgttctttcctttg
-attttaacaaatggaagctcgagccaa
->albicans single_hit
-------------------------------------------------------------
-------------------------------------------------------------
----------------------gtgtgggacaagaagatggtcgacatgcagttcaactgg
-ttttggcatcatacccctacctttgaaccttacacggttgaaggcatgttctttcctttg
-attttaacaaatggaagctcgagccaa
->amnicola single_hit
-------------------------------------gggcctggattgagggattccgac
-attcaacagtatcttgcccgaatagctgcttgttcccatattcgcatcattgcttcaatt
-gaccatgttaatgcccctctgttgtgggacaagaagatggtcgacatgcagttcaactgg
-gtttggcatcatacccctacctttgaaccttacacggttgaaggcattttctttcctttg
-attttaacaaatggaagctcgagccaa
->argyrophylla single_hit
-------------------cttgtgcacaatattgatgggcctggattgagggattccgac
-attcaacagtatcttgcccgaatagctgcctgttcccatattcgcatcattgcttcaatt
-gaccatgttaatgcccctctgttgtgggacaagaagatggtcgacatgcagttcaactgg
-ttttggcatcatacccctacctttgaaccttacacggttgaaagcatgttctttcctttg
-attttaacaaatggaagctcaagccaa
->affinis single_hit
-gaactcttcatcttcattgttgtgcacaatattgatgggcctggattgagggattccgac
-attcaacagtatcttgcccgaatagctgcttgttcccatattcgcatcattgcttcaatt
-gaccatgttaatgcccctctgttgtgggacaagaagatggtcgacatgcagttcaactgg
-ttttggcatcatacccctacctttgaaccttacgcggttgaaggcatgttctttcctttg
-attttaacaaatggaagctcgagccaa
->angelana single_hit
-gaactcttcatttgcattgttgtgcacaatattgatgggcctggattgagggattccgac
-attcaacagtatcttgcccgaatagctgcttgttcccatattcgcatcattgcttcaatt
-gaccatgttaatgcccctctgttgtgggacaagaagatggtcgacatgcagttcaactgg
-ttttggcatcatacccctacctttgaaccttacacggttgaaggcatgttctttcctttg
-attttaacaaatggaagctcgagccaa
->baumgratziana single_hit
----------atttgcattgttgtgcacaatattgatgggcctggattgagggattccgac
-attcaacagtatcttgcccgaatagctgcttgttcccatattcgcatcattgcttcaatt
-gaccatgttaatgcccctctgttgtgggacaagaagatggtcgacatgcagttcaactgg
-ttttggcatcatacccctacctttgaaccttacacggttgaaggcatgttctttcctttg
-attttaacaaatggaagttcgagccaa
->brunnea single_hit
-gaactcttcatttgcattgttgtacacaatattgatgggcctggattgagggattccgac
-attcaacagtatcttgcccgaatagctgcttgttcccatattcgcatcattgcttcaatt
-gaccatgttaatgcccctctgttgtgggacaagaagatggtcgacatgcagttcaactgg
-ttttggcatcatacccctacctttgaaccttacacggttgaaggcatgttctttcctttg
-attttaacaaatggaagctcaagccaa
->buddlejoides single_hit
-gaactcttcatctgcattgttgtgcacaatattgatgggcctggattgagggattccgac
-attcaacagtatcttgcccgaatagctgcttgttcccatattcgcatcattgcttcaatt
-gaccatgttaatgcccctctgttgtgggacaagaagatggtcgacatgcagttcaactgg
-ttttggcatcatacccctacctttgaaccttacacggttgaaggcatgttctttcctttg
-attttaacaaatggaagctcgagccaa
->burchellii single_hit
-gaactcttcatctgcattgctgtgcacaatattgatgggcctggattgagggattctgac
-attcaacagtatcttgcccgaatagctgcttgttcccatattcgcatcattgcttcaatt
-gaccatgttaatgcccctctgttgtgggacaagaagatggtcgacatgcagttcaactgg
-ttttggcatcatacccctacctttgaaccttacacggttgaaggcatgttctttcctttg
-attttaacaaatggaagctcgagccaa
->atlantica single_hit
-------------------------------------------------------------
-------------------------------------------------------------
----------------------gtgtgggacaagaagatggtcgacatgcagttcaactgg
-ttttggcatcatacccctacctttgaaccttacacggttgaaggcatgttctttcctttg
-attttaacaaatggaagctcgagccaa
->caiuia single_hit
-------------------------------------------------------------
-------------------------------------------------------------
----------------------gtgtgggacaagaagatggtcgacatgcagttcaactgg
-ttttggcatcatacccctacctttgaaccttacacggttgaaggcatgttctttcctttg
-attttaacaaatggaagctcaagccaa
->astroplocama single_hit
-gaactcttcatctgcattgttgtgcacaatattgatgggcctggattgagggattccgac
-attcaacagtatcttgcccgaatagctgcttgttcccatattcgcatcattgcttcaatt
-gaccatgttaatgctcctctgttgtgggacaagaagatggtcgacatgcagttcaactgg
-ttttggcatcatacccctacctttgaaccttacacggttgaaggcatgttctttcctttg
-attttaacaaatggaagctcgagccaa
->castaneiflora single_hit
-gaactcttcatctgcattgttgtgcacaatattgatgggcctggattgagggattccgac
-attcaacagtatcttgcccgaatagctgcttgttcccatattcgcatcattgcttcaatt
-gaccatgttaatgcccctctgttgtgggacaagaagatggtcgacatgcagttcaactgg
-ttttggcatcatacccctacctttgaatcttacacggttgaaggcatgttctttcctttg
-attttaacaaatggaagctcgagccaa
->calvescens single_hit
-------------------------------------------------------------
-------------cttgcccgaatagctgcttgttcccatattcgcatcgttgcttcaatt
-gaccatgttaatgctcctctgttgtgggacaagaagatggtcgacatgcagttcaactgg
-ttttggcatcatacccctacctttgaaccttacacggttgaaggcatgttctttcctttg
-attttaacaaatggaagctcgagccaa
->capixaba single_hit
-gaactcttcatttgcattgttgtgcacaatattgatgggcctggattgagggattccgac
-attcaacagtatcttgcccgaatagctgcttgttcccatattcgcatcattgcttcaatt
-gaccatgttaatgcccctctgttgtgggacaagaagatggtcgacatgcagttcaactgg
-ttttggcatcatacccctacctttgaaccttacacggttgaaggcatgttctttcctttg
-attttaacaaatggaagctcgagccaa
->cipoensis single_hit
-gaactcttcatttgcattgttgtgcacaatattgatgggcctggattgagggattccgac
-attcaacagtatcttgcccgaatagctgcttgttcccatattcgcatcattgcttcaatt
-gaccatgttaatgcccctctgttgtgggacaagaagatggtcgacatgcagttcaactgg
-ttttggcatcatacccctacctttgaaccttacacggttgaaggcatgttctttcctttg
-attttaacaaatggaagctcgagccaa
->caudigera single_hit
-gaacacttcatctgcattgttgtgcacaatattgatgggcctggattgagggattctgac
-attcaacagtatcttgcccgaatagctgcttgttcccatattcgcatcattgcttcaatt
-gaccatgttaatgcccctctgttgtgggacaagaagatggtcgacatgcagttcaactgg
-ttttggcatcatacccctacctttgaaccttacacggttgaaggcatgttctttcctttg
-attttaacaaatggaagctcgagccaa
->collatata single_hit
-gaactcttcatttgcattgttgtgcacaatattgatgggcctggattgagggattccgac
-attcaacagtatcttgcccgaatagctgcttgttcccatattcgcatcattgcttcaatt
-gaccatgttaatgcccctctgttgtgggacaagaagatggtcgacatgcagttcaactgg
-ttttggcatcatacccctacctttgaaccttacacggttgaaggcatgttctttcctttg
-attttaacaaatggaagctcgagccaa
->cinnamomifolia single_hit
-gaaatcttcatctgcattgttgtgcacaatattgatgggcctggattgagggattctgac
-attcaacagtatcttgcccgaatagctgcttgttcccatattcgcatcattgcttcaatt
-gaccatgttaatgcccctctgttgtgggacaagaagatggtcgacatgcagttcaactgg
-ttttggcatcatacccctacctttgaaccttacacggttgaaggcatgttctttcctttg
-attttaacaaatggaagctcgagccaa
->alborufescens single_hit
-gaactcttcatttgcattgttgtgcacaatattgatgggcctggattgagggattccgac
-gttcaacagtatcttgcccgaatagctgcttgttcccatattcgcatcatcgcttcaatt
-gaccatgttaatgcccctctgttgtgggacaagaagatggtcgacatgcagttcaactgg
-ttttggcatcatacccctacctttgaaccttacacggttgaaggcatgttctttcctttg
-attttaacaaatggaagctcgagccaa
->corallina single_hit
-gaactcttcatttgcattgttgtgcacaatattgatgggcctggattgagggattccgac
-attcaacagtatcttgcccgaatagctgcttgttcccatattcgcatcattgcttcaatt
-gaccatgttaatgcccctctgttgtgggacaagaagatggtcgacatgcagttcaactgg
-ttttggcatcatacccctacctttgaaccttacacggttgaaggcatgttctttcctttg
-attttaacaaatggaagctcgagccaa
->dichrophylla single_hit
-------------------------------------------------------------
----------------------------------tcccatattcgcatcattgcttcaatt
-gaccatgttaatgcccctctgttgtgggacaagaagatggtcgacatgcagttcaactgg
-ttttggcatcatacccctacctttgaaccttacacggttgaaggcatgttctttcctttg
-attttaacaaatggaagctcaagccaa
->dispar single_hit
-------------------------------------------ggattgagggattctgac
-attcaacagtatcttgccggaatagctgcttgttcccatattcgcatcattgcttcaatt
-gaccatgttaatgcccctctgttgtgggacaagaagatggtcgacatgcagttcaactgg
-ttttggcatcatacccctacctttgaaccttacacggttgaaggcatgttctttcctttg
-attttaacaaatggaagctcgagccaa
->elata single_hit
-gaactcttcatttgcattgttgtacacaatattgatgggcctggattgagggattccgac
-attcaacagtatcttgcccgaatagctgcttgttcccatattcgcatcattgcttcaatt
-gaccatgttaatgcccctctgttgtgggacaagaagatggtcgacatgcagttcaactgg
-ttttggcatcatacccctacctttgaaccttacacggttgaaggcatgttctttcctttg
-attttaacaaatggaagctcaagccaa
->discolor single_hit
-gaactcttcatctgcattgttgtgcacaacattgatgggcctggattgagggattctgac
-attcaacagtatcttgcccgaatagctgcttgttcccatattcgcatcattgcttcaatc
-gaccatgttaatgcccctctgttgtgggacaagaagatggtcgacatgcagttcaactgg
-ttttggcatcatacccctacctttgaaccttacacggttgaaggcatgttctttcctttg
-attttaacaaatggaagctcgagccaa
->cubatanensis single_hit
-gaactcttcatttgcattgttgtgcacaatattgatgggcctggattgagggattccgac
-attcaacagtatcttgcccgaatagctgcttgttcccatattcgcatcattgcttcaatt
-gaccatgttaatgcccctctgttgtgggacaagaagatggtcgacatgcagttcaactgg
-ttttggcatcatacccctacctttgaaccttacacggttgaaggcatgttctttcctttg
-attttaacaaatggaagctcgagccaa
->fasciculata single_hit
-------------------------------------------------------------
-------------cttgcccgaatagctgcttgttcccatattcgcatcattgcttcaatt
-gaccatgttaatgcccctctgttgtgggacaagaagatggtcgacatgcagttcaactgg
-ttttggcatcatacccctacctttgaaccttacacggttgaaggcatgttctttcctttg
-attttaacaaatggaagctcgagccaa
->eriodonta single_hit
-gaactcttcatctgcattgttgtgcacaatattgatgggcctggattgagggattccgac
-attcaacagtatcttgcccgaatagctgcttgttcccatattcgcattattgcttcaatt
-gaccatgttaatgcccctctgttgtgggacaagaagatggttgacatgcagttcaactgg
-ttttggcatcatacccctacctttgaaccttacacggttgaaggcatgttctttcctttg
-attttaacaaatggaagctcaagccaa
->cyathanthera single_hit
-gaactcttcatctgcattgttgtgcacaatattgatgggcctggattgagggattccgac
-attcaacagtatcttgcccgaatagctgcttgttcccatattcgcatcattgcttcaatt
-gaccatgttaatgcccctctgttgtgggacaagaagatggtcgacatgcagttcaactgg
-ttttggcatcatacccctacctttgaaccttacacggttgaaggcgtgttctttcctttg
-attttaacaaatggaagctcgagccaa
->fallax multi_hit_stitched_contig_comprising_2_hits
-------------------------------------------------------------
-------------------cgaatagctgcttgttcccatattcgcatcattgcttcaatt
-gaccatgttaatgcccctctggtgtgggacaagaagatggtcgacatgcagttcaactgg
-ttttggcatcatacccctacctttgaaccttacacggttgaaggcatgttctttcctttg
-attttaacaaatggaagctcgagccaa
->formosa single_hit
----------------------------------------------ttgagggattccgac
-attcaacagtatcttgcccgaatagctgcttgttcccatattcgcatcattgcttcaatt
-gaccatgttaatgcccctctgttgtgggacaagaagatggtcgacatgcagttcaactgg
-ttttggcatcatacccctacctttgaaccttacacggttgaaggcatgttctttcctttg
-attttaacaaatggaagctcgagccaa
->flammea single_hit
-gaactcttcatttgcattgttgtgcacaatattgatgggcctggattgagggattccgac
-attcaacagtatcttgcccgaatagctgcttgttcccatattcgcatcattgcttcaatt
-gaccatgttaatgcccctctgttgtgggacaagaagatggtcgacatgcagttcaactgg
-ttttggcatcatacccctacctttgaaccttacacggttgaaggcatgttctttcctttg
-attttaacaaatggaagctcgagccaa
->hypoleuca single_hit
-------ttcatttgcattgttgtgcacaatattgatgggcctggattgagggattccgac
-attcaacagtatcttgcccgaatagctgcttgttcccatattcgcatcattgcttcaatt
-gaccatgttaatgcccctctgttgtgggacaagaagatggttgacatgcagttcaactgg
-ttttggcatcatacccctacctttgaaccttacacggttgaaggcatgttctttcctttg
-attttaacaaatggaagctcgagccaa
->kriegeriana single_hit
-------------------------------------gggcctggattgagggattccgac
-attcaacagtatcttgcccgaatagctgcttgttcccatattcgcatcattgcttcaatt
-gaccatgttaatgcccctctgttgtgggacaagaagatggtcgacatgcagttcaactgg
-ttttggcatcatacccctacctttgaaccttacacggttgaaggcatgttctttcctttg
-attttaacaaatggaagctcgagccaa
->kollmannii single_hit
-gaactcttcatttgcattgttgtgcacaatattgatgggcctggattgagggattccgac
-attcaacagtatcttgcccgaatagctgcttgttcccatattcgcatcattgcttcaatt
-gaccatgttaatgcccctctgttgtgggacaagaagatggtcgacatgcagttcaactgg
-ttttggcatcatacccctacctttgaaccttacacagttgaaggcatgttctttcctttg
-attttaacaaatggaagctcgagccaa
->chrysophylla single_hit
-gaactcttcatctgcattgttgtgcacaatattgatgggcctggattgagggattccgac
-attcaacagtatcttgcccgaatagctgcttgttcccatattcgcatcattgcttcaatt
-gaccatgttaatgcccctctgttgtgggacaagaagatggtcgacatgcagttcaactgg
-ttttggcatcatacccctacctttgaaccttacacggttgaaggcatgttctttcctttg
-attttaacaaatggaagctcgagccaa
->heliotropoides single_hit
-gaactcttcatttgcattgttgtgcacaatattgatgggcctggattgagggattccgac
-attcaacagtatcttgcccgaatagctgcttgttcccatattcgcatcattgcttcaatt
-gaccatgttaatgcccctctgttgtgggacaagaagatggtcgacatgcagttcaactgg
-ttttggcatcatacccctacctttgaaccttacagggttgaaggcatgttctttcctttg
-attttaacaaatggaagctcaagccaa
->ferruginata single_hit
-gaactcttcatctgcattgttgtgcacaatattgatggacctggattgagggattctgac
-attcaacagtatcttgcccgaatagctgcttgttcccatattcgcatcattgcttcaatt
-gaccatgttaatgcccctctgttgtgggacaagaagatggtcgacatgcagttcaactgg
-ttttggcatcatacccctacctttgaaccttacacggttgaaggcatgttctttcctttg
-attttaacaaatggaagctcgagccaa
->hyemalis single_hit
-gaactcttcatctgcattgttgtgcacaatattgatgggcctggattgagggattccgac
-attcaacagtatcttgcccgaatagctgcttgttctcatattcgcattattgcttcaatt
-gaccatgttaatgcccctctgttgtgggacaaaaagatggtcgacatgcagttcaactgg
-ttttggcatcatacccctacctttgaaccttacacggttgaaggcatgttctttcctttg
-attttaacaaatggaagctcaagccaa
->longispicata single_hit
----------------------------aatattgatgggcctggattgagggattccgac
-attcaacagtatcttgcccgaatagctgcttgttcccatattcgcatcattgcttcaatt
-gaccatgttaatgcccctctgttgtgggacaagaagatggtcgacatgcagttcaactgg
-ttttggcatcatacccctacctttgaaccttacacggttgaaggcatgttctttcctttg
-attttaacaaacggaagctcgagccaa
->laevigata single_hit
-gaactcttcatctgcattgttgtgcacaatattgatgggcctggattgagggattccgac
-attcaacagtatcttgcccgaatagctgcttgttcccatattcgcatcattgcttcaatt
-gaccatgttaatgcccctctgttgtgggacaagaagatggtcgacatgcagttcaactgg
-ttttggcatcatacccctacctttgaaccttacacggttgaaggcatgttctttcctttg
-attttaacaaatggaagctcgagccaa
->mellina single_hit
-------------------------------------------------------------
----------------------------------------attcgcatcattgcttcaatt
-gaccatgttaatgcccctctgttgtgggacaagaagatggtcgacatgcagttcaactgg
-ttttggcatcatacccctacctttgaaccttacacggttgaaggcatgttctttcctttg
-attttaacaaatggaagctcgagccaa
->lymanii single_hit
-gaactcttcatttgcattgttgtgcacaatattgatgggcctggattgagggattccgac
-attcaacagtatcttgcccgaatagctgcttgttcccatattcgcatcattgcttcaatt
-gaccatgttaatgcccctctgttgtgggacaagaagatggtcgacatgcagttcaactgg
-ttttggcatcatacccctacctttgaaccttacacggttgaaggcatgttctttcctttg
-attttaacaaatggaagctcaagccaa
->macrothyrsa single_hit
-gaactcttcatttgcattgttgtgcacaatattgatgggcctggattgagggattccgac
-attcaacagtatcttgcccgaatagctgcttgttcccatattcgcatcattgcttcaatt
-gaccatgttaatgcccctctgttgtgggacaagaagatggtcgacatgcagttcaactgg
-ttttggcatcatacccctacctttgaaccttacacggttgaaggcatgttctttcctttg
-attttaacaaatggaagctcgagccaa
->multispicata single_hit
-------------------------------------------------------------
-------------------------------------------------------------
----------------------gtgtgggacaagaagatggtcgacatgcagttcaactgg
-ttttggcatcatacccctacctttgaaccttacacggttgaaggcatgttctttcctttg
-attttaacaaatggaagctcgagccaa
->lanata single_hit
-------------------------------------------------------------
-------------------------------------------------------------
----------------------gtgtgggacaagaagatggtcgacatgcagtttaactgg
-ttttggcatcatacccctacctttgaaccttacacggttgaaggcatgttctttcctttg
-attttaacaaatggaagctcgagccaa
->loutergiana single_hit
-------------------------------------------------------------
-------------------------------------------------------------
----------------------gtgtgggacaagaagatggtcgacatgcagttcaactgg
-ttttggcatcatacccctacctttgaaccttacacggttgaaggcatgttctttcctttg
-attttaacaaatggaagctcgagccaa
->oraria single_hit
----------------------------------------------------gattccgac
-attcaacagtatcttgcccgaatagctggttgttcccatattcgcatcattgcttcaatt
-gaccatgttaatgcccctctgttgtgggacaagaagatggtcgacatgcagttcaactgg
-ttttggcatcatacccctacctttgaaccttacacggttgaaggcatgttctttcctttg
-attttaacaaatggaagctcgagccaa
->nambyquarae single_hit
-gaactcttcatctgcattgttgtgcacaatattgatgggcctggattgagggattccgac
-agccaacagtatcttgcccgaatagctgcttgttcccatattcgcatcattgcttcaatt
-gaccatgttaatgcccctctgttgtgggacaagaagatggtcgacatgcagttcaactgg
-ttttggcatcattcccctacctttgaaccttacacggttgaaggcttgttctttcctttg
-attttaacaaatggaagctcgagccaa
->octopetala single_hit
-gaactcttcatttgcattgttgtgcacaatattgatgggcctggattgagggattccgac
-attcaacagtatcttgcccgaatagctgcttgttcccatattcgcatcattgcttcaatt
-gaccatgttaatgcccctctgttgtgggacaagaagatggtcgacatgcagttcaactgg
-ttttggcatcatacccctacctttgaaccttacacggttgaaggcatgttctttcctttg
-attttaacaaatggaagctcgagccaa
->navioensis single_hit
-gaactcttcatttgcattgttgtgcacaatattgatgggcctggattgagggattccgac
-attcaacagtatcttgcccgaatagctgcttgttcccatattcgcatcattgcttcaatt
-gaccatgtcaatgcccctctgttgtgggacaagaagatggtcgacatgcagttcaactgg
-ttttggcatcatacccctacctttgaaccttacacggtcgaaggcatgttctttcctttg
-attttaacaaatggaagctcgagccaa
->lepidota single_hit
-gaactcttcatctgcattgttgtgcacaatattgatgggcctggattgagggattccgac
-attcaacagtatcttgcccgaatagctgcttgttcccatattcgcatcattgcttcaatt
-gaccatgttaatgcccctctgttgtgggacaagaagatggtcgacatgcagttcaactgg
-ttttggcatcatacccctacctttgaaccttacacggttgaaggcatgttctttcctttg
-attttaacaaatggaagctcgagccaa
->pepericarpa single_hit
-gaactcttcatttgcattgttgtgcacaatattgatgggcctggattgagggattccgac
-attcaacagtatcttgcccgaatagctgcttgttcccatattcgcatcattgcttcaatt
-gaccatgttaatgcccctctgttgtgggacaagaagatggtcgacatgcagttcaactgg
-tattggcatcatacccctacctttgaaccttacacggttgaaggcatgttctttcctttg
-attttaacaaatggaagctcgagccaa
->polyandra single_hit
-gaactcttcatctgcattgttgtgcacaatattgatgggcctggattgagggattccgac
-attcaacagtatcttgcccgaatagctgcttgttcccatattcgcatcattgcttcaatt
-gaccatgttaatgcccctctgttgtgggacaagaagatggtcgacatgcagttcaactgg
-ttttggcatcatacccctacctttgaaccttacacggttgaaggcatgttctttcctttg
-attttaacaaatggaagctcgagccaa
->organensis single_hit
-gaactcttcatttgcattgttgtgcacaatattgatgggcctggattgagggattccgac
-attcaacagtatcttgcccgaatagctgcttgttcccatattcgcatcattgcttcaatt
-gaccatgttaatgcccctctgttgtgggacaagaagatggtcgacatgcagttcaactgg
-ttttggcatcatacccctacctttgaaccttacacggttgaaggcatgttctttcctttg
-attttaacaaatggaagctcgagccaa
->punctata single_hit
-gaactcttcatctgcattgttgtgcacaatattgatgggcctggattgagggattccgac
-attcaacagtatcttgcccgaatagctgcttgttcccatattcgcatcattgcttcaatt
-gaccatgttaatgcccctctgttgtgggacaagaagatggtcgacatgcagttcaactgg
-ttttggcatcatacccctacctttgaaccttacacggttgaaggcatgttctttcctttg
-attttaacaaatggaagctcgagccaa
->renatogoldenbergii single_hit
-------------------------------------------------------------
-------------------------------------------------------------
----------------------gtgtgggacaagaagatggtcgacatgcagttcaactgg
-ttttggcatcatacccctacctttgaaccttacacggttgaaggcatgttctttcctttg
-attttaacaaatggaagctcgagccaa
->robusta single_hit
-gaactcttcatttgcattgttgtacacaatattgatgggcctggattgagggattccgac
-attcaacagtatcttgcccgaatagctgcttgttcccatattcgcatcattgcttcaatt
-gaccatgttaatgcccctctgttgtgggacaagaagatggtcgacatgcagttcaactgg
-ttttggcatcatacccctacctttgaaccttacacggttgaaggcatgttctttcctttg
-attttaacaaatggaagctcaagccaa
->pennipilis single_hit
-gaacacttcatctgcattgttgtgcacaatattgatgggcctggattgagggattctgac
-attcaacagtatctggcccgaatagctgcttgttcccatattcgcatcattgcttcaatt
-gaccatgttaatgcccctctgttgtgggacaagaagatggtcgacatgcagttcaactgg
-ttttggcatcatacccctacctttgaaccttacacggttgaaggcatgttctttcctttg
-attttaacaaatggaagctcaagccaa
->rondoniensis single_hit
-------------------------------------------------------------
-------------------------------------------------------------
----------------------gtgtgggacaagaagatggtcgacatgcagttcaactgg
-ttttggcatcatacccctacctttgaaccttacacggttgaaggcatgttctttcctttg
-attttaacaaatggaagctcgagccaa
->penduliflora single_hit
-gaactcttcatttgcattgttgtgcacaatattgatgggcctggattgagggattccgac
-attcaacagtatcttgcccgaatagctgcttgttcccatattcgcatcattgcttcaatt
-gaccatgttaatgcccctctgttgtgggacaagaagatggtcgacatgcagttcaactgg
-ttttggcatcatacccctacctttgaaccttacacggttgaaggcatgttctttcctttg
-attttaacaaatggaagctcgagccaa
->racemifera single_hit
----------------------------------------------------gattccgac
-attcaacagtatcttgcccgaatagctgcttgttcccatattcgcatcattgcttcaatt
-gaccatgttaatgcccctctgttgtgggacaagaagatggtcgacatgcagttcaactgg
-ttttggcatcatacccctacctttgaaccttacacggttgaaggcatgttctttcctttg
-attttaacaaatggaagctcgagccaa
->sclerophylla single_hit
-gaactcttcatctgcattgttgtgcacaatattgatgggcctggattgagggattccgac
-attcaacagtatcttgcccgaatagctgcttgttcccatattcgcatcattgcttcaatt
-gaccatgttaatgcccctctgttgtgggacaagaagatggtcgacatgcagttaaactgg
-ttttggcatcatacccctacctttgaaccttacacggttgaaggcatgttctttcctttg
-attttaacaaatggaagctcgagccaa
->rufescens single_hit
-gaactcttcatctgcattgttgtgcacaatattgatgggcctggattgagggattctgac
-attcaacagtatcttgctcgaatagctgcttgttcccatattcgcatcattgcttcaatt
-gaccatgttaatgcccctctgttgtgggacaagaagatggtcgacatgcagttcaactgg
-ttttggcatcatacccctacctttgaaccttacacggttgaaggcatgttctttcctttg
-attttaacaaatggaagctcgagccaa
->serialis single_hit
-------------------------------------------ggattgagggattccgac
-agtcaacagtatcttgcccgaatagctgcttgttcccatattcgcatcatcgcttcaatt
-gaccatgttaatgcccctctgttgtgggacaagaagatggtcgacatgcagttcaactgg
-ttttggcatcatacccctacctttgaaccttacacggttgaaggcatgttctttcctttg
-attttaacaaatggaagctcgagccaa
->setosociliata single_hit
-gaactcttcatttgcattgttgtgcacaatattgatgggcctggattgagggattccgac
-attcaacagtatcttgcccgaatagctgcttgttcccatattcgcatcattgcttcaatt
-gaccatgttaatgcccctctgttgtgggacaagaagatggtcgacatgcagttcaactgg
-ttttggcatcatacccctacctttgaaccttacacggttgaaggcatgttctttcctttg
-attttaacaaatggaagctcgagccaa
->ruficalyx single_hit
----------------------------------------------ttgagggattccgac
-attcaacagtatcttgcccgaatagctgcttgttcccatattcgcatcattgcttcaatt
-gaccatgttaatgcccctctgttgtgggacaagaagatggtcgacatgcagttcaactgg
-ttttggcatcatacccctacctttgaaccttacacggttgaaggcatgttctttcctttg
-attttaacaaacggaagctcgagccaa
->pterocaulon single_hit
-gaactcttcatctgcattgttgtgcacaatattgatgggcctggattgagggattccgac
-attcaacagtatctttaccgaatagctgcttgttcccatattcgcatcgttgcttcaatt
-gaccatgttaatgcccctctgttgtgggacaagaagatggtcgacatgcagttcaactgg
-ttttggcatcatacccctacctttgaaccttacgcggttgaaggcatgttctttcctttg
-attttaacaaatggaagctcgagccaa
->secundiflora single_hit
-gaactcttcatttgcattgttgtgcacaatattgatgggcctggattgagggattcagac
-agtcaacagtatcttgcccgaatagctgcttgttcccatattcgcatcatcgcttcaatt
-gaccatgttaatgcccctctgttgtgggacaagaagatggtcgacatgcagttcaactgg
-ttttggcatcatacccctacctttgaaccttacacggttgaaggcatgttctttcctttg
-attttaacaaatggaagctcgagccaa
->sylvatica single_hit
-------------------------------------------------------tccgac
-attcatcagtatcttgcccgaatagctgcttgttcccatattcgcatcattgcttcaatt
-gaccatgttaatgcccctctgttgtgggacaagaagatggtcgacatgcagttcaactgg
-ttttggcatcatacccctacctttgaaccttacacggttgaaggcatgttctttcctttg
-attttaacaaatggaagctcgagccaa
->schwackei single_hit
-gaactcttcatttgcattgttgtgcacaatattgatgggcctggattgagggattccgac
-attcaacagtatcttgcccgaatagctgcttgttcccatattcgcatcattgcttcaatt
-gaccatgttaatgcccctctgttgtgggacaagaagatggtcgacatgcagttcaactgg
-ttttggcatcatacccctacgtttgaaccttacacggttgaaggcatgttctttcctttg
-attttaacaaatggaagctcgagccaa
->suberosa single_hit
----ctcttcatctgcattgttgtgcacaatattgatgggcctggattgagggattcggac
-attcaacagtatcttgcccgaatagctgcttgttcccatattcgcatcattgcttcaatt
-gaccatgttaatgcccctctgttgtgggacaagaagatggtcgacatgcagttcaactgg
-ttttggcatcatacccctacctttgaaccttacacggttgaaggcatgttctttcctttg
-attttaacaaatggaagctcgagccaa
->triplinervis single_hit
----ctcttcatctgcattgttgtgcacaatattgatgggcctggattgagggattccgac
-gttcaacagtatcttgcccgaatagctgcttgttcccatattcgcatcattgcttcgatc
-gaccatgttaatgcccctctgttgtgggacaagaagatggtcgacttgcagttcaactgg
-ttttggcatcatacccctacctttgaaccatacacggttgaagggatgttctttccattg
-attttaaccaatggaagctcaagccaa
->stenostachya single_hit
-gaactcttcatctgcattgttgtgcacaatattgatgggcctggattgagggattccgac
-attcaacagtatcttgcccgaatagctgcttgttcccatattcgcatcattgcttcaatt
-gaccatgttaatgcccctctgttgtgggacaagaagatggtcgacatgcagttaaactgg
-ttttggcatcatacccctacctttgaaccttacacggttgaaggcatgttctttcctttg
-attttaacaaatggaagctcgagccaa
->shepherdii single_hit
----------------------------------gatgggcctggattgagggattccgac
-attcaacagtatcttgcccgaatagctgcttgttcccatattcgcatcattgcttcaatt
-gaccatgttaatgcccctcagttgtgggacaagaagatggtcgacatgcagttcaactgg
-ttttggcatcatacccctacctttgaaccttacacggttgaaggcatgttctttcctttg
-attttaacaaatggaagctcgagccaa
->wittii single_hit
-agactcttcatctgcgttgttgtgcacaatattgatgggcctggattgagggattccgac
-attcaacagtatcttgcccgaatagctgcttgttcccatattcgcatcattgcttcaatt
-gaccatgttaatgcccctctgttgtgggacaagaagatggtcgacatgcagttcaactgg
-ttttggcatcatacccctacctttgaaccttacacggttgaaggcatgttctttcctttg
-attttaacaaatggaagctcgagccaa
->tiliifolia single_hit
-------------------------------------------------------------
-------------------------------------------------------------
----------------------gtgtgggacaagaagatggtcgacatgcagttcaactgg
-ttttggcatcatacccctacctttgaaccttacacggttgaaggcatgttctttcctttg
-attttaacaaacggaagctcgagccaa
->valtheri single_hit
-gaactcttcatctgcattgttgtgcacaatattgatgggcctggattgagggattccgac
-attcaacagtatcttgcccgaatagctgcttgttcccatattcgcatcattgcttcaatt
-gaccatgttaatgcccctctgttgtgggacaagaagatggtcgacatgcagttcaactgg
-ttttggcatcatacccctacctttgaaccttacacggttgaaggcatgttctttcctttg
-attttaacaaatggaagctcgagccaa
->wildenowii single_hit
-gaactcttcatttgcattgttgtgcacaatattgatgggcctggattgagggattccgac
-attcaacagtatcttgcccgaatagctgcttgttcccatattcgcatcattgcttcaatt
-gaccatgttaatgcccctctgttgtgggacaagaagatggtcgacatgcagttcaactgg
-ttttggcatcatacccctacctttgaaccttacacggttgaaggcatgttctttcctttg
-attttaacaaatggaagctcgagccaa
->weddellii single_hit
-------------------------------------------------------------
-------------------------------------------------------------
----------------------gtgtgggacaagaagatggtcgacatgcagttcaactgg
-ttttggcatcatacccctacctttgaaccttacacggttgaaggcatgttctttcctttg
-attttaacaaatggaagctcgagccaa
->tentaculifera single_hit
-gaacacttcatctgcattgttgtgcacaatattgatgggcctggattgagggattctgac
-attcaacagtatcttgcccgaatagctgcttgttcccatattcgcatcattgcttcaatt
-gaccatgttaatgcccctctgttgtgggacaagaagatggtcgacatgcagttcaactgg
-ttttggcatcatacccctacctttgaaccttacacggttgaaggcatgttctttcctttg
-attttaacaaatggaagctcgagccaa
+>amoena
+gaactcttcatttgcattgttgtgcacaatattgatgggcctggattgagggattccgacattcaacagtatcttgcccgaatagctgcttgttcccata
+ttcgcatcattgcttcaattgaccatgttaatgcccctctgttgtgggacaagaagatggtcgacatgcagttcaactggttttggcatcatacccctac
+ctttgaatcttacacggttgaaggcatgttctttcctttgattttaacaaatggaagctcgagccaa
+>albicans
+----------------------------------------------------------------------------------------------------
+-----------------------------------------gtgtgggacaagaagatggtcgacatgcagttcaactggttttggcatcatacccctac
+ctttgaaccttacacggttgaaggcatgttctttcctttgattttaacaaatggaagctcgagccaa
+>amnicola
+------------------------------------gggcctggattgagggattccgacattcaacagtatcttgcccgaatagctgcttgttcccata
+ttcgcatcattgcttcaattgaccatgttaatgcccctctgttgtgggacaagaagatggtcgacatgcagttcaactgggtttggcatcatacccctac
+ctttgaaccttacacggttgaaggcattttctttcctttgattttaacaaatggaagctcgagccaa
+>argyrophylla
+------------------cttgtgcacaatattgatgggcctggattgagggattccgacattcaacagtatcttgcccgaatagctgcctgttcccata
+ttcgcatcattgcttcaattgaccatgttaatgcccctctgttgtgggacaagaagatggtcgacatgcagttcaactggttttggcatcatacccctac
+ctttgaaccttacacggttgaaagcatgttctttcctttgattttaacaaatggaagctcaagccaa
+>affinis
+gaactcttcatcttcattgttgtgcacaatattgatgggcctggattgagggattccgacattcaacagtatcttgcccgaatagctgcttgttcccata
+ttcgcatcattgcttcaattgaccatgttaatgcccctctgttgtgggacaagaagatggtcgacatgcagttcaactggttttggcatcatacccctac
+ctttgaaccttacgcggttgaaggcatgttctttcctttgattttaacaaatggaagctcgagccaa
+>angelana
+gaactcttcatttgcattgttgtgcacaatattgatgggcctggattgagggattccgacattcaacagtatcttgcccgaatagctgcttgttcccata
+ttcgcatcattgcttcaattgaccatgttaatgcccctctgttgtgggacaagaagatggtcgacatgcagttcaactggttttggcatcatacccctac
+ctttgaaccttacacggttgaaggcatgttctttcctttgattttaacaaatggaagctcgagccaa
+>baumgratziana
+---------atttgcattgttgtgcacaatattgatgggcctggattgagggattccgacattcaacagtatcttgcccgaatagctgcttgttcccata
+ttcgcatcattgcttcaattgaccatgttaatgcccctctgttgtgggacaagaagatggtcgacatgcagttcaactggttttggcatcatacccctac
+ctttgaaccttacacggttgaaggcatgttctttcctttgattttaacaaatggaagttcgagccaa
+>brunnea
+gaactcttcatttgcattgttgtacacaatattgatgggcctggattgagggattccgacattcaacagtatcttgcccgaatagctgcttgttcccata
+ttcgcatcattgcttcaattgaccatgttaatgcccctctgttgtgggacaagaagatggtcgacatgcagttcaactggttttggcatcatacccctac
+ctttgaaccttacacggttgaaggcatgttctttcctttgattttaacaaatggaagctcaagccaa
+>valtheri
+gaactcttcatctgcattgttgtgcacaatattgatgggcctggattgagggattccgacattcaacagtatcttgcccgaatagctgcttgttcccata
+ttcgcatcattgcttcaattgaccatgttaatgcccctctgttgtgggacaagaagatggtcgacatgcagttcaactggttttggcatcatacccctac
+ctttgaaccttacacggttgaaggcatgttctttcctttgattttaacaaatggaagctcgagccaa
+>burchellii
+gaactcttcatctgcattgctgtgcacaatattgatgggcctggattgagggattctgacattcaacagtatcttgcccgaatagctgcttgttcccata
+ttcgcatcattgcttcaattgaccatgttaatgcccctctgttgtgggacaagaagatggtcgacatgcagttcaactggttttggcatcatacccctac
+ctttgaaccttacacggttgaaggcatgttctttcctttgattttaacaaatggaagctcgagccaa
+>atlantica
+----------------------------------------------------------------------------------------------------
+-----------------------------------------gtgtgggacaagaagatggtcgacatgcagttcaactggttttggcatcatacccctac
+ctttgaaccttacacggttgaaggcatgttctttcctttgattttaacaaatggaagctcgagccaa
+>caiuia
+----------------------------------------------------------------------------------------------------
+-----------------------------------------gtgtgggacaagaagatggtcgacatgcagttcaactggttttggcatcatacccctac
+ctttgaaccttacacggttgaaggcatgttctttcctttgattttaacaaatggaagctcaagccaa
+>astroplocama
+gaactcttcatctgcattgttgtgcacaatattgatgggcctggattgagggattccgacattcaacagtatcttgcccgaatagctgcttgttcccata
+ttcgcatcattgcttcaattgaccatgttaatgctcctctgttgtgggacaagaagatggtcgacatgcagttcaactggttttggcatcatacccctac
+ctttgaaccttacacggttgaaggcatgttctttcctttgattttaacaaatggaagctcgagccaa
+>castaneiflora
+gaactcttcatctgcattgttgtgcacaatattgatgggcctggattgagggattccgacattcaacagtatcttgcccgaatagctgcttgttcccata
+ttcgcatcattgcttcaattgaccatgttaatgcccctctgttgtgggacaagaagatggtcgacatgcagttcaactggttttggcatcatacccctac
+ctttgaatcttacacggttgaaggcatgttctttcctttgattttaacaaatggaagctcgagccaa
+>calvescens
+------------------------------------------------------------------------cttgcccgaatagctgcttgttcccata
+ttcgcatcgttgcttcaattgaccatgttaatgctcctctgttgtgggacaagaagatggtcgacatgcagttcaactggttttggcatcatacccctac
+ctttgaaccttacacggttgaaggcatgttctttcctttgattttaacaaatggaagctcgagccaa
+>capixaba
+gaactcttcatttgcattgttgtgcacaatattgatgggcctggattgagggattccgacattcaacagtatcttgcccgaatagctgcttgttcccata
+ttcgcatcattgcttcaattgaccatgttaatgcccctctgttgtgggacaagaagatggtcgacatgcagttcaactggttttggcatcatacccctac
+ctttgaaccttacacggttgaaggcatgttctttcctttgattttaacaaatggaagctcgagccaa
+>cipoensis
+gaactcttcatttgcattgttgtgcacaatattgatgggcctggattgagggattccgacattcaacagtatcttgcccgaatagctgcttgttcccata
+ttcgcatcattgcttcaattgaccatgttaatgcccctctgttgtgggacaagaagatggtcgacatgcagttcaactggttttggcatcatacccctac
+ctttgaaccttacacggttgaaggcatgttctttcctttgattttaacaaatggaagctcgagccaa
+>caudigera
+gaacacttcatctgcattgttgtgcacaatattgatgggcctggattgagggattctgacattcaacagtatcttgcccgaatagctgcttgttcccata
+ttcgcatcattgcttcaattgaccatgttaatgcccctctgttgtgggacaagaagatggtcgacatgcagttcaactggttttggcatcatacccctac
+ctttgaaccttacacggttgaaggcatgttctttcctttgattttaacaaatggaagctcgagccaa
+>collatata
+gaactcttcatttgcattgttgtgcacaatattgatgggcctggattgagggattccgacattcaacagtatcttgcccgaatagctgcttgttcccata
+ttcgcatcattgcttcaattgaccatgttaatgcccctctgttgtgggacaagaagatggtcgacatgcagttcaactggttttggcatcatacccctac
+ctttgaaccttacacggttgaaggcatgttctttcctttgattttaacaaatggaagctcgagccaa
+>cinnamomifolia
+gaaatcttcatctgcattgttgtgcacaatattgatgggcctggattgagggattctgacattcaacagtatcttgcccgaatagctgcttgttcccata
+ttcgcatcattgcttcaattgaccatgttaatgcccctctgttgtgggacaagaagatggtcgacatgcagttcaactggttttggcatcatacccctac
+ctttgaaccttacacggttgaaggcatgttctttcctttgattttaacaaatggaagctcgagccaa
+>alborufescens
+gaactcttcatttgcattgttgtgcacaatattgatgggcctggattgagggattccgacgttcaacagtatcttgcccgaatagctgcttgttcccata
+ttcgcatcatcgcttcaattgaccatgttaatgcccctctgttgtgggacaagaagatggtcgacatgcagttcaactggttttggcatcatacccctac
+ctttgaaccttacacggttgaaggcatgttctttcctttgattttaacaaatggaagctcgagccaa
+>corallina
+gaactcttcatttgcattgttgtgcacaatattgatgggcctggattgagggattccgacattcaacagtatcttgcccgaatagctgcttgttcccata
+ttcgcatcattgcttcaattgaccatgttaatgcccctctgttgtgggacaagaagatggtcgacatgcagttcaactggttttggcatcatacccctac
+ctttgaaccttacacggttgaaggcatgttctttcctttgattttaacaaatggaagctcgagccaa
+>dichrophylla
+---------------------------------------------------------------------------------------------tcccata
+ttcgcatcattgcttcaattgaccatgttaatgcccctctgttgtgggacaagaagatggtcgacatgcagttcaactggttttggcatcatacccctac
+ctttgaaccttacacggttgaaggcatgttctttcctttgattttaacaaatggaagctcaagccaa
+>dispar
+------------------------------------------ggattgagggattctgacattcaacagtatcttgccggaatagctgcttgttcccata
+ttcgcatcattgcttcaattgaccatgttaatgcccctctgttgtgggacaagaagatggtcgacatgcagttcaactggttttggcatcatacccctac
+ctttgaaccttacacggttgaaggcatgttctttcctttgattttaacaaatggaagctcgagccaa
+>elata
+gaactcttcatttgcattgttgtacacaatattgatgggcctggattgagggattccgacattcaacagtatcttgcccgaatagctgcttgttcccata
+ttcgcatcattgcttcaattgaccatgttaatgcccctctgttgtgggacaagaagatggtcgacatgcagttcaactggttttggcatcatacccctac
+ctttgaaccttacacggttgaaggcatgttctttcctttgattttaacaaatggaagctcaagccaa
+>discolor
+gaactcttcatctgcattgttgtgcacaacattgatgggcctggattgagggattctgacattcaacagtatcttgcccgaatagctgcttgttcccata
+ttcgcatcattgcttcaatcgaccatgttaatgcccctctgttgtgggacaagaagatggtcgacatgcagttcaactggttttggcatcatacccctac
+ctttgaaccttacacggttgaaggcatgttctttcctttgattttaacaaatggaagctcgagccaa
+>cubatanensis
+gaactcttcatttgcattgttgtgcacaatattgatgggcctggattgagggattccgacattcaacagtatcttgcccgaatagctgcttgttcccata
+ttcgcatcattgcttcaattgaccatgttaatgcccctctgttgtgggacaagaagatggtcgacatgcagttcaactggttttggcatcatacccctac
+ctttgaaccttacacggttgaaggcatgttctttcctttgattttaacaaatggaagctcgagccaa
+>fasciculata
+------------------------------------------------------------------------cttgcccgaatagctgcttgttcccata
+ttcgcatcattgcttcaattgaccatgttaatgcccctctgttgtgggacaagaagatggtcgacatgcagttcaactggttttggcatcatacccctac
+ctttgaaccttacacggttgaaggcatgttctttcctttgattttaacaaatggaagctcgagccaa
+>eriodonta
+gaactcttcatctgcattgttgtgcacaatattgatgggcctggattgagggattccgacattcaacagtatcttgcccgaatagctgcttgttcccata
+ttcgcattattgcttcaattgaccatgttaatgcccctctgttgtgggacaagaagatggttgacatgcagttcaactggttttggcatcatacccctac
+ctttgaaccttacacggttgaaggcatgttctttcctttgattttaacaaatggaagctcaagccaa
+>cyathanthera
+gaactcttcatctgcattgttgtgcacaatattgatgggcctggattgagggattccgacattcaacagtatcttgcccgaatagctgcttgttcccata
+ttcgcatcattgcttcaattgaccatgttaatgcccctctgttgtgggacaagaagatggtcgacatgcagttcaactggttttggcatcatacccctac
+ctttgaaccttacacggttgaaggcgtgttctttcctttgattttaacaaatggaagctcgagccaa
+>fallax
+------------------------------------------------------------------------------cgaatagctgcttgttcccata
+ttcgcatcattgcttcaattgaccatgttaatgcccctctggtgtgggacaagaagatggtcgacatgcagttcaactggttttggcatcatacccctac
+ctttgaaccttacacggttgaaggcatgttctttcctttgattttaacaaatggaagctcgagccaa
+>formosa
+---------------------------------------------ttgagggattccgacattcaacagtatcttgcccgaatagctgcttgttcccata
+ttcgcatcattgcttcaattgaccatgttaatgcccctctgttgtgggacaagaagatggtcgacatgcagttcaactggttttggcatcatacccctac
+ctttgaaccttacacggttgaaggcatgttctttcctttgattttaacaaatggaagctcgagccaa
+>flammea
+gaactcttcatttgcattgttgtgcacaatattgatgggcctggattgagggattccgacattcaacagtatcttgcccgaatagctgcttgttcccata
+ttcgcatcattgcttcaattgaccatgttaatgcccctctgttgtgggacaagaagatggtcgacatgcagttcaactggttttggcatcatacccctac
+ctttgaaccttacacggttgaaggcatgttctttcctttgattttaacaaatggaagctcgagccaa
+>hypoleuca
+------ttcatttgcattgttgtgcacaatattgatgggcctggattgagggattccgacattcaacagtatcttgcccgaatagctgcttgttcccata
+ttcgcatcattgcttcaattgaccatgttaatgcccctctgttgtgggacaagaagatggttgacatgcagttcaactggttttggcatcatacccctac
+ctttgaaccttacacggttgaaggcatgttctttcctttgattttaacaaatggaagctcgagccaa
+>kriegeriana
+------------------------------------gggcctggattgagggattccgacattcaacagtatcttgcccgaatagctgcttgttcccata
+ttcgcatcattgcttcaattgaccatgttaatgcccctctgttgtgggacaagaagatggtcgacatgcagttcaactggttttggcatcatacccctac
+ctttgaaccttacacggttgaaggcatgttctttcctttgattttaacaaatggaagctcgagccaa
+>kollmannii
+gaactcttcatttgcattgttgtgcacaatattgatgggcctggattgagggattccgacattcaacagtatcttgcccgaatagctgcttgttcccata
+ttcgcatcattgcttcaattgaccatgttaatgcccctctgttgtgggacaagaagatggtcgacatgcagttcaactggttttggcatcatacccctac
+ctttgaaccttacacagttgaaggcatgttctttcctttgattttaacaaatggaagctcgagccaa
+>chrysophylla
+gaactcttcatctgcattgttgtgcacaatattgatgggcctggattgagggattccgacattcaacagtatcttgcccgaatagctgcttgttcccata
+ttcgcatcattgcttcaattgaccatgttaatgcccctctgttgtgggacaagaagatggtcgacatgcagttcaactggttttggcatcatacccctac
+ctttgaaccttacacggttgaaggcatgttctttcctttgattttaacaaatggaagctcgagccaa
+>heliotropoides
+gaactcttcatttgcattgttgtgcacaatattgatgggcctggattgagggattccgacattcaacagtatcttgcccgaatagctgcttgttcccata
+ttcgcatcattgcttcaattgaccatgttaatgcccctctgttgtgggacaagaagatggtcgacatgcagttcaactggttttggcatcatacccctac
+ctttgaaccttacagggttgaaggcatgttctttcctttgattttaacaaatggaagctcaagccaa
+>ferruginata
+gaactcttcatctgcattgttgtgcacaatattgatggacctggattgagggattctgacattcaacagtatcttgcccgaatagctgcttgttcccata
+ttcgcatcattgcttcaattgaccatgttaatgcccctctgttgtgggacaagaagatggtcgacatgcagttcaactggttttggcatcatacccctac
+ctttgaaccttacacggttgaaggcatgttctttcctttgattttaacaaatggaagctcgagccaa
+>hyemalis
+gaactcttcatctgcattgttgtgcacaatattgatgggcctggattgagggattccgacattcaacagtatcttgcccgaatagctgcttgttctcata
+ttcgcattattgcttcaattgaccatgttaatgcccctctgttgtgggacaaaaagatggtcgacatgcagttcaactggttttggcatcatacccctac
+ctttgaaccttacacggttgaaggcatgttctttcctttgattttaacaaatggaagctcaagccaa
+>longispicata
+---------------------------aatattgatgggcctggattgagggattccgacattcaacagtatcttgcccgaatagctgcttgttcccata
+ttcgcatcattgcttcaattgaccatgttaatgcccctctgttgtgggacaagaagatggtcgacatgcagttcaactggttttggcatcatacccctac
+ctttgaaccttacacggttgaaggcatgttctttcctttgattttaacaaacggaagctcgagccaa
+>laevigata
+gaactcttcatctgcattgttgtgcacaatattgatgggcctggattgagggattccgacattcaacagtatcttgcccgaatagctgcttgttcccata
+ttcgcatcattgcttcaattgaccatgttaatgcccctctgttgtgggacaagaagatggtcgacatgcagttcaactggttttggcatcatacccctac
+ctttgaaccttacacggttgaaggcatgttctttcctttgattttaacaaatggaagctcgagccaa
+>mellina
+---------------------------------------------------------------------------------------------------a
+ttcgcatcattgcttcaattgaccatgttaatgcccctctgttgtgggacaagaagatggtcgacatgcagttcaactggttttggcatcatacccctac
+ctttgaaccttacacggttgaaggcatgttctttcctttgattttaacaaatggaagctcgagccaa
+>lymanii
+gaactcttcatttgcattgttgtgcacaatattgatgggcctggattgagggattccgacattcaacagtatcttgcccgaatagctgcttgttcccata
+ttcgcatcattgcttcaattgaccatgttaatgcccctctgttgtgggacaagaagatggtcgacatgcagttcaactggttttggcatcatacccctac
+ctttgaaccttacacggttgaaggcatgttctttcctttgattttaacaaatggaagctcaagccaa
+>macrothyrsa
+gaactcttcatttgcattgttgtgcacaatattgatgggcctggattgagggattccgacattcaacagtatcttgcccgaatagctgcttgttcccata
+ttcgcatcattgcttcaattgaccatgttaatgcccctctgttgtgggacaagaagatggtcgacatgcagttcaactggttttggcatcatacccctac
+ctttgaaccttacacggttgaaggcatgttctttcctttgattttaacaaatggaagctcgagccaa
+>multispicata
+----------------------------------------------------------------------------------------------------
+-----------------------------------------gtgtgggacaagaagatggtcgacatgcagttcaactggttttggcatcatacccctac
+ctttgaaccttacacggttgaaggcatgttctttcctttgattttaacaaatggaagctcgagccaa
+>lanata
+----------------------------------------------------------------------------------------------------
+-----------------------------------------gtgtgggacaagaagatggtcgacatgcagtttaactggttttggcatcatacccctac
+ctttgaaccttacacggttgaaggcatgttctttcctttgattttaacaaatggaagctcgagccaa
+>loutergiana
+----------------------------------------------------------------------------------------------------
+-----------------------------------------gtgtgggacaagaagatggtcgacatgcagttcaactggttttggcatcatacccctac
+ctttgaaccttacacggttgaaggcatgttctttcctttgattttaacaaatggaagctcgagccaa
+>oraria
+---------------------------------------------------gattccgacattcaacagtatcttgcccgaatagctggttgttcccata
+ttcgcatcattgcttcaattgaccatgttaatgcccctctgttgtgggacaagaagatggtcgacatgcagttcaactggttttggcatcatacccctac
+ctttgaaccttacacggttgaaggcatgttctttcctttgattttaacaaatggaagctcgagccaa
+>nambyquarae
+gaactcttcatctgcattgttgtgcacaatattgatgggcctggattgagggattccgacagccaacagtatcttgcccgaatagctgcttgttcccata
+ttcgcatcattgcttcaattgaccatgttaatgcccctctgttgtgggacaagaagatggtcgacatgcagttcaactggttttggcatcattcccctac
+ctttgaaccttacacggttgaaggcttgttctttcctttgattttaacaaatggaagctcgagccaa
+>octopetala
+gaactcttcatttgcattgttgtgcacaatattgatgggcctggattgagggattccgacattcaacagtatcttgcccgaatagctgcttgttcccata
+ttcgcatcattgcttcaattgaccatgttaatgcccctctgttgtgggacaagaagatggtcgacatgcagttcaactggttttggcatcatacccctac
+ctttgaaccttacacggttgaaggcatgttctttcctttgattttaacaaatggaagctcgagccaa
+>navioensis
+gaactcttcatttgcattgttgtgcacaatattgatgggcctggattgagggattccgacattcaacagtatcttgcccgaatagctgcttgttcccata
+ttcgcatcattgcttcaattgaccatgtcaatgcccctctgttgtgggacaagaagatggtcgacatgcagttcaactggttttggcatcatacccctac
+ctttgaaccttacacggtcgaaggcatgttctttcctttgattttaacaaatggaagctcgagccaa
+>lepidota
+gaactcttcatctgcattgttgtgcacaatattgatgggcctggattgagggattccgacattcaacagtatcttgcccgaatagctgcttgttcccata
+ttcgcatcattgcttcaattgaccatgttaatgcccctctgttgtgggacaagaagatggtcgacatgcagttcaactggttttggcatcatacccctac
+ctttgaaccttacacggttgaaggcatgttctttcctttgattttaacaaatggaagctcgagccaa
+>pepericarpa
+gaactcttcatttgcattgttgtgcacaatattgatgggcctggattgagggattccgacattcaacagtatcttgcccgaatagctgcttgttcccata
+ttcgcatcattgcttcaattgaccatgttaatgcccctctgttgtgggacaagaagatggtcgacatgcagttcaactggtattggcatcatacccctac
+ctttgaaccttacacggttgaaggcatgttctttcctttgattttaacaaatggaagctcgagccaa
+>polyandra
+gaactcttcatctgcattgttgtgcacaatattgatgggcctggattgagggattccgacattcaacagtatcttgcccgaatagctgcttgttcccata
+ttcgcatcattgcttcaattgaccatgttaatgcccctctgttgtgggacaagaagatggtcgacatgcagttcaactggttttggcatcatacccctac
+ctttgaaccttacacggttgaaggcatgttctttcctttgattttaacaaatggaagctcgagccaa
+>organensis
+gaactcttcatttgcattgttgtgcacaatattgatgggcctggattgagggattccgacattcaacagtatcttgcccgaatagctgcttgttcccata
+ttcgcatcattgcttcaattgaccatgttaatgcccctctgttgtgggacaagaagatggtcgacatgcagttcaactggttttggcatcatacccctac
+ctttgaaccttacacggttgaaggcatgttctttcctttgattttaacaaatggaagctcgagccaa
+>punctata
+gaactcttcatctgcattgttgtgcacaatattgatgggcctggattgagggattccgacattcaacagtatcttgcccgaatagctgcttgttcccata
+ttcgcatcattgcttcaattgaccatgttaatgcccctctgttgtgggacaagaagatggtcgacatgcagttcaactggttttggcatcatacccctac
+ctttgaaccttacacggttgaaggcatgttctttcctttgattttaacaaatggaagctcgagccaa
+>renatogoldenbergii
+----------------------------------------------------------------------------------------------------
+-----------------------------------------gtgtgggacaagaagatggtcgacatgcagttcaactggttttggcatcatacccctac
+ctttgaaccttacacggttgaaggcatgttctttcctttgattttaacaaatggaagctcgagccaa
+>robusta
+gaactcttcatttgcattgttgtacacaatattgatgggcctggattgagggattccgacattcaacagtatcttgcccgaatagctgcttgttcccata
+ttcgcatcattgcttcaattgaccatgttaatgcccctctgttgtgggacaagaagatggtcgacatgcagttcaactggttttggcatcatacccctac
+ctttgaaccttacacggttgaaggcatgttctttcctttgattttaacaaatggaagctcaagccaa
+>pennipilis
+gaacacttcatctgcattgttgtgcacaatattgatgggcctggattgagggattctgacattcaacagtatctggcccgaatagctgcttgttcccata
+ttcgcatcattgcttcaattgaccatgttaatgcccctctgttgtgggacaagaagatggtcgacatgcagttcaactggttttggcatcatacccctac
+ctttgaaccttacacggttgaaggcatgttctttcctttgattttaacaaatggaagctcaagccaa
+>rondoniensis
+----------------------------------------------------------------------------------------------------
+-----------------------------------------gtgtgggacaagaagatggtcgacatgcagttcaactggttttggcatcatacccctac
+ctttgaaccttacacggttgaaggcatgttctttcctttgattttaacaaatggaagctcgagccaa
+>penduliflora
+gaactcttcatttgcattgttgtgcacaatattgatgggcctggattgagggattccgacattcaacagtatcttgcccgaatagctgcttgttcccata
+ttcgcatcattgcttcaattgaccatgttaatgcccctctgttgtgggacaagaagatggtcgacatgcagttcaactggttttggcatcatacccctac
+ctttgaaccttacacggttgaaggcatgttctttcctttgattttaacaaatggaagctcgagccaa
+>racemifera
+---------------------------------------------------gattccgacattcaacagtatcttgcccgaatagctgcttgttcccata
+ttcgcatcattgcttcaattgaccatgttaatgcccctctgttgtgggacaagaagatggtcgacatgcagttcaactggttttggcatcatacccctac
+ctttgaaccttacacggttgaaggcatgttctttcctttgattttaacaaatggaagctcgagccaa
+>sclerophylla
+gaactcttcatctgcattgttgtgcacaatattgatgggcctggattgagggattccgacattcaacagtatcttgcccgaatagctgcttgttcccata
+ttcgcatcattgcttcaattgaccatgttaatgcccctctgttgtgggacaagaagatggtcgacatgcagttaaactggttttggcatcatacccctac
+ctttgaaccttacacggttgaaggcatgttctttcctttgattttaacaaatggaagctcgagccaa
+>rufescens
+gaactcttcatctgcattgttgtgcacaatattgatgggcctggattgagggattctgacattcaacagtatcttgctcgaatagctgcttgttcccata
+ttcgcatcattgcttcaattgaccatgttaatgcccctctgttgtgggacaagaagatggtcgacatgcagttcaactggttttggcatcatacccctac
+ctttgaaccttacacggttgaaggcatgttctttcctttgattttaacaaatggaagctcgagccaa
+>serialis
+------------------------------------------ggattgagggattccgacagtcaacagtatcttgcccgaatagctgcttgttcccata
+ttcgcatcatcgcttcaattgaccatgttaatgcccctctgttgtgggacaagaagatggtcgacatgcagttcaactggttttggcatcatacccctac
+ctttgaaccttacacggttgaaggcatgttctttcctttgattttaacaaatggaagctcgagccaa
+>setosociliata
+gaactcttcatttgcattgttgtgcacaatattgatgggcctggattgagggattccgacattcaacagtatcttgcccgaatagctgcttgttcccata
+ttcgcatcattgcttcaattgaccatgttaatgcccctctgttgtgggacaagaagatggtcgacatgcagttcaactggttttggcatcatacccctac
+ctttgaaccttacacggttgaaggcatgttctttcctttgattttaacaaatggaagctcgagccaa
+>ruficalyx
+---------------------------------------------ttgagggattccgacattcaacagtatcttgcccgaatagctgcttgttcccata
+ttcgcatcattgcttcaattgaccatgttaatgcccctctgttgtgggacaagaagatggtcgacatgcagttcaactggttttggcatcatacccctac
+ctttgaaccttacacggttgaaggcatgttctttcctttgattttaacaaacggaagctcgagccaa
+>pterocaulon
+gaactcttcatctgcattgttgtgcacaatattgatgggcctggattgagggattccgacattcaacagtatctttaccgaatagctgcttgttcccata
+ttcgcatcgttgcttcaattgaccatgttaatgcccctctgttgtgggacaagaagatggtcgacatgcagttcaactggttttggcatcatacccctac
+ctttgaaccttacgcggttgaaggcatgttctttcctttgattttaacaaatggaagctcgagccaa
+>secundiflora
+gaactcttcatttgcattgttgtgcacaatattgatgggcctggattgagggattcagacagtcaacagtatcttgcccgaatagctgcttgttcccata
+ttcgcatcatcgcttcaattgaccatgttaatgcccctctgttgtgggacaagaagatggtcgacatgcagttcaactggttttggcatcatacccctac
+ctttgaaccttacacggttgaaggcatgttctttcctttgattttaacaaatggaagctcgagccaa
+>sylvatica
+------------------------------------------------------tccgacattcatcagtatcttgcccgaatagctgcttgttcccata
+ttcgcatcattgcttcaattgaccatgttaatgcccctctgttgtgggacaagaagatggtcgacatgcagttcaactggttttggcatcatacccctac
+ctttgaaccttacacggttgaaggcatgttctttcctttgattttaacaaatggaagctcgagccaa
+>schwackei
+gaactcttcatttgcattgttgtgcacaatattgatgggcctggattgagggattccgacattcaacagtatcttgcccgaatagctgcttgttcccata
+ttcgcatcattgcttcaattgaccatgttaatgcccctctgttgtgggacaagaagatggtcgacatgcagttcaactggttttggcatcatacccctac
+gtttgaaccttacacggttgaaggcatgttctttcctttgattttaacaaatggaagctcgagccaa
+>suberosa
+---ctcttcatctgcattgttgtgcacaatattgatgggcctggattgagggattcggacattcaacagtatcttgcccgaatagctgcttgttcccata
+ttcgcatcattgcttcaattgaccatgttaatgcccctctgttgtgggacaagaagatggtcgacatgcagttcaactggttttggcatcatacccctac
+ctttgaaccttacacggttgaaggcatgttctttcctttgattttaacaaatggaagctcgagccaa
+>triplinervis
+---ctcttcatctgcattgttgtgcacaatattgatgggcctggattgagggattccgacgttcaacagtatcttgcccgaatagctgcttgttcccata
+ttcgcatcattgcttcgatcgaccatgttaatgcccctctgttgtgggacaagaagatggtcgacttgcagttcaactggttttggcatcatacccctac
+ctttgaaccatacacggttgaagggatgttctttccattgattttaaccaatggaagctcaagccaa
+>stenostachya
+gaactcttcatctgcattgttgtgcacaatattgatgggcctggattgagggattccgacattcaacagtatcttgcccgaatagctgcttgttcccata
+ttcgcatcattgcttcaattgaccatgttaatgcccctctgttgtgggacaagaagatggtcgacatgcagttaaactggttttggcatcatacccctac
+ctttgaaccttacacggttgaaggcatgttctttcctttgattttaacaaatggaagctcgagccaa
+>shepherdii
+---------------------------------gatgggcctggattgagggattccgacattcaacagtatcttgcccgaatagctgcttgttcccata
+ttcgcatcattgcttcaattgaccatgttaatgcccctcagttgtgggacaagaagatggtcgacatgcagttcaactggttttggcatcatacccctac
+ctttgaaccttacacggttgaaggcatgttctttcctttgattttaacaaatggaagctcgagccaa
+>wittii
+agactcttcatctgcgttgttgtgcacaatattgatgggcctggattgagggattccgacattcaacagtatcttgcccgaatagctgcttgttcccata
+ttcgcatcattgcttcaattgaccatgttaatgcccctctgttgtgggacaagaagatggtcgacatgcagttcaactggttttggcatcatacccctac
+ctttgaaccttacacggttgaaggcatgttctttcctttgattttaacaaatggaagctcgagccaa
+>tiliifolia
+----------------------------------------------------------------------------------------------------
+-----------------------------------------gtgtgggacaagaagatggtcgacatgcagttcaactggttttggcatcatacccctac
+ctttgaaccttacacggttgaaggcatgttctttcctttgattttaacaaacggaagctcgagccaa
+>wildenowii
+gaactcttcatttgcattgttgtgcacaatattgatgggcctggattgagggattccgacattcaacagtatcttgcccgaatagctgcttgttcccata
+ttcgcatcattgcttcaattgaccatgttaatgcccctctgttgtgggacaagaagatggtcgacatgcagttcaactggttttggcatcatacccctac
+ctttgaaccttacacggttgaaggcatgttctttcctttgattttaacaaatggaagctcgagccaa
+>weddellii
+----------------------------------------------------------------------------------------------------
+-----------------------------------------gtgtgggacaagaagatggtcgacatgcagttcaactggttttggcatcatacccctac
+ctttgaaccttacacggttgaaggcatgttctttcctttgattttaacaaatggaagctcgagccaa
+>tentaculifera
+gaacacttcatctgcattgttgtgcacaatattgatgggcctggattgagggattctgacattcaacagtatcttgcccgaatagctgcttgttcccata
+ttcgcatcattgcttcaattgaccatgttaatgcccctctgttgtgggacaagaagatggtcgacatgcagttcaactggttttggcatcatacccctac
+ctttgaaccttacacggttgaaggcatgttctttcctttgattttaacaaatggaagctcgagccaa

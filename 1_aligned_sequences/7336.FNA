@@ -1,32 +1,20 @@
->burchellii single_hit
-------------------------------------------------------------
----------------------------cactctgacgcactcctctggctccaccactcc
-aagtccgaccgacccgtagcgtttgcccgtgccaccggggacggcgttttcaacgccatc
-atatgggacgtggtggttgacccatcattccaggggataggactggggaaagcggtcata
-gagcgactggtcgacgatctcctaaggaaggggatcacgaacatcgcgctttactccgag
-ccacgggttctcggg---------------------------------------------
----------------------------
->hypoleuca single_hit
-------------------------------------------------------------
----------atccgcctcgccctcgaccactctgacgccctcctctggctccaccactcc
-cagtccgaccgacccgtagcgtttgcccgtgccaccggggacggcgttttcaacgccatc
-atatgggacgtggtcgtcgacccgtcgttccaggggataggactggggaaggcggtcata
-gagcggctggtcgacgatctcctaaggaaggggatcacgaacatcgcgctttactccgag
-ccacgggttctcgggttttatcggccactggggttcgtagcggatccctctgggatcaga
-gggatggtctacactaggaag------
->racemifera single_hit
-------------------------------------------------------------
-------------------------------------------------------------
-------------------------------------ggggacggcgttttcaacgccatc
-atatgggacgtggtcgtcgacccgtcgttccaagggatagggctggggaaggcagtcata
-gagcggctggtcgacgatctcctaaggaaggggatcacaaacatcgcgctttactccgag
-cctcgggttctcgggttttatcggccgctggggttcgtagcggatcccgccgggatcaga
-gggatggtctacactaggaag------
->triplinervis single_hit
-tccctcgacctcgcccacctcaactccatcttcgtcgctgtcggcttccctcgtcgcgaa
-ccctcgaagattcgcctcgccctcgaccactccgacgccctcctctggttccaccactcc
-aagaccgaccgccccgtcgcatttgcccgtgccaccggggacggcgtgttcaacgccatc
-atatgggacgtcgtcgtcgacccatcgttccaggggattggtctggggaaggccgtcatg
-gagcggctggtcgacgacctccttaggaaggggatcgtgaacatcgcgctctactccgag
-ccgcgggttcttgggttctatcggccgctggggttcgtcgcagatcccgccgggatcaga
-gggatggtctactccaggaagaacaag
+>burchellii
+---------------------------------------------------------------------------------------cactctgacgcac
+tcctctggctccaccactccaagtccgaccgacccgtagcgtttgcccgtgccaccggggacggcgttttcaacgccatcatatgggacgtggtggttga
+cccatcattccaggggataggactggggaaagcggtcatagagcgactggtcgacgatctcctaaggaaggggatcacgaacatcgcgctttactccgag
+ccacgggttctcggg------------------------------------------------------------------------
+>hypoleuca
+---------------------------------------------------------------------atccgcctcgccctcgaccactctgacgccc
+tcctctggctccaccactcccagtccgaccgacccgtagcgtttgcccgtgccaccggggacggcgttttcaacgccatcatatgggacgtggtcgtcga
+cccgtcgttccaggggataggactggggaaggcggtcatagagcggctggtcgacgatctcctaaggaaggggatcacgaacatcgcgctttactccgag
+ccacgggttctcgggttttatcggccactggggttcgtagcggatccctctgggatcagagggatggtctacactaggaag------
+>racemifera
+----------------------------------------------------------------------------------------------------
+--------------------------------------------------------ggggacggcgttttcaacgccatcatatgggacgtggtcgtcga
+cccgtcgttccaagggatagggctggggaaggcagtcatagagcggctggtcgacgatctcctaaggaaggggatcacaaacatcgcgctttactccgag
+cctcgggttctcgggttttatcggccgctggggttcgtagcggatcccgccgggatcagagggatggtctacactaggaag------
+>triplinervis
+tccctcgacctcgcccacctcaactccatcttcgtcgctgtcggcttccctcgtcgcgaaccctcgaagattcgcctcgccctcgaccactccgacgccc
+tcctctggttccaccactccaagaccgaccgccccgtcgcatttgcccgtgccaccggggacggcgtgttcaacgccatcatatgggacgtcgtcgtcga
+cccatcgttccaggggattggtctggggaaggccgtcatggagcggctggtcgacgacctccttaggaaggggatcgtgaacatcgcgctctactccgag
+ccgcgggttcttgggttctatcggccgctggggttcgtcgcagatcccgccgggatcagagggatggtctactccaggaagaacaag

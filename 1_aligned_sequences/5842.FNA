@@ -1,25 +1,20 @@
->cubatanensis single_hit
-gattacatggattcgctcaagaactacgagaaatccggcgtgcccaaaggtgccggaacc
-gattccgacgatgggttcgatctgggtcggatgaggaggttgctgggtcgtctcgggaat
-ccccatttgcggttcagg------------------------------------------
-------------------------------------------------------
->hyemalis single_hit
-gattacatggattcgctcaagaactacgagaaatccggcgtgcccaaaggtgccggaacc
-gattccgacgacgggttcgatctgggtcggatgaggaggttgctaggccgtctcgggaat
-ccccatttgcggttcaaggccgttcacatcgctgggacgaagggaaaaggatccacgtct
-gcttttcttgcgaacatcctacggttggaaggatatcgcgtgggttgctatacc
->laevigata single_hit
-gattacatggattcgctcaagaactacgagaaatccggcgtgcccaaaggtgccggaacc
-gattccgacgatgggttcgatctgggtcggatgaggaggttgctgggtcgtctcgggaat
-ccccatttgcggttcaag------------------------------------------
-------------------------------------------------------
->setosociliata single_hit
-gattacatggattcgctcaagaactacgagaaatcgggcgtgcccaaaggtgccggaacc
-gattccgacgatgggttcgatctgggtcggatgaggaggttgctgggtcgtctcgggaat
-ccccatttgcggttc---------------------------------------------
-------------------------------------------------------
->tentaculifera single_hit
-gattacatggattcgctcaagaactacgagaattccggcgtgcccaaaggtgccggaacc
-gattccgacgatgggttcgatctgggtcggatgaggaggttgctgggtcgtctcggaaat
-ccccatttgcggttcaaggccgttcacatcgctgggacgaagggaaaaggatccacgtct
-gcttttctggcgaacatcctacggtcggaagggtatcgcgtgggttgctatacc
+>cubatanensis
+gattacatggattcgctcaagaactacgagaaatccggcgtgcccaaaggtgccggaaccgattccgacgatgggttcgatctgggtcggatgaggaggt
+tgctgggtcgtctcgggaatccccatttgcggttcagg--------------------------------------------------------------
+----------------------------------
+>hyemalis
+gattacatggattcgctcaagaactacgagaaatccggcgtgcccaaaggtgccggaaccgattccgacgacgggttcgatctgggtcggatgaggaggt
+tgctaggccgtctcgggaatccccatttgcggttcaaggccgttcacatcgctgggacgaagggaaaaggatccacgtctgcttttcttgcgaacatcct
+acggttggaaggatatcgcgtgggttgctatacc
+>laevigata
+gattacatggattcgctcaagaactacgagaaatccggcgtgcccaaaggtgccggaaccgattccgacgatgggttcgatctgggtcggatgaggaggt
+tgctgggtcgtctcgggaatccccatttgcggttcaag--------------------------------------------------------------
+----------------------------------
+>setosociliata
+gattacatggattcgctcaagaactacgagaaatcgggcgtgcccaaaggtgccggaaccgattccgacgatgggttcgatctgggtcggatgaggaggt
+tgctgggtcgtctcgggaatccccatttgcggttc-----------------------------------------------------------------
+----------------------------------
+>tentaculifera
+gattacatggattcgctcaagaactacgagaattccggcgtgcccaaaggtgccggaaccgattccgacgatgggttcgatctgggtcggatgaggaggt
+tgctgggtcgtctcggaaatccccatttgcggttcaaggccgttcacatcgctgggacgaagggaaaaggatccacgtctgcttttctggcgaacatcct
+acggtcggaagggtatcgcgtgggttgctatacc

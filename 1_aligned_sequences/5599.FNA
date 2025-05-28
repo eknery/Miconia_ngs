@@ -1,25 +1,15 @@
->amnicola single_hit
-gatgaaggtttcagtgaggcacgtgtccttgcagaggtctctttgttgcctgacaagatt
-cgcgtagcatcagggagacgtcctgtggcaatggccacaggggtgatagatagaagatac
-agagttaccgctgattggaccgtcatgtgttttgaccataatttgaaaaaa---------
-------------
->burchellii single_hit
-gatgaaggtttcagtgaggcacgtgtcattgcagaggtctctttgttgcctgataagatt
-cgcgtagcatcagggagacgtcctgtggcaatggccacaggtgtgatagatagaagatac
-------------------------------------------------------------
-------------
->hyemalis single_hit
-gatgaaggtttcagtgaggcacgtgtcattgcagaggtctctttgttgcctgataagatt
-cgcgtagcatcagggagacgtcctgtggcaatggccacaggtgtgatagatagaagatac
-agagttaccgctgattggactgtcatgtgttttgaccataatttgaaaaaactctgggaa
-gaaaatttgcag
->triplinervis single_hit
-gatgaaggattcagtgaggcgcgtgtcattgcagaggtctctttgttgcgtgataagatt
-cgcgtagcatcagggagacgtcccgtggcaatggccacaggggtaatagataga------
-------------------------------------------------------------
-------------
->stenostachya single_hit
-gatgaaggtttcagtgaggcacgtgtcattgcagaggtctctttgttgcctgataagatt
-cgcgtagcatcagggagacgtgctgtggcaatggccacaggggtgatagatagaagatac
-agagttaccgctgattggaccgtcatgtgttttgaccataatttgaaaatactc------
-------------
+>amnicola
+gatgaaggtttcagtgaggcacgtgtccttgcagaggtctctttgttgcctgacaagattcgcgtagcatcagggagacgtcctgtggcaatggccacag
+gggtgatagatagaagatacagagttaccgctgattggaccgtcatgtgttttgaccataatttgaaaaaa---------------------
+>burchellii
+gatgaaggtttcagtgaggcacgtgtcattgcagaggtctctttgttgcctgataagattcgcgtagcatcagggagacgtcctgtggcaatggccacag
+gtgtgatagatagaagatac------------------------------------------------------------------------
+>hyemalis
+gatgaaggtttcagtgaggcacgtgtcattgcagaggtctctttgttgcctgataagattcgcgtagcatcagggagacgtcctgtggcaatggccacag
+gtgtgatagatagaagatacagagttaccgctgattggactgtcatgtgttttgaccataatttgaaaaaactctgggaagaaaatttgcag
+>triplinervis
+gatgaaggattcagtgaggcgcgtgtcattgcagaggtctctttgttgcgtgataagattcgcgtagcatcagggagacgtcccgtggcaatggccacag
+gggtaatagataga------------------------------------------------------------------------------
+>stenostachya
+gatgaaggtttcagtgaggcacgtgtcattgcagaggtctctttgttgcctgataagattcgcgtagcatcagggagacgtgctgtggcaatggccacag
+gggtgatagatagaagatacagagttaccgctgattggaccgtcatgtgttttgaccataatttgaaaatactc------------------

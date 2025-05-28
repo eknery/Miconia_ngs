@@ -1,21 +1,15 @@
->amnicola single_hit
-------------------------------gtaattccaatcccagggccttcgtcgttt
-gttgccgctttgtccgcctcggggttgaccacagaagagtttacatttgttgggtttctt
-tccaaacatgctggaactaggagagagaggctgatgatttcggcaaacgaccccaagacc
-caaatcttttatgttcctcctcataagcttcagttgtttcttgaggaaacttcttcgata
-tttggtgactcaaggaggtgtg---tcgtagcccgggagatcaccaaa-----------t
+>amnicola
+------------------------------gtaattccaatcccagggccttcgtcgtttgttgccgctttgtccgcctcggggttgaccacagaagagt
+ttacatttgttgggtttctttccaaacatgctggaactaggagagagaggctgatgatttcggcaaacgaccccaagacccaaatcttttatgttcctcc
+tcataagcttcagttgtttcttgaggaaacttcttcgatatttggtgactcaaggaggtgtg---tcgtagcccgggagatcaccaaa-----------t
 tacatgaa-gag
->cubatanensis single_hit
-------------------------------------------------------------
-------------------------------------------------------------
-------------------------------------------------cactacgacatt
-aagacccctcttttgagttatcacaagtttaatgagtctcaacgggag---caaacgatc
-ttgaggaggctgaagcagggtgaaatcgtagccc---taatcagcgatgctggaatgccc
+>cubatanensis
+----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------cactacgacattaagacccctcttttgagtta
+tcacaagtttaatgagtctcaacgggag---caaacgatcttgaggaggctgaagcagggtgaaatcgtagccc---taatcagcgatgctggaatgccc
 ggcatcagtgat
->hyemalis single_hit
-gcaaaattatgcatcaaagaggatgtcactgtaattccaatcccagggccttcgtcgttt
-gttgccgctttgtccgcctcagggttgaccacagaagagtttacatttgttgggtttctt
-tccaaacatgctggaactaggagagagaggctgatgatttcggcaaacgaccccaagacc
-caaatcttttatgttcctcctcataagcttcagttgtttattgaggaaacttcttcgata
-tttggcgactcaaggaggtgtg---tcatagctcgggagatcaccaag------------
+>hyemalis
+gcaaaattatgcatcaaagaggatgtcactgtaattccaatcccagggccttcgtcgtttgttgccgctttgtccgcctcagggttgaccacagaagagt
+ttacatttgttgggtttctttccaaacatgctggaactaggagagagaggctgatgatttcggcaaacgaccccaagacccaaatcttttatgttcctcc
+tcataagcttcagttgtttattgaggaaacttcttcgatatttggcgactcaaggaggtgtg---tcatagctcgggagatcaccaag------------
 ------------

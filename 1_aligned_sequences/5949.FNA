@@ -1,55 +1,44 @@
->amoena single_hit
-------------------------------------------------------------
-------------------------------------------------------------
-caggttaatttttatatccgcgggcctcatggagccgggaaagtgtattgtcagatgttc
-aaagacaaagcagataagcaatggaaattcaccagcttg
->brunnea single_hit
-------------------------------------------------------------
-------------------------------------------------------------
-caggttaatttctatatccgcgggcctcatggagccgggaaagtgtattgtcagatgttc
-aaagacaaagcagataagcaatggaaattcaccagcttg
->cipoensis single_hit
-------------------------------------------------------------
-------------------------------------------------------------
-caggttaatttttatatccgcgggcctcatggagccgggaaagtgtattgtcagatgttc
-aaagacaaagcagataagcaatggaaattcaccagcttg
->alborufescens single_hit
-------------------------------------------------------------
-------------------------------------------------------------
-caggttaatttttatatccgcgggcctcatggagccgggaaagtgtattgtcagatgttc
-aaagacaaagcagataagcaatggaaattcaccagcttg
->cubatanensis single_hit
-------------------------------------------------------------
-------------------------------------------------------------
-caggttaatttctatatccgcgggcctcatggagccgggaaagtgtattgtcagatgttc
-aaagacaaagcagataagcaatggaaattcaccagcttg
->kollmannii single_hit
-------------------------------------------------------------
-------------------------------------------------------------
-caggttaatttctatatccgcgggcctcatggagccgggaaagtgtattgtcagatgttc
-aaagacaaagcagataagcaatggaaattcaccagcttg
->ferruginata single_hit
-------------------------------------tacggccaagaaagcaggaaccgt
-gctgcgcgtcaacgaattccacaccgggtctggactgatgaagagggcgtcgagcatatt
-gaggttaatttttatatccgcgggcctcatggagcggggaaagtgtattgtcagatgttc
-aaagacaaagcagataagcaatggaaattcaccagcttg
->laevigata single_hit
-------------------------------------------------------------
-------------------------------------------------------------
-caggttaatttttatatccgcgggcctcatggagccgggaaagtgtattgtcagatgttc
-aaagacaaagcagataagcaatggaaattcaccagcttg
->lymanii single_hit
-caggtacgggtaaggattgggtctcctattaccgggtacggccaagaaagcaggaacctt
-gctgcgcgtcaacgaattccacaccgggtctggactgatgaagagggcgtcgagcatatt
-gaggttaatttctatatccgcgggcctcatggagccgggaaagtgtattgtcagatgttc
-aaagacaaagcagataagcaatggaaattcaccagcctg
->penduliflora single_hit
-caggtacgggtaaggattgggtctcctattaccgggtacggccaagaaagcaggaaccgt
-gctgcgcgtcaacgaattccacaccgggtctggactgatgaagagggcgtcgagcatatt
-gaggttaatttctatatccgcgggcctcatggagccgggaaagtgtattgtcagatgttc
-aaagacaaagcagataagcaatggaaattcaccagcttg
->setosociliata single_hit
-------------------------------------------------------------
-------------------------------------------------------------
-caggttaatttctatatccgcgggcctcatggagccgggaaagtgtattgtcagatgttc
-aaagacaaagcagataagcaatggaaattcaccagcttg
+>amoena
+----------------------------------------------------------------------------------------------------
+--------------------caggttaatttttatatccgcgggcctcatggagccgggaaagtgtattgtcagatgttcaaagacaaagcagataagca
+atggaaattcaccagcttg
+>brunnea
+----------------------------------------------------------------------------------------------------
+--------------------caggttaatttctatatccgcgggcctcatggagccgggaaagtgtattgtcagatgttcaaagacaaagcagataagca
+atggaaattcaccagcttg
+>cipoensis
+----------------------------------------------------------------------------------------------------
+--------------------caggttaatttttatatccgcgggcctcatggagccgggaaagtgtattgtcagatgttcaaagacaaagcagataagca
+atggaaattcaccagcttg
+>alborufescens
+----------------------------------------------------------------------------------------------------
+--------------------caggttaatttttatatccgcgggcctcatggagccgggaaagtgtattgtcagatgttcaaagacaaagcagataagca
+atggaaattcaccagcttg
+>cubatanensis
+----------------------------------------------------------------------------------------------------
+--------------------caggttaatttctatatccgcgggcctcatggagccgggaaagtgtattgtcagatgttcaaagacaaagcagataagca
+atggaaattcaccagcttg
+>kollmannii
+----------------------------------------------------------------------------------------------------
+--------------------caggttaatttctatatccgcgggcctcatggagccgggaaagtgtattgtcagatgttcaaagacaaagcagataagca
+atggaaattcaccagcttg
+>ferruginata
+------------------------------------tacggccaagaaagcaggaaccgtgctgcgcgtcaacgaattccacaccgggtctggactgatg
+aagagggcgtcgagcatattgaggttaatttttatatccgcgggcctcatggagcggggaaagtgtattgtcagatgttcaaagacaaagcagataagca
+atggaaattcaccagcttg
+>laevigata
+----------------------------------------------------------------------------------------------------
+--------------------caggttaatttttatatccgcgggcctcatggagccgggaaagtgtattgtcagatgttcaaagacaaagcagataagca
+atggaaattcaccagcttg
+>lymanii
+caggtacgggtaaggattgggtctcctattaccgggtacggccaagaaagcaggaaccttgctgcgcgtcaacgaattccacaccgggtctggactgatg
+aagagggcgtcgagcatattgaggttaatttctatatccgcgggcctcatggagccgggaaagtgtattgtcagatgttcaaagacaaagcagataagca
+atggaaattcaccagcctg
+>penduliflora
+caggtacgggtaaggattgggtctcctattaccgggtacggccaagaaagcaggaaccgtgctgcgcgtcaacgaattccacaccgggtctggactgatg
+aagagggcgtcgagcatattgaggttaatttctatatccgcgggcctcatggagccgggaaagtgtattgtcagatgttcaaagacaaagcagataagca
+atggaaattcaccagcttg
+>setosociliata
+----------------------------------------------------------------------------------------------------
+--------------------caggttaatttctatatccgcgggcctcatggagccgggaaagtgtattgtcagatgttcaaagacaaagcagataagca
+atggaaattcaccagcttg

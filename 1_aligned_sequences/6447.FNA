@@ -1,56 +1,40 @@
->cipoensis single_hit
-cagatattcagttcgaaggacgaaggtggaggagaagaagaagaaggggagaagaagaaa
-tcgaagacggatgaagccaaagagctgctggccaaatacgggggagcatacctagcgacc
-tcaattacgctttccttggtctctttctcgctctgctatgttctcatcaatgctggggta
-gat---------------------------------------------------------
-------------------------------------------------------------
+>cipoensis
+cagatattcagttcgaaggacgaaggtggaggagaagaagaagaaggggagaagaagaaatcgaagacggatgaagccaaagagctgctggccaaatacg
+ggggagcatacctagcgacctcaattacgctttccttggtctctttctcgctctgctatgttctcatcaatgctggggtagat-----------------
+----------------------------------------------------------------------------------------------------
 ------------------------------------------
->corallina single_hit
-------------------------------------------------------------
-------------------------------------------------------------
-------------------------------------------------------------
-------------------------gtggggatttcagcggatgaaactggggagaaagtt
-gggacatttgctctggcttatgctgcacataaggcagcctctccaatcagattccctccc
+>corallina
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+----gtggggatttcagcggatgaaactggggagaaagttgggacatttgctctggcttatgctgcacataaggcagcctctccaatcagattccctccc
 actgttgctctcactcctattgttgccagatggattgggaag
->eriodonta single_hit
-cagatattcagttcgaaggacgaaggtggagg---agaagaagaaggggagaagaagaaa
-tcaaagacggacgaagccaaagagctgctggccaaatacgggggagcatacctagcgacc
-tcaatcacgctttccttgatctctttctcgctctgctatgttctcatcaatgctggggta
-gatgtccaagctttgttgcagaaggtggggatttcagtggatgcaaccggg---------
-------------------------------------------------------------
+>eriodonta
+cagatattcagttcgaaggacgaaggtggagg---agaagaagaaggggagaagaagaaatcaaagacggacgaagccaaagagctgctggccaaatacg
+ggggagcatacctagcgacctcaatcacgctttccttgatctctttctcgctctgctatgttctcatcaatgctggggtagatgtccaagctttgttgca
+gaaggtggggatttcagtggatgcaaccggg---------------------------------------------------------------------
 ------------------------------------------
->ferruginata single_hit
-cagatattcagttcgaaggacgaaggtggaggagaagaagaagaaggggagaagaagaaa
-tcgaagacagacgaagccaaagagctgctggccaaatacgggggagcatacctagcgacc
-tcaattacgctttccttgatctctttctcgctctgctatgttctcatcaatgctggggta
-gatgtccaagctttgttgcagaaggtggggatttcagtggatgcaactggggagaaagtt
-gggacatttgctctggcttat---------------------------------------
+>ferruginata
+cagatattcagttcgaaggacgaaggtggaggagaagaagaagaaggggagaagaagaaatcgaagacagacgaagccaaagagctgctggccaaatacg
+ggggagcatacctagcgacctcaattacgctttccttgatctctttctcgctctgctatgttctcatcaatgctggggtagatgtccaagctttgttgca
+gaaggtggggatttcagtggatgcaactggggagaaagttgggacatttgctctggcttat---------------------------------------
 ------------------------------------------
->lymanii single_hit
-cagatattcagttcgaaggacgaaggtggaggagaagaagaagaaggggagaagaagaaa
-tcgaagacggacgaagccaaagagctgctggccaaatacgggggagcatacctagcgacc
-tcaattacgctttccttgatctctttctcgctctgctatgttctcatcaatgctggggta
-gatgtccaagctttgttgcagaaggtggggatttcagcggatgaaactggggagaaagtt
-gggacatttgctctggcttatgctgcacataaggcagcctctccaatcagattccctccc
+>lymanii
+cagatattcagttcgaaggacgaaggtggaggagaagaagaagaaggggagaagaagaaatcgaagacggacgaagccaaagagctgctggccaaatacg
+ggggagcatacctagcgacctcaattacgctttccttgatctctttctcgctctgctatgttctcatcaatgctggggtagatgtccaagctttgttgca
+gaaggtggggatttcagcggatgaaactggggagaaagttgggacatttgctctggcttatgctgcacataaggcagcctctccaatcagattccctccc
 actgttgctctcactcctattgttgccagatggattgggaag
->organensis single_hit
-cagatattcagttcgaaggaggaaggtggaggagaagaagaagaaggggagaagaagaaa
-tcaaagacggatgaagccaaagagctgctggccaaatacgggggagcatacctagcgacc
-tcaattacgctttccttgatctctttctcgctctgctatgttctcatcaatgctggggta
-gatgtccaagctttgttgcagaaggtggggatttcagcggatgaaactggggagaaagtt
-gggacatttgctctggcttatgctgcacataaggcagcctctccaatcagatttcctccc
+>organensis
+cagatattcagttcgaaggaggaaggtggaggagaagaagaagaaggggagaagaagaaatcaaagacggatgaagccaaagagctgctggccaaatacg
+ggggagcatacctagcgacctcaattacgctttccttgatctctttctcgctctgctatgttctcatcaatgctggggtagatgtccaagctttgttgca
+gaaggtggggatttcagcggatgaaactggggagaaagttgggacatttgctctggcttatgctgcacataaggcagcctctccaatcagatttcctccc
 actgttgctctcactcctattgttgccagatggattgggaag
->penduliflora single_hit
-cagatattcagttcgaaggacgaagatggaggagaagaagaagaaggggagaagaagaaa
-tcgaagacggacgaagccaaagagctgctggccaaatacgggggagcatacctagcgacc
-tcaattacgctttccttgatctctttctcgctctgctatgttctcatcaatgctggggta
-gatgtccaagctttgttgcagaaggtggggatttcagcggatgaaactggggagaaagtt
-gggacatttgctctggcttatgctgcacataaggcagcctctccaatcagatttcctccc
+>penduliflora
+cagatattcagttcgaaggacgaagatggaggagaagaagaagaaggggagaagaagaaatcgaagacggacgaagccaaagagctgctggccaaatacg
+ggggagcatacctagcgacctcaattacgctttccttgatctctttctcgctctgctatgttctcatcaatgctggggtagatgtccaagctttgttgca
+gaaggtggggatttcagcggatgaaactggggagaaagttgggacatttgctctggcttatgctgcacataaggcagcctctccaatcagatttcctccc
 actgttgctctcactcctattgttgccagatggattgggaag
->stenostachya single_hit
-cagatattcagttcgaaggacgaaggtggaggagaagaagaagaaggggagaagaagaaa
-tcgaagacagacgaagccaaagagctgctggccaaatatgggggagcatacctagcgacc
-tcaattacgctttccttgatctctttctcgctctgctatgttctcatcaatgctggggta
-gatgtccaagctttgttgcagaaggtggggatttcagtggatgaaactggggagaaagtt
-gggacatttgctctggcttacgctgcacataaggcagcctctccaatcagatttcctccc
+>stenostachya
+cagatattcagttcgaaggacgaaggtggaggagaagaagaagaaggggagaagaagaaatcgaagacagacgaagccaaagagctgctggccaaatatg
+ggggagcatacctagcgacctcaattacgctttccttgatctctttctcgctctgctatgttctcatcaatgctggggtagatgtccaagctttgttgca
+gaaggtggggatttcagtggatgaaactggggagaaagttgggacatttgctctggcttacgctgcacataaggcagcctctccaatcagatttcctccc
 actgttgctctcactcctattgttgccggatggattgggaag

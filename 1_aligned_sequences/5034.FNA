@@ -1,14 +1,10 @@
->cinnamomifolia single_hit
-------acggtctacgccattgatcttcttggattcggcgcctccgacaagcctcttgat
-ttcccttacaccatggagacgtgggctgagttgattctggatttcttgagcgaaatcgtc
-ggaaggccgaccgttttggtcggaaactcggttggaagccttgcttgtgtcattg-----
-------------------------------------------------------------
----------------------------------ctgcctcaggt----------------
+>cinnamomifolia
+------acggtctacgccattgatcttcttggattcggcgcctccgacaagcctcttgatttcccttacaccatggagacgtgggctgagttgattctgg
+atttcttgagcgaaatcgtcggaaggccgaccgttttggtcggaaactcggttggaagccttgcttgtgtcattg-------------------------
+-------------------------------------------------------------------------ctgcctcaggt----------------
 ------------
->laevigata single_hit
-agttacacggtctacgccattgatcttcttggattcggcgcctccgacaagcctctcgat
-ttctcttacaccatggagacgtgggctgagttgattctggatttcttgagtgaaatcgtt
-ggaaggccgaccgttttggtcggaaactcggtcggaagtcttgcttgcataatagaatct
-agtcaggacatggttcgagcgcttgtgctgttgaactgtgctggcggcatgaacaacaaa
-gccgtcgtcgatgactggaggataaaactcctgctgcctctgctatggtttttcgatttt
+>laevigata
+agttacacggtctacgccattgatcttcttggattcggcgcctccgacaagcctctcgatttctcttacaccatggagacgtgggctgagttgattctgg
+atttcttgagtgaaatcgttggaaggccgaccgttttggtcggaaactcggtcggaagtcttgcttgcataatagaatctagtcaggacatggttcgagc
+gcttgtgctgttgaactgtgctggcggcatgaacaacaaagccgtcgtcgatgactggaggataaaactcctgctgcctctgctatggtttttcgatttt
 ctattaaggcag

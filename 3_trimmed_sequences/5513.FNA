@@ -1,3 +1,7 @@
+>albicans
+----------------------------------------------------------------------------------------------------
+-----------------------------------gatgcgcaagcaatccgggacacgggatcgttttatggtgttgaacctgttattatcaaaggagt
+tgctcatgacatgatgctggactgttcatgggagaagggcgctgaagccatcttgccatggctg
 >amnicola
 tatcaggagctgatgaaggagagttcacagataccgttgtttgatctgaggaaactaaatgcatctcttcccgttccttcaccgaaaaagccggttcaac
 tgctcgtcttaggtgcagaagacgacttgatagtggatgcgcaagcaatccgggacacgggatccttttatggcgttgaaccttttattatcaaaggagt
@@ -22,7 +26,7 @@ cgctcatgacatgatgctggactgttcatgggagaagggcgctgaacccatcttgccatggctg
 tatcaggagctgatgaaggagagttcacagataccgttgtttgatctgaggaaactaaatgcatctcttcccgttccttcaccgaaaaagccggttcaac
 tgctcgtcttaggtgcagaagacgacttgatagtggatgcgcaagcaatccgggacacaggatccttttatggcgttgaacctgttattatcaaaggagt
 cgctcatgacatgatgctggactgttcatgggagaagggcgctgaagccatcttgccatggctg
->buddlejoides
+>valtheri
 ----------------------------------------------------------------------------------------------------
 -----------------------------------gatgcgcaagcaatccgggacacgggatccttttatggcgttgaacctgttattatcaaaggagt
 cgctcatgacatgatgctggactgttcatgggagaagggtgctgaagccgtcttgccatggctg
@@ -41,6 +45,10 @@ cgctcatgacatgatgctggactgttcatgggagaagggtgctgaagccgtcttgccatggctg
 >astroplocama
 tatcaggagctgatgaaggagagttcacagataccgttgtttgatctgaggaaactaaatgcatctcttcccgttccttcaccgaaaacaccggttcaat
 tgctcgtcttaggtgcagaagatgacttgatagtggatgcgcaagcaatccgggacacgggatccttttatggcgttgaacctgttattatcaaaggagt
+cgctcatgacatgatgctggactgttcatgggagaagggcgctgaagccatcttgccatggctg
+>castaneiflora
+tatcaggagctgatgaaggagagttcacagataccgttgtttgatctgaggaaactaaatgcatctcttcccgttccttcaccgaaaacgccggttcaac
+tgctcgtcttaggtgcagaagacgacttgatagtggatacgcaagcaatccgggacacgggatccttttatggcgttgaacctgttattatcaaaggagt
 cgctcatgacatgatgctggactgttcatgggagaagggcgctgaagccatcttgccatggctg
 >calvescens
 tatcaggagctgatgaaggagagttcacagataccgttgtttgatctgaggaaactaaatgcatctcttcccgttccttcaccgaaatcgccggttcaac
@@ -90,9 +98,17 @@ cgctcatgacatgatgctggactgttcatgggagaagggcgctgaacccatcttgccatggctg
 tatcaggagctgatgaaggagagttcacagataccgttgtttgatctgaggaaactaaatgcatctcttcccgttccttcaccgaaaaagccggttcaac
 tgctcgtcttaggtgcagaagacgacttgatagtggatgcgcaagcaatccgggacacaggatccttttatggcgttgaacctgttattatcaaaggagt
 cgctcatgacatgatgctggactgttcatgggagaagggcgctgaagccatcttgccatggctg
+>eriodonta
+------------atgaaggagagttcacagataccgttgtttgatctgaggaaactaaatgcatctcttcccgttccttcaccgaaaaagccggttcaac
+tgctcgtcttaggtgcagaagacgacttgatagtggatgcgcaagcaatccgggacacgggatcgttttatggcgttgaacctgttattatcaaaggagt
+cgctcatgacatgatgctggactgttcatgggagaagggcgctgaagccatcttgccatggctg
 >cyathanthera
 tatcaggagctgatgaaggagagttcacagataccgttgtttgatctgaggaaactaaatgcatctcttcccgttccttcaccgaaaacgccggttcaac
 tgctcgtcttaggtgcggaagacgacttgatagtggatgcgcaagcaatccgggacacgggatcgttttacggcgttgaacctgttattatcaaaggtgc
+cgctcatgacatgatgctggactgttcatgggagaagggcgctgaagccatcttgccatggctg
+>fallax
+tatcaggagctgatgaaggagagttcacagataccgttgtttgatctgaggaaactaaatgcatctcttcccgttccttcaccgaaaacgccagttcaac
+tgctcgtcttaggtgcagaagacgacttgatagtggatgcgcaagcaatccgggacacgggatccttttatggcgttgaacctgtttttatcaaaggagt
 cgctcatgacatgatgctggactgttcatgggagaagggcgctgaagccatcttgccatggctg
 >formosa
 tatcaggagctgatgaaggagagttcacagataccgttgtttgatctgaggaaactaaatgcatctcttcccgttccttcaccgaaaaagccggttcaac
@@ -126,6 +142,10 @@ cgctcatgacatgatgctggactgttcatgggagaagggcgctgaagccatcttgccatggctg
 tatcaggagctgatgaaggagagttcacagataccgttgtttgatctgaggaaactaaatgcatctcttcctgttccttcaccgaaaaagccggttcaac
 tgctcgtcttaggtgcggaagacgacttgatagtggatgcgcaagcaatccgggacacgggatccttttatggcattgaacctgttattatcaaaggagt
 cgctcatgacatgatgctggactgttcatgggagaagggcgctgaagccatcttgccatggctg
+>hyemalis
+tatcaggagctgatgaaggagagttcacagataccgatgtttgatctgaggaaacttaatgcatctcttcccgttccttcaccgaaaaagccagttcaac
+tgctcgtcttaggtgcagaagacgacttgctagtggatgcacaagcaatccgggagacgggatcgttttatggcgttgaacctgttattatcaaaggagt
+cgctcatgacatgatgctggactgttcatgggagaagggggctgaagccattttgccatctctg
 >longispicata
 tatcaggagctgatgaaggagagttcacagataccgttgtttgatctgaggaaactaaatgcatctcttcccgttccttcaccgaaaaagccggttcaac
 tgctcatcttaggtgcagaagacgacttgatagtggatgcgcaagcaatccgggacacgggatccttttatggcgttgaacctcttattatcaaaggagt
@@ -210,6 +230,10 @@ cgctcatgacatgatgctggactgttcatgggagaagggcgctgaagccatcttgccatggctg
 tatcaggagctgatgaaggagagttcacagataccgttgtttgatctgaggaaactaaatgcatctcttcccgttccttcaccgaaaaagccggttcaac
 tgctcgtcttaggtgcagaagacgacttgatagtggatgcgcaagcaatccgggacacgggatccttttatggcgttgaacctgttattatcaaaggagt
 cgctcatgacatgatgctggactgttcatgggagaagggcgctgaagccatcttgccatggctg
+>sclerophylla
+------------------------------ataccgttgtttgatctgaggaaactaaatgcatctcttcccgttccttcaccgaaaaagccggttcaac
+tgctcatcttaggtgcagaagacgacttgatagtggatgcgcaagcaatccgggacacgggatccttttatggcgtcgaacctgttattatcaaaggagt
+cgctcatgacatgatgctggactgttcatgggagaagggcgctgaatccatcttgccatggctg
 >rufescens
 tatcaggagctgatgaaggagagttcacagataccgttgtttgatctgaggaaactaaatgcatctcttcccgttccttcaccgaaaaagccggttcaac
 ttctcgtcttaggtgcagaagacgacttgatagtggatgcgcaagcaatccgggacacgggatccttttatggcgttgaacctgttattatcaaaggagt

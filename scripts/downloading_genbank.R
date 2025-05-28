@@ -6,7 +6,7 @@ dir_input = "0_sanger_data/"
 access = read.csv(paste0(dir_input, "sanger_acessions.csv") )
 
 ### pick one locus
-locus_name = "ITS"
+locus_name = "ETS"
 
 ### lines with information
 access_clean = access[!is.na(access[,locus_name]),]

@@ -1,98 +1,65 @@
->amnicola single_hit
-------------------------------------------------------------
-------------------------attactacatcgcaagagcctattgctagtatatcg
-caagagcctattgcaagtccagcaggacagaagaccagtacgtcacctaaatggagaccg
-gcacctactcgccgtgagcaagaaaaatgggatagagcaactaaggctgctactggagga
-agt---------------------------------------------------------
+>amnicola
+------------------------------------------------------------------------------------attactacatcgcaag
+agcctattgctagtatatcgcaagagcctattgcaagtccagcaggacagaagaccagtacgtcacctaaatggagaccggcacctactcgccgtgagca
+agaaaaatgggatagagcaactaaggctgctactggaggaagt---------------------------------------------------------
 ---------------------------
->burchellii single_hit
-------------------------agagtaatgacactcgacagtttagatgttgatttg
-agcgaggaactgactaaacctatgatggctacaatacaagagcctgttgcaagtccaaca
-gaaaattcaagagaatttggtgatcagcagaagaactctagttcaaccaagtggagaccg
-gcaccaactcgccgtgaacaagagaaatgggatagggcaactaaggctgctacaggagga
-agt---------------------------------------------------------
+>burchellii
+------------------------agagtaatgacactcgacagtttagatgttgatttgagcgaggaactgactaaacctatgatggctacaatacaag
+agcctgttgcaagtccaacagaaaattcaagagaatttggtgatcagcagaagaactctagttcaaccaagtggagaccggcaccaactcgccgtgaaca
+agagaaatgggatagggcaactaaggctgctacaggaggaagt---------------------------------------------------------
 ---------------------------
->cipoensis single_hit
-------------------------------------------------------------
-------------------------------------------------------------
-------------------------------------------------------------
----ccaactcgccgtgaacaagagaaatgggatagggcaactaaggctgctacaggagga
-agt---------------------------------------------------------
+>cipoensis
+----------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------ccaactcgccgtgaaca
+agagaaatgggatagggcaactaaggctgctacaggaggaagt---------------------------------------------------------
 ---------------------------
->alborufescens single_hit
-------------------------------------------------------------
-------------------------------------------------------------
-------------------------------------------------------------
----cctactcgccgtgagcaagaaaaatgggatagagcaactaaggctgctactggagga
-agt---------------------------------------------------------
+>alborufescens
+----------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------cctactcgccgtgagca
+agaaaaatgggatagagcaactaaggctgctactggaggaagt---------------------------------------------------------
 ---------------------------
->corallina single_hit
-------------------------------------------------------------
-------------------------------------------------------------
-------------------------------------------tcaaccaagtggagaccg
-gcaccaactcgccgtgagcaagagaaataggatagggcaactaaggctgctacaggagga
-agt---------------------------------------------------------
+>corallina
+----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------tcaaccaagtggagaccggcaccaactcgccgtgagca
+agagaaataggatagggcaactaaggctgctacaggaggaagt---------------------------------------------------------
 ---------------------------
->cubatanensis single_hit
----------------------------------------------------------ttg
-agcaaagagctgactaaacctatgattactacatcgcaagagcctattgctagtgtatcg
-caagagcctattgcaagtccagcaggaaagaagaccagtacttcacctacatggagaccg
-gcacctactcgccgtgagcaagaaaaatgggatagagcaactaaggctgctactggagga
-agt---------------------------------------------------------
+>cubatanensis
+---------------------------------------------------------ttgagcaaagagctgactaaacctatgattactacatcgcaag
+agcctattgctagtgtatcgcaagagcctattgcaagtccagcaggaaagaagaccagtacttcacctacatggagaccggcacctactcgccgtgagca
+agaaaaatgggatagagcaactaaggctgctactggaggaagt---------------------------------------------------------
 ---------------------------
->eriodonta multi_hit_stitched_contig_comprising_2_hits
-------------------------------------------------------------
-------------------------------------------------------------
----------------------------aagaagaccagtacttcacctaaatggagaccg
-gcacctactcgccgtgagcaagaaaaatgggatagagcaactaaggctgctactggagga
-agtgaagtgatgtttcgtgaattgaggcggcctcgaggtgacccaaatatattaactgct
+>eriodonta
+----------------------------------------------------------------------------------------------------
+-----------------------------------------------aagaagaccagtacttcacctaaatggagaccggcacctactcgccgtgagca
+agaaaaatgggatagagcaactaaggctgctactggaggaagtgaagtgatgtttcgtgaattgaggcggcctcgaggtgacccaaatatattaactgct
 gagtcgagagagcagtactttaaggtg
->cyathanthera single_hit
-------------------------------------------agtttagatgttgatttg
-agcaaagagctgactaaacctatgattactacgtcgcaagagcctattgctagtatattg
-caagagcctattgcaagtccagcaggaaagaagaccagtacttcacctaaatggagaccg
-gcacctactcgccgtgagcaagaaaaatgggatagagcaactaaggctgctactggagga
-agt---------------------------------------------------------
+>cyathanthera
+------------------------------------------agtttagatgttgatttgagcaaagagctgactaaacctatgattactacgtcgcaag
+agcctattgctagtatattgcaagagcctattgcaagtccagcaggaaagaagaccagtacttcacctaaatggagaccggcacctactcgccgtgagca
+agaaaaatgggatagagcaactaaggctgctactggaggaagt---------------------------------------------------------
 ---------------------------
->hyemalis single_hit
-------------------------------------------------------------
-------------------------------------------------------------
-------cctgttgcaagtccggcaggaaagaagagcagtacttcacctaaatggagaccg
-gcacctactcgccgtgagcaagaaaaatgggatagagcaactaaggctgctactggagga
-agt---------------------------------------------------------
+>hyemalis
+----------------------------------------------------------------------------------------------------
+--------------------------cctgttgcaagtccggcaggaaagaagagcagtacttcacctaaatggagaccggcacctactcgccgtgagca
+agaaaaatgggatagagcaactaaggctgctactggaggaagt---------------------------------------------------------
 ---------------------------
->laevigata single_hit
-------------------------------------------agtttagatgttgatttg
-agcaaagagctgactaaacctatgattactacatcgcaagagcctattgctagtatatcg
-ctagagcttattgcaagtccagcaggaaagaagatcagtacttcacctaaatggagaccg
-gcacctactcgccgcgagcaagaaaaatgggatagagcaactaaggctgctactggagga
-agt---------------------------------------------------------
+>laevigata
+------------------------------------------agtttagatgttgatttgagcaaagagctgactaaacctatgattactacatcgcaag
+agcctattgctagtatatcgctagagcttattgcaagtccagcaggaaagaagatcagtacttcacctaaatggagaccggcacctactcgccgcgagca
+agaaaaatgggatagagcaactaaggctgctactggaggaagt---------------------------------------------------------
 ---------------------------
->penduliflora single_hit
-ccttcgggatttttaagcttaagcagagtaatgacactcgacagtttagatgttgatttg
-agcaaagagctgactaaacctatgattactacattgcaagagcctatttctaattcatgt
-tttaattcaagaagatttggcgatcagaagaagaccagtacttcacctacatggagaccg
-gcacctactcgccgtgagcaagaaaaatgggatagagcaactaaggctgctactggagga
-agt---------------------------------------------------------
+>penduliflora
+ccttcgggatttttaagcttaagcagagtaatgacactcgacagtttagatgttgatttgagcaaagagctgactaaacctatgattactacattgcaag
+agcctatttctaattcatgttttaattcaagaagatttggcgatcagaagaagaccagtacttcacctacatggagaccggcacctactcgccgtgagca
+agaaaaatgggatagagcaactaaggctgctactggaggaagt---------------------------------------------------------
 ---------------------------
->setosociliata single_hit
-------------------------------------------------------------
----------------------------actacatcgcaagagcctattgctagtgtatcg
-caagagcctattgcaagtccagcaggaaagaagaccagtacttcacctacatggagaccg
-gcacctactcgccgtgagcaagaaaaatgggatagagcaactaaggctgctactggagga
-agtgaagtgatgtttcgtgaattgaggcggcctcga------------------------
+>setosociliata
+---------------------------------------------------------------------------------------actacatcgcaag
+agcctattgctagtgtatcgcaagagcctattgcaagtccagcaggaaagaagaccagtacttcacctacatggagaccggcacctactcgccgtgagca
+agaaaaatgggatagagcaactaaggctgctactggaggaagtgaagtgatgtttcgtgaattgaggcggcctcga------------------------
 ---------------------------
->valtheri single_hit
-------------------------------------------------------------
----------------------------------------------------agtatattg
-caagagcctattgcaagtccagcaggaaagaagaccagtacttcacctaaatggagacca
-gcacctactcgccgtgagcaagaaaaatgggatagagcaactaaggctgctactggagga
-agt---------------------------------------------------------
----------------------------
->tentaculifera single_hit
----------------------------------------------------gttgatttg
-agcaaagagctgactaaacctatgattactacatcgcaagagcctattgctagtatatcg
-caagagcctattgcaagtccagcaggaaagaagatcagtacttcaccaaaatggagaccg
-gcacctactcgccgtgagcaagaaaaatgggatagagcaactaaggctgctactggagga
-agt---------------------------------------------------------
+>tentaculifera
+---------------------------------------------------gttgatttgagcaaagagctgactaaacctatgattactacatcgcaag
+agcctattgctagtatatcgcaagagcctattgcaagtccagcaggaaagaagatcagtacttcaccaaaatggagaccggcacctactcgccgtgagca
+agaaaaatgggatagagcaactaaggctgctactggaggaagt---------------------------------------------------------
 ---------------------------

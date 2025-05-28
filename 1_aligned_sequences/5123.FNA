@@ -1,72 +1,44 @@
->amnicola single_hit
-ctgcagcgtgatgaagaggacatgacagaccttgtaaagaactgtccttcggagtttaag
-gagtactacgtccaaatgcaagcagcaaagagaagccaagcacccgttccttcccagatg
-aatgaggaccgaactatt------------------------------------------
-------------------------------------------------------------
----------------------------------------------------
->affinis single_hit
----cagcgtgatgaagaggacatgacagaccttgtaaagaactgtccttcagagtttaag
-gagtactacatccaaatgcaagcagcaaagagaagccaagcacccgttccttcccaggtg
-aatgacgaccgaactattctcgataagacactc---------------------------
-------------------------------------------------------------
----------------------------------------------------
->burchellii single_hit
-ctgcagcgtgatgaagaggacatgacagaccttgtaaagaactgtccttcagagtttaag
-gagtactacgtccaaatgcaagcagcaaagagaagccaagcgcccgttccttcccaggta
-------------------------------------------------------------
-------------------------------------------------------------
----------------------------------------------------
->cipoensis single_hit
-ctgcagcgtgatgaagaggacatgacagaccttgtaaagaactgtccttcagagtttaag
-gagtactacgtccaaatgcaggcggcaaagagaagccaagcacccgttccttcccaggta
-------------------------------------------------------------
-------------------------------------------------------------
----------------------------------------------------
->corallina single_hit
-ctgcagcgtgatgaagaggacatgacagaccttgtaaagaactgtccttcagagtttaag
-gagtactacatccaaatgcaagcagcaaagagaagccaagcacccgttccttcccagatg
-aatgaggaccgaactattctcgataagacactcgctgatcaagtg---------------
-------------------------------------------------------------
----------------------------------------------------
->dispar single_hit
-ctgcagcgtgatgaagaggacatgacagaccttgtaaagaactgtccttcagagtttaag
-gagtactacatccaaatgcaagcagcaaagagaagccaagcacccgttccttcccaggta
-------------------------------------------------------------
-------------------------------------------------------------
----------------------------------------------------
->cyathanthera single_hit
-ctgcagcgtgatgaagaggacatgacagaccttgaaaagaactgtccttcagagtttaag
-gagtactacgtccaaatgcaagcagcaaagagaagccaagcacccgttccttcccagatg
-aatgaggaccgaactattctcgataagacactcgctgatcaagtgtcgacatggaaaagg
-agcagagggttttctgacactatggtccttgatcacgtttgttctggggaaacttgcact
-tatcatcaaatcggtgatgtctttgtttgcgagaaaaccgggaacgtccat
->laevigata single_hit
-ctgcagcgtgatgaagaggacatgacagaccttgtaaagaactgtccttcagagtttaag
-gagtactacatccaaatgcaagcagcaaagagaagccaagcgcccgttccttctcaggtg
-aatgaggaccgaactattctcgataagacactcgctgatcaagtgtcgacatggaaaagg
-agcagagggttttctgacactatggtccttgatcacgtttgttctggggaaacttgcact
-tatcatcaaattggtgatgtctttgtttgcgagaaaactgggaatgtccat
->setosociliata single_hit
-ctgcagcgtgatgaagaggacatgacagaccttgtaaagaactgtccttcagagtttaag
-gagtactacgtccaaatgcaagcagcaaagagaagccaagcgcccgttccttcccagatg
-aatgaggaccgaactattctcgataagacactc---------------------------
-------------------------------------------------------------
----------------------------------------------------
->shepherdii single_hit
-ctgcagcgtgatgaagaggacatgacagaccttgtaaagaactgtccttcagagtttaag
-gagtactacatccaaatgcaagcagcaaagagaagccaagcacccgttccttcccaggta
-------------------------------------------------------------
-------------------------------------------------------------
----------------------------------------------------
->valtheri single_hit
-ctgcagcgtgatgaagaggacatgacagaccttgaaaagaactgtccttcagagtttaag
-gagtactacgtccaaatgcaagcagcaaagagaagccaagcacccgttccttcccagatg
-aatgaggaccgaactattctcgataagacactcgctgatcaagtgtcgacatggaaaagg
-agcagagggttttctgacactatggtccttgatcacgtttgttctggggaaacttgcact
-tatcatcaaatcggtgatgtctttgtttgcgagaaaaccgggaacgtccat
->tentaculifera single_hit
-ctgcagcgtgatgaagaggacatgacagaccttgtaaagaactgtccttcagagtttaag
-gagtactacgtccaaatgcaagcagcaaagagaagccaagcgcccgttccttcccaggta
-------------------------------------------------------------
-------------------------------------------------------------
----------------------------------------------------
+>amnicola
+ctgcagcgtgatgaagaggacatgacagaccttgtaaagaactgtccttcggagtttaaggagtactacgtccaaatgcaagcagcaaagagaagccaag
+cacccgttccttcccagatgaatgaggaccgaactatt--------------------------------------------------------------
+-------------------------------------------------------------------------------------------
+>affinis
+---cagcgtgatgaagaggacatgacagaccttgtaaagaactgtccttcagagtttaaggagtactacatccaaatgcaagcagcaaagagaagccaag
+cacccgttccttcccaggtgaatgacgaccgaactattctcgataagacactc-----------------------------------------------
+-------------------------------------------------------------------------------------------
+>burchellii
+ctgcagcgtgatgaagaggacatgacagaccttgtaaagaactgtccttcagagtttaaggagtactacgtccaaatgcaagcagcaaagagaagccaag
+cgcccgttccttcccaggta--------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------
+>cipoensis
+ctgcagcgtgatgaagaggacatgacagaccttgtaaagaactgtccttcagagtttaaggagtactacgtccaaatgcaggcggcaaagagaagccaag
+cacccgttccttcccaggta--------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------
+>corallina
+ctgcagcgtgatgaagaggacatgacagaccttgtaaagaactgtccttcagagtttaaggagtactacatccaaatgcaagcagcaaagagaagccaag
+cacccgttccttcccagatgaatgaggaccgaactattctcgataagacactcgctgatcaagtg-----------------------------------
+-------------------------------------------------------------------------------------------
+>dispar
+ctgcagcgtgatgaagaggacatgacagaccttgtaaagaactgtccttcagagtttaaggagtactacatccaaatgcaagcagcaaagagaagccaag
+cacccgttccttcccaggta--------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------
+>cyathanthera
+ctgcagcgtgatgaagaggacatgacagaccttgaaaagaactgtccttcagagtttaaggagtactacgtccaaatgcaagcagcaaagagaagccaag
+cacccgttccttcccagatgaatgaggaccgaactattctcgataagacactcgctgatcaagtgtcgacatggaaaaggagcagagggttttctgacac
+tatggtccttgatcacgtttgttctggggaaacttgcacttatcatcaaatcggtgatgtctttgtttgcgagaaaaccgggaacgtccat
+>laevigata
+ctgcagcgtgatgaagaggacatgacagaccttgtaaagaactgtccttcagagtttaaggagtactacatccaaatgcaagcagcaaagagaagccaag
+cgcccgttccttctcaggtgaatgaggaccgaactattctcgataagacactcgctgatcaagtgtcgacatggaaaaggagcagagggttttctgacac
+tatggtccttgatcacgtttgttctggggaaacttgcacttatcatcaaattggtgatgtctttgtttgcgagaaaactgggaatgtccat
+>setosociliata
+ctgcagcgtgatgaagaggacatgacagaccttgtaaagaactgtccttcagagtttaaggagtactacgtccaaatgcaagcagcaaagagaagccaag
+cgcccgttccttcccagatgaatgaggaccgaactattctcgataagacactc-----------------------------------------------
+-------------------------------------------------------------------------------------------
+>shepherdii
+ctgcagcgtgatgaagaggacatgacagaccttgtaaagaactgtccttcagagtttaaggagtactacatccaaatgcaagcagcaaagagaagccaag
+cacccgttccttcccaggta--------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------
+>tentaculifera
+ctgcagcgtgatgaagaggacatgacagaccttgtaaagaactgtccttcagagtttaaggagtactacgtccaaatgcaagcagcaaagagaagccaag
+cgcccgttccttcccaggta--------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------

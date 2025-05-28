@@ -1,28 +1,18 @@
->albicans single_hit
----attggcgacaacaaccttattatgggatcgtgccacattgcccatgactgcaaaatt
-ggaaacagtaacatctttgcaaacaacactcttcttgttggccatgttgtggtggaa---
-------------------------------------
->amnicola single_hit
-gttattggcaacaacaatcttattatggcatcatgccatgttgcgcacgactgcaaaatt
-gggaacagtaatatctttgcgaacagtactcttctggctggccatgttgtggtggaa---
-------------------------------------
->burchellii single_hit
-gttattggcaacaacaatcttattatgggatcatgccatcttgcacatgactgcaaaatt
-gggaacagtaacatctttgcgaacagtactcttctggctggccatgttgtggtggaagat
-tatgtgcataccgccggagctgttgtcgttcatcag
->cyathanthera single_hit
-gctattggcgacaacaaccttattatgggatcgtgccatattgcccatgactgcaaaatt
-gggaacagtaatatctttgcaaacaacactcttcttgttggccgtgttgtggtggaa---
-------------------------------------
->nambyquarae single_hit
-gttattggcgacaacaatcttattatggcatcgtgccatgttgcacacgactgcaaaatt
-gggaacagtaatatctttgcgaacagtactcttctggctggccatgttgtggtggaa---
-------------------------------------
->valtheri single_hit
----------------aatcttattatgggatcatgccatgttgcacatgactgcaaaatt
-gggaacagtaacatctttgcgaacagtactcttctggctggccatgttgtggtggaagat
-tatgtgcataccgccggagctgttgtc---------
->tentaculifera single_hit
-gttattggcaacaacaatcttattatgggatcgtgccatattgcgcatgactgcaaaatt
-gggaacagtaacatctttgcgaacagtactcttctggctggccatgttgtggtggaagat
-tatgtgcataccgccggagctgttgtcgttcat---
+>albicans
+---attggcgacaacaaccttattatgggatcgtgccacattgcccatgactgcaaaattggaaacagtaacatctttgcaaacaacactcttcttgttg
+gccatgttgtggtggaa---------------------------------------
+>amnicola
+gttattggcaacaacaatcttattatggcatcatgccatgttgcgcacgactgcaaaattgggaacagtaatatctttgcgaacagtactcttctggctg
+gccatgttgtggtggaa---------------------------------------
+>burchellii
+gttattggcaacaacaatcttattatgggatcatgccatcttgcacatgactgcaaaattgggaacagtaacatctttgcgaacagtactcttctggctg
+gccatgttgtggtggaagattatgtgcataccgccggagctgttgtcgttcatcag
+>cyathanthera
+gctattggcgacaacaaccttattatgggatcgtgccatattgcccatgactgcaaaattgggaacagtaatatctttgcaaacaacactcttcttgttg
+gccgtgttgtggtggaa---------------------------------------
+>nambyquarae
+gttattggcgacaacaatcttattatggcatcgtgccatgttgcacacgactgcaaaattgggaacagtaatatctttgcgaacagtactcttctggctg
+gccatgttgtggtggaa---------------------------------------
+>tentaculifera
+gttattggcaacaacaatcttattatgggatcgtgccatattgcgcatgactgcaaaattgggaacagtaacatctttgcgaacagtactcttctggctg
+gccatgttgtggtggaagattatgtgcataccgccggagctgttgtcgttcat---

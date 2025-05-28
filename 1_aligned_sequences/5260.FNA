@@ -1,156 +1,104 @@
->amnicola single_hit
-------------------------------------------------------------
-------------------------------------------------------------
-tttgatatgcccgcaccgactgtgactccggaattgaagaaggatcttcagttgctgaag
-ttgaggaatgttattgatccgaagaggcactacaagaagggagactctaaatcgaaaact
-cttcccaagtatttccaggtcggcactgtgatagagtcc---------
->brunnea single_hit
-------------------------------------------------------------
-------------------------------------------------------------
-tttgatatgcccgtgccgactgtgactccggaattgaagaaggatcttcagttgctgaag
-ttgaggaatgttattgatccgaagaggcactacaagaagggagactctaaatcgaaaact
-cttcccaagtatttccaggtcggcacagtgatagagtcc---------
->astroplocama single_hit
----------------------------------------------------cccaatgat
-cctaggaagttgaacaagttgatcaagaagcaggctaaggatactgctgggtctaagtgg
-tttgatatgcccgcgccgactgtgactccggaattgaagaaggatcttcagttgctgaag
-ttgaggaatgttattgatccgaagaggcactacaagaagggagactctaaatcgaaaact
-cttcccaagtatttccaggtcggcactgtgatagagtcctcggcggag
->cipoensis single_hit
-------------------------------------------------------------
-------------------------------------------------------------
-tttgatatgcccgcgccgactgtgactccggaattgaagaaggatcttcagttgctgaag
-ttgaggaatgttattgatccgaagaggcactacaagaagggagactctaaatcgaaaact
-cttcccaagtatttccaggtcggcactgtgatagagtcc---------
->alborufescens single_hit
-------------------------------------------------------------
-------------------------------------------------------------
-------------------------------------------------------------
----------gttattgatccgaagaggcactacaagaagggagactctaaatcgaaaact
-cttcccaagtatttccaggtcggcactgtgatagagtcc---------
->cubatanensis single_hit
-------------------------------------------------------------
-------------------------------------------------------------
-tttgatatgcccgtgccgactgtgactccggaattgaagaaggatcttcagttgctgaag
-ttgaggaatgttattgatccgaagaggcactacaagaagggagactctaaatcgaaaact
-cttcccaagtatttccaggtcggcacagttatagagtcc---------
->cyathanthera single_hit
-agtggtctatggttgcccaaggaacagttgattgatgggttgttcgttcctcccaatgat
-cctaggaagatgaacaagttaatcaagaagcaggctaaggatactgctgggtctaagtgg
-tttgatatgcccgcgccgaccgtgactacggaattgaagaaggatcttcagttgttgaag
-ttgaggaatgttattgatccgaagaggcactacaagaagggagactctaaatcgaaaact
-cttcccaagtatttccaggttggcactgtgatagagtcctcggcggag
->kollmannii single_hit
-------------------------------------------------------------
-------------------------------------------------------------
-------------------------------------------------------------
-ttgaggaatgttattgatccgaagaggcactacaagaagggagactctaaatcgaaaact
-cttcccaagtatttccaggtcggcacagtgatagagtcc---------
->chrysophylla single_hit
-------------------------------------------------------------
-------------------------------------------------------------
-------------------------------------------------------------
-ttgaggaatgttattgatccgaagaggcactacaagaagggagactctaaatcaaaaact
-cttcccaagtatttccaggtcggcactgtgatagagacc---------
->heliotropoides single_hit
-------------------------------------------------------------
-------------------------------------------------------------
-tttgatatgcccgcgccgactgtgactccggaattgaagaaggatcttcagttgctgaag
-ttgaggaatgttattgatccgaagaggcactacaagaagggagactctaaatcgaaaact
-cttcccaagtatttccaggtcggcacagtgatagagtcc---------
->hyemalis single_hit
-------------------------------------------------------------
-------------------------------------------------------------
-------------------------------------------------------------
-ttgaggaatgttattgatccgaagaggcactacaagaagggagactctaaatcgaaaact
-cttcccaagtatttccaggtcggcactgtgatagagtcg---------
->longispicata single_hit
-------------------------------------------------------------
-------------------------------------------------------------
-------------------------------------------------------------
-ttgaggaatgttattgatccgaagaggcactacaagaagggagactctaaatcgaaaact
-cttcccaagtatttccaggtcggcactgtgatagagtcc---------
->laevigata single_hit
-------------------------------------------------------------
-------------------------------------------------------------
-------------------------------------------------------------
-ttgaggaatgttattgatccgaagaggcactacaagaagggagactctaaatcgaaaact
-cttcccaagtatttccaggtcggcactgtgatagagtcc---------
->lymanii single_hit
-------------------------------------------------------------
----------------------------aagcaggctaaggatactgctgggtctaagtgg
-tttgatatgcccgtgccgactgtgactccggaattgaagaaggatcttcagttgctgaag
-ttgaggaatgttattgatccgaagaggcactacaagaagggagactctaaatcgaaaact
-cttcccaagtatttccaggtcggcacagtggtagagtcc---------
->lepidota single_hit
-------------------------------------------------------------
-------------------------------------------------------------
-tttgatatgcccgcgccgactgtgactccggaattgaagaaggatcttcagttgctgaag
-ttgaggaatgttattgatccgaagaggcactacaagaagggagactctaaatcgaaaact
-cttcccaagtatttccaggtcggcactgtgatagagtcc---------
->punctata single_hit
-------------------------------------------------------------
-------------------------------------------------------------
-tttgatatgcccgcgccgactgtgactccggaattgaagaaggatcttcagttgctgaag
-ttgaggaatgttattgatccgaagaggcactacaagaagggagactctaaatcgaaaact
-cttcccaagtatttccaggtcggcacagtgatagagtcc---------
->renatogoldenbergii single_hit
-------------------------------------------------------------
-------------------------------------------------------------
-------------------------------------------------------------
-ttgaggaatgttattgatccgaagaggcactacaagaagggagactctaaatcgaaaact
-cttcccaagtatttccaggtcggcacggtgatagagtcc---------
->rondoniensis single_hit
-------------------------------------------------------------
-------------------------------------------------------------
-------------------actgtgactccggaattgaagaaggatcttcagttgctgaag
-ttgaggaatgttattgatccgaagaggcactacaagaagggagactctaaatcgaaaact
-cttcccaagtatttccaggtcggcactgtggtagagtcc---------
->penduliflora single_hit
-------------------------------------------------------------
-------------------------------------------------------------
-tttgatatgcccgtaccgactgtgactccggaattgaagaaggatcttcagttgctgaag
-ttgaggaatgttattgatccgaagaggcactacaagaagggagactctaaatcgaaaact
-cttcccaagtatttccaggtcggcacagtg------------------
->setosociliata single_hit
----------------------------ttgattgatgggttgttcgttcctcccaatgat
-cctaggaagttgaacaagttgatcaagaagcaggctaaggatactgctgggtctaagtgg
-tttgatatgcccgtgccgactgtgactccggaattgaagaaggatcttcagttgctgaag
-ttgaggaatgttattgatccgaagaggcactacaagaagggagactctaaatcgaaaact
-cttcccaagtatttccaggtcggcacagttatagagtcc---------
->pterocaulon single_hit
-------------------------------------------------------------
-------------------------------------------------------------
-------------------------------------------------------------
-ttgaggaatgttattgatccgaagaggcactacaagaagggagactctaaatcgaaaact
-cttcccaagtatttccaggtg---------------------------
->schwackei single_hit
-------------------------------------------------------------
-------------------------------------------------------------
-------------------------------------------------------------
-ttgaggaatgttattgatccgaagaggcactacaagaagggagactctaaatcgaaaact
-cttcccaagtatttccaggtg---------------------------
->suberosa single_hit
-------------------------------------------------------------
-------------------------------------------------------------
-------------------------------------------------------------
-ttgaggaatgttattgatccgaagaggcactacaagaagggagactctaaatcgaaaact
-cttcccaagtatttccaggtcggcacagtgatagagtcc---------
->stenostachya single_hit
-------------------------------------------------------------
-------------------------------------------------------------
-tttgatatgcccgcgccgactgtgactccggaattgaagaaggatcttcagttgctgaag
-ttgaggaatgttattgatccgaagaggcactacaagaagggagactctaaatcgaaaact
-cttcccaagtatttccaggtcggcacagtgatagagtcc---------
->wittii single_hit
-------------------------------------------------------------
-------------------------------------------------------------
-tttgatatgcccgcgccgactgtgactccggaattgaagaaggatcttcagttgctgaag
-ttgaggaatgttattgatccgaagaggcactacaagaagggagactctaaatcgaaaact
-cttcccaagtatttccaggtcggcactgtgatagagtcc---------
->tiliifolia single_hit
-------------------------------------------------------------
-------------------------------------------------------------
-------------------------------------------------------------
-ttgaggaatgttattgatccgaagaggcactacaagaagggagactctaaatcgaaaact
-cttcccaagtatttccaggtg---------------------------
+>amnicola
+----------------------------------------------------------------------------------------------------
+--------------------tttgatatgcccgcaccgactgtgactccggaattgaagaaggatcttcagttgctgaagttgaggaatgttattgatcc
+gaagaggcactacaagaagggagactctaaatcgaaaactcttcccaagtatttccaggtcggcactgtgatagagtcc---------
+>brunnea
+----------------------------------------------------------------------------------------------------
+--------------------tttgatatgcccgtgccgactgtgactccggaattgaagaaggatcttcagttgctgaagttgaggaatgttattgatcc
+gaagaggcactacaagaagggagactctaaatcgaaaactcttcccaagtatttccaggtcggcacagtgatagagtcc---------
+>astroplocama
+---------------------------------------------------cccaatgatcctaggaagttgaacaagttgatcaagaagcaggctaagg
+atactgctgggtctaagtggtttgatatgcccgcgccgactgtgactccggaattgaagaaggatcttcagttgctgaagttgaggaatgttattgatcc
+gaagaggcactacaagaagggagactctaaatcgaaaactcttcccaagtatttccaggtcggcactgtgatagagtcctcggcggag
+>cipoensis
+----------------------------------------------------------------------------------------------------
+--------------------tttgatatgcccgcgccgactgtgactccggaattgaagaaggatcttcagttgctgaagttgaggaatgttattgatcc
+gaagaggcactacaagaagggagactctaaatcgaaaactcttcccaagtatttccaggtcggcactgtgatagagtcc---------
+>alborufescens
+----------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------gttattgatcc
+gaagaggcactacaagaagggagactctaaatcgaaaactcttcccaagtatttccaggtcggcactgtgatagagtcc---------
+>cubatanensis
+----------------------------------------------------------------------------------------------------
+--------------------tttgatatgcccgtgccgactgtgactccggaattgaagaaggatcttcagttgctgaagttgaggaatgttattgatcc
+gaagaggcactacaagaagggagactctaaatcgaaaactcttcccaagtatttccaggtcggcacagttatagagtcc---------
+>cyathanthera
+agtggtctatggttgcccaaggaacagttgattgatgggttgttcgttcctcccaatgatcctaggaagatgaacaagttaatcaagaagcaggctaagg
+atactgctgggtctaagtggtttgatatgcccgcgccgaccgtgactacggaattgaagaaggatcttcagttgttgaagttgaggaatgttattgatcc
+gaagaggcactacaagaagggagactctaaatcgaaaactcttcccaagtatttccaggttggcactgtgatagagtcctcggcggag
+>kollmannii
+----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------ttgaggaatgttattgatcc
+gaagaggcactacaagaagggagactctaaatcgaaaactcttcccaagtatttccaggtcggcacagtgatagagtcc---------
+>chrysophylla
+----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------ttgaggaatgttattgatcc
+gaagaggcactacaagaagggagactctaaatcaaaaactcttcccaagtatttccaggtcggcactgtgatagagacc---------
+>heliotropoides
+----------------------------------------------------------------------------------------------------
+--------------------tttgatatgcccgcgccgactgtgactccggaattgaagaaggatcttcagttgctgaagttgaggaatgttattgatcc
+gaagaggcactacaagaagggagactctaaatcgaaaactcttcccaagtatttccaggtcggcacagtgatagagtcc---------
+>hyemalis
+----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------ttgaggaatgttattgatcc
+gaagaggcactacaagaagggagactctaaatcgaaaactcttcccaagtatttccaggtcggcactgtgatagagtcg---------
+>longispicata
+----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------ttgaggaatgttattgatcc
+gaagaggcactacaagaagggagactctaaatcgaaaactcttcccaagtatttccaggtcggcactgtgatagagtcc---------
+>laevigata
+----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------ttgaggaatgttattgatcc
+gaagaggcactacaagaagggagactctaaatcgaaaactcttcccaagtatttccaggtcggcactgtgatagagtcc---------
+>lymanii
+---------------------------------------------------------------------------------------aagcaggctaagg
+atactgctgggtctaagtggtttgatatgcccgtgccgactgtgactccggaattgaagaaggatcttcagttgctgaagttgaggaatgttattgatcc
+gaagaggcactacaagaagggagactctaaatcgaaaactcttcccaagtatttccaggtcggcacagtggtagagtcc---------
+>lepidota
+----------------------------------------------------------------------------------------------------
+--------------------tttgatatgcccgcgccgactgtgactccggaattgaagaaggatcttcagttgctgaagttgaggaatgttattgatcc
+gaagaggcactacaagaagggagactctaaatcgaaaactcttcccaagtatttccaggtcggcactgtgatagagtcc---------
+>punctata
+----------------------------------------------------------------------------------------------------
+--------------------tttgatatgcccgcgccgactgtgactccggaattgaagaaggatcttcagttgctgaagttgaggaatgttattgatcc
+gaagaggcactacaagaagggagactctaaatcgaaaactcttcccaagtatttccaggtcggcacagtgatagagtcc---------
+>renatogoldenbergii
+----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------ttgaggaatgttattgatcc
+gaagaggcactacaagaagggagactctaaatcgaaaactcttcccaagtatttccaggtcggcacggtgatagagtcc---------
+>rondoniensis
+----------------------------------------------------------------------------------------------------
+--------------------------------------actgtgactccggaattgaagaaggatcttcagttgctgaagttgaggaatgttattgatcc
+gaagaggcactacaagaagggagactctaaatcgaaaactcttcccaagtatttccaggtcggcactgtggtagagtcc---------
+>penduliflora
+----------------------------------------------------------------------------------------------------
+--------------------tttgatatgcccgtaccgactgtgactccggaattgaagaaggatcttcagttgctgaagttgaggaatgttattgatcc
+gaagaggcactacaagaagggagactctaaatcgaaaactcttcccaagtatttccaggtcggcacagtg------------------
+>setosociliata
+---------------------------ttgattgatgggttgttcgttcctcccaatgatcctaggaagttgaacaagttgatcaagaagcaggctaagg
+atactgctgggtctaagtggtttgatatgcccgtgccgactgtgactccggaattgaagaaggatcttcagttgctgaagttgaggaatgttattgatcc
+gaagaggcactacaagaagggagactctaaatcgaaaactcttcccaagtatttccaggtcggcacagttatagagtcc---------
+>pterocaulon
+----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------ttgaggaatgttattgatcc
+gaagaggcactacaagaagggagactctaaatcgaaaactcttcccaagtatttccaggtg---------------------------
+>schwackei
+----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------ttgaggaatgttattgatcc
+gaagaggcactacaagaagggagactctaaatcgaaaactcttcccaagtatttccaggtg---------------------------
+>suberosa
+----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------ttgaggaatgttattgatcc
+gaagaggcactacaagaagggagactctaaatcgaaaactcttcccaagtatttccaggtcggcacagtgatagagtcc---------
+>stenostachya
+----------------------------------------------------------------------------------------------------
+--------------------tttgatatgcccgcgccgactgtgactccggaattgaagaaggatcttcagttgctgaagttgaggaatgttattgatcc
+gaagaggcactacaagaagggagactctaaatcgaaaactcttcccaagtatttccaggtcggcacagtgatagagtcc---------
+>wittii
+----------------------------------------------------------------------------------------------------
+--------------------tttgatatgcccgcgccgactgtgactccggaattgaagaaggatcttcagttgctgaagttgaggaatgttattgatcc
+gaagaggcactacaagaagggagactctaaatcgaaaactcttcccaagtatttccaggtcggcactgtgatagagtcc---------
+>tiliifolia
+----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------ttgaggaatgttattgatcc
+gaagaggcactacaagaagggagactctaaatcgaaaactcttcccaagtatttccaggtg---------------------------
