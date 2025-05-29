@@ -11,6 +11,9 @@ dir_out = "3_trimmed_sequences/"
 ### list locus names
 loci_names = list.files(path = paste0(dir_input), pattern = ".FNA")
 
+### % of missing data to remove a site
+threshold = 0.5
+
 ### trimming loci in loop
 for(i in 1:length(loci_names) ){
   ### name of one locus
@@ -26,7 +29,7 @@ for(i in 1:length(loci_names) ){
   ### trimming
   trim = del.colgapsonly(
     x = mtx_locus, 
-    threshold = 0.5,
+    threshold = threshold,
     freq.only = FALSE
     )
   ### convert back to matrix

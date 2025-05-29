@@ -1,6 +1,6 @@
->albicans
----------------------------------------------------------------------caggttttttcttttgtgtttggggatggag
-atccaaatcaaggaatagaagaagagaggtggaag------
+>amoena
+tactgggatccatactattataagagaaggcgagtgcaggcagatgatgacaaaatgaactttattgaatcagttttttcttttgtgtttggggatggag
+atccaaatcaaggaatagaagaagagaggtggaagttggta
 >amnicola
 ---------------------aagagaaggcgagtgcaggcagatgatgacaaaatgaactttattgaatctgttttttcttttgtgtttggggatggag
 atccaaatcaaggaatagaagaagagaggtggaagttggta
@@ -30,9 +30,6 @@ tactgggatccatactattataagagaaggcgagtgcaggcagatgatgacaaaatgaactttattgaatctgttttttc
 atccaaatcaaggaatagaagaagagaggtggaagttggta
 >astroplocama
 tactgggatccatactattataagagaaggcgagtgcaggcagatgatgacaaaatgaactttgttgaatcagttttttcttttgtgtttggggatggag
-atccaaatcaaggaatagaagaagagaggtggaagttggta
->castaneiflora
-tactgggatccatactattataagaggaggcgagtgcagggagatgatgacaaaatgaactttattgaatcagttttttcttttgtgtttggggatggag
 atccaaatcaaggaatagaagaagagaggtggaagttggta
 >calvescens
 tactgggatccatactattataagagaaggcgagtgcaggcagatgatgacaaaatgaactttattgaatcagttttttcttttgtgtttggggatggag
@@ -67,15 +64,6 @@ atccaaatcaaggaatagaagaagagaggtggaagttggta
 >fasciculata
 tactgggatccatactattataagagaaggcgagtgcagggagatgatgacaaaatgaactttattgaatctgttttttcttttgtgtttggggatggag
 atccaaatcaaggaatagaagaagagaggtggaagttggta
->eriodonta
----------------------------------------------------------------------------ttttcttttgtgtttggggatggag
-atccaaatcaaggaatagaagaagagaggtggaagttggta
->cyathanthera
-tactgggatccatactattataagagaaggcgagtgcaggcagatgatgacaaaatgaactttattgaatcagttttttcttttgtgtttggggatggag
-atccaaatcaaggaatagaagaagagaggtggaagttggta
->fallax
-tactgggatccatactattataagagaaggcgagtgcaggcagatgatgacaaaatgaactttattgaatcagttttttcttttgtgtttggggatggag
-atccaaatcaaggaatagaagaagagaggtggaagttggta
 >formosa
 tactgggatccatactattataagagaaggcgagtgcagggagatgatgacaaaatgaactttattgaatctgttttttcttttgtgtttggggatggag
 atccaaatcaaggaatagaagaagagaggtggaagttggta
@@ -95,9 +83,6 @@ atccaaatcaaggaatagaagaagagaggtggaagttggta
 tactgggatccatactattataagagaaggcgagtgcaggcagatgatgacaaaatgaactttattgaatctgttttttcttttgtgtttggggatggag
 atccaaatcaaggaatagaagaagagaggtggaagttggta
 >ferruginata
-tactgggatccatactattataagagaaggcgagtgcaggcagatgatgacaaaatgaactttattgaatcagttttttcttttgtgtttggggatggag
-atccaaatcaaggaatagaagaagagaggtggaagttggta
->hyemalis
 tactgggatccatactattataagagaaggcgagtgcaggcagatgatgacaaaatgaactttattgaatcagttttttcttttgtgtttggggatggag
 atccaaatcaaggaatagaagaagagaggtggaagttggta
 >longispicata

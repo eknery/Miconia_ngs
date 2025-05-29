@@ -10,17 +10,24 @@ loci_names = list.files(path = paste0(dir_input), pattern = ".FNA")
 
 ### species to remove
 spp_remove = c(
-  "amoena",
+  "albicans",
+  "castaneiflora",
   "collatata",
+  "cyathanthera",
   "dorsaliporosa",
   "elata",
+  "eriodonta",
+  "fallax",
+  "hyemalis",
   "lanata",
   "pennipilis",
+  "ruficalyx",
+  "sclerophylla",
   "triplinervis"
 )
 
 ### minimum number of species to maintain a locus
-min_nspp = 50
+min_nspp = 40
 
 ### trimming loci in loop
 for(i in 1:length(loci_names) ){
@@ -59,32 +66,35 @@ for(i in 1:length(loci_names) ){
 ## choose input directory
 dir_input = "0_sanger_data/"
 
-### locus name
-locus_name = "ETS"
-
 ### list FASTA names
-sanger = read.fasta(paste0(dir_input, locus_name,"_aligned.fas"))
+loci_names = list.files(path = paste0(dir_input), pattern = "_aligned.fas")
 
-### species to remove
-spp_remove = c(
-  "albicans",
-  "amoena",
-  "collatata",
-  "dorsaliporosa",
-  "elata",
-  "lanata",
-  "pennipilis",
-  "triplinervis"
-)
+for(locus_name in loci_names){
+  ### list FASTA names
+  sanger = read.fasta(paste0(dir_input, locus_name))
+  ### species to remove
+  spp_remove = c(
+    "collatata",
+    "dorsaliporosa",
+    "elata",
+    "lanata",
+    "pennipilis",
+    "triplinervis"
+  )
+  ### remvoving species
+  slc_sanger = sanger[!names(sanger) %in% spp_remove]
+  ### clean name
+  clean_name = gsub("_aligned.fas","", locus_name)
+  ### export
+  write.fasta(
+    sequences = slc_sanger, 
+    as.string = F, 
+    names = names(slc_sanger),
+    file.out = paste0("2_selected_sequences/", clean_name, ".FNA"),
+    nbchar = 100
+  )
+  ### check!
+  print(paste0("Selection done: ", locus_name)) 
+}
 
-### remvoving species
-slc_sanger = sanger[!names(sanger) %in% spp_remove]
 
-### export
-write.fasta(
-  sequences = slc_sanger, 
-  as.string = F, 
-  names = names(slc_sanger),
-  file.out = paste0("2_selected_sequences/", locus_name, ".FNA"),
-  nbchar = 100
-)
