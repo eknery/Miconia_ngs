@@ -6,7 +6,8 @@ aaggagtgcagacactgcaagtcggaggaaagcaacatgtgtgaccttcttaggataaatacggatcgcggtgaaatgct
 tctcgaagaacggacagcctatttaccacttcgtcggcacttcgacttttagcgaatacacggttatccatgtgggttgtcttgccaagatcaacccggc
 tgcccctttggacaaagtttgtgtcctcagctgtggcatctctacaggcctaggggccacactgaatgtcgccaagccgacgaagggatcttccgtggcg
 atctttggattgggagccgttggcctagctgcggccgagggagctagaatttctggggcatccaggattattggcatcgatttgaacccaaagagattcg
-aagaagccaagaaatttggaatcaccgaa
+aagaagccaagaaatttggaatcaccgaattcgtgaaccccaaggatcacagcaaaccagttcaggaggta-----------------------------
+----------------------------------------------------------------
 >amnicola
 atggcaagcactgttggtcaggtcatccgctgcaaagctgccgtggcatgggaagccgggaagccgctcgtgatcgaggaagtcgaggtcgcgccaccga
 aggcgatggaggttcgcgtgaagatcctcttcacctccctttgtcacactgatgtctacttctgggaggccaaggggcagaccccgttgtttcctcgcat
@@ -15,7 +16,8 @@ aaggagtgcagacactgcaagtcggaggaaagcaacatgtgtgaccttcttaggataaacacggatcgcggagaaatgct
 tctcgaagaacggacagcctatttaccacttcgtcggcacttcgacttttagcgaatacacggttatccatgtgggttgtcttgccaagatcaacccggc
 tgcccctttggacaaagtttgtgtcctcagctgtggcatctctacaggtctaggggccacactgaatgtcgccaagccgacgaagggatcttccgtggcg
 atctttggattgggagccgttggcctagctgcggccgaaggagctagaatttctggggcatccaggattattggcatcgatttgaacccaaacagattcg
-aagaagccaagaaatttggaatcaccgaa
+aagaagccaagaaatttggaatcaccgaattcgtgaaccccaaggatcacagcaaaccagttcaggaggtgattgcagaaatgacagacgggggcgtcga
+caggagcgtcgagtgcaccggaaacatcaacgccatgatctccgcttttgaatgcgtccacgac
 >argyrophylla
 atggcaagcactgttggtcaggtcatccgctgcaaagctgccgtggcatgggaagccgggaagccgctcgtgatcgaggaagtggaggtcgcgccaccga
 aggcgatggaggttcgcgtgaagatcctcttcacctccctttgtcacactgatgtctacttctgggaggccaaggggcagaccccgttgtttcctcgcat
@@ -24,7 +26,8 @@ aaggagtgcagacactgcaagtcggaggaaagcaacatgtgtgaccttcttaggataaacacggatcgcggagaaatgct
 tctcgaagaacggacagcctatttaccacttcgtcggcacttcgacttttagcgaatacacggttatccatgtgggttgtcttgccaagatcaacccggc
 tgcccctttggacaaagtttgtgtcctcagctgtggcatctctacaggtata------------------------------------------------
 ----------------------------------------------------------------------------------------------------
------------------------------
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------
 >affinis
 atggcaagcactgttggtcaggtcatccgctgcaaagctgccgtggcatgggaagccgggaagccgctcgtgatcgaggaagtcgaggtcgcgccaccaa
 aggcgatggaggttcgcgtgaagatcctcttcacctccctttgtcacactgatgtctacttctgggaggccaaggggcagaccccattgtttcctcgcat
@@ -33,7 +36,8 @@ aaggagtgcagacactgcaagtcggaggaaagcaacatgtgtgaccttcttaggataaacacggatcgcggagaaatgct
 tctcgaagaacggacagcctatttaccacttcgtcggcacttccacttttagcgaatacactgttatccatgtgggttgtcttgccaagatcaacccggc
 tgcccctttggacaaagtttgtgtcctcagctgtggcatctctacaggtctaggggccacactgaatgtcgccaagccgacgaagggatcttccgtggcg
 atctttggattgggagccgttggcctagctgcggccgaaggagctagaatttctggggcatccaggattattggc-------------------------
------------------------------
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------
 >angelana
 atggcaagcactgttggtcaggtcatccgctgcaaagctgccgtggcatgggaagccgggaagccgctcgtgatcgaggaagtcgaggtcgcgccaccga
 aggcgatggaggttcgcgtgaagatcctcttcacctccctttgtcacactgatgtctacttctgggaggccaaggggcagaccccgttgtttcctcgcat
@@ -42,7 +46,8 @@ aaggagtgcagacactgcaagtcggaggaaagcaacatgtgtgaccttcttaggataaacacggatcgcggagaaatgct
 tctcgaagaacggacagcctatttaccacttcgtcggcacttcgacttttagcgaatacacggttatccatgtgggttgtcttgccaagatcaacccggc
 tgcccctttggacaaagtttgtgtcctcagctgtggcatctctacaggtctaggggccacactgaatgtcgccaagccgacgaagggatcttccgtggcg
 atctttggattgggagccgttggcctagctgcggccgaaggagctagaatttctggggcatccaggattattggcatcgatttgaacccaaacagattcg
-aagaagccaagaaatttggaatcaccgaa
+aagaagccaagaaatttggaatcaccgaattcgtgaaccccaaggatcacagcaaaccagttcaggaggtgattgcagaaatgacggacgggggcgtcga
+caggagcgtcgagtgcaccggaaacatcaacgccatgatctccgctttcgaatgcgtccacgac
 >baumgratziana
 atggcaagcactgatggtcaggtcatccgctgcaaagctgccgtggcatgggaagccgggaagccgctcgtgatcgaggaagttgaggtcgcgccaccga
 aggcgatggaggttcgcgtgaagatcctcttcacctccctttgtcacactgatgtctacttctgggaggccaaggggcagaccccgttgtttcctcgcat
@@ -51,7 +56,8 @@ aaggagtgcagacactgcaagtcggaggaaagcaacatgtgtgaccttcttaggataaacacggatcgcggagaaatgct
 tctcgaagaacggacagcctatttaccacttcgtcggcacttcgacttttagcgaatacacggttatccatgtgggttgtcttgccaagatcaacccggc
 tgcccctttggacaaagtttgtgtcctcagctgtggcatcacgacaggtctaggggccacactgaatgtcgccaagccgacgaagggatcttccgtggcg
 atctttggattgggagccgttggcctagctgcggccgaaggagctagaatttctggggcatccaggattattggcatcgatttgaacccaaacagattcg
-aagaa------------------------
+aagaa-----------------------------------------------------------------------------------------------
+----------------------------------------------------------------
 >brunnea
 atggcaagcactgatggtcaggtcatccgctgcaaagctgccgtggcatgggaagccgggaagccgctcgtgatcgaggaagtcgaggtcgcgccaccga
 aggcgatggaggttcgcgtgaagatcctcttcacctccctttgtcacactgatgtctacttctgggaggccaaggggcagaccccgttgtttcctcgcat
@@ -60,7 +66,8 @@ aaggagtgcagacactgcaagtcggaggaaagcaacatgtgtgaccttcttaggataaacacggatcgcggagaaatgct
 tctcgaagaacggacagcctatttaccacttcgtcggcacttcgacttttagcgaatacacggttatccatgtgggttgtcttgccaagatcaacccggc
 tgcccctttggacaaagtttgtgtcctcagctgtggcatctctacaggtctaggggccacactgaatgtcgccaagccgacgaagggatcttccgtggcg
 atctttggattgggagccgttggcctagctgcggccgaaggagctagaatttctggggcatccaggattattggcatcgatttgaacccaaaaagattcg
-aagaagccaagaaatttggaatcaccgaa
+aagaagccaagaaatttggaatcaccgaattcgtgaaccccaaggatcac--------------------------------------------------
+----------------------------------------------------------------
 >valtheri
 atggcaagcactgttggtcaggtcatccgctgtaaagctgccgtggcatgggaagccgggaagccgctcgtgatcgaggaagtcgaggtcgcgccaccga
 aggcgatggaggttcgcgtgaagatcctcttcacctccctttgtcacactgatgtctacttctgggaggccaaggggcagaccccgttgtttcctcgcat
@@ -69,7 +76,8 @@ aaggagtgcagacactgcaagtcggaggaaagcaacatgtgtgaccttcttaggataaacaccgatcgcggagaaatgct
 tctcgaagaacggacagcctatttaccacttcgtcggcacttcgacttttagcgaatacacggttatccatgtgggttgtcttgccaagatcaacccggc
 tgcccctttggacaaagtttgtgtcctcagctgtggcatctctacaggtctaggggccacactgaatgtcgccaagccgacgaagggatcttccgtggcg
 atctttggattgggagccgttggcctagctgcggccgaaggagctagaatttctggggcatccaggattattggcatcgatttgaacccaaaaagattcg
-aagaagccaagaaatttggaatcaccgaa
+aagaagccaagaaatttggaatcaccgaattcgtgaaccccaaggatcacagcaaaccagttcaggaggtgattgcagaaatgacggacgggggcgtcga
+caggagcgtcgagtgcaccggaaacgtcaacgccatgatctccgctttcgaatgcgtccacgac
 >burchellii
 atggcaagcactgttggtcaggtcatccgctgcaaagctgccgtggcatgggaagccgggaagccgctcgtgatcgaggaagtcgaggtcgcgccaccga
 aggcgatggaggttcgcgtgaagatcctcttcacctccctttgtcacactgatgtctacttctgggaggccaaggggcagaccccgttgtttcctcgcat
@@ -78,7 +86,8 @@ aaggagtgcagacactgcaagtcggaggaaagcaacatgtgtgaccttcttaggataaacacggatcgtggagaaatgct
 tctcgaagaacggacagccaatttaccacttcgtcggcacttcgacttttagcgaatacacggttatccatgtgggttgtcttgccaagatcaacccggc
 tgcccctttggacaaagtttgtgtcctcagctgtggcatttctacaggtctaggggccacactgaatgtcgccaagccggcgaagggatcttccgtggcg
 atctttggattgggagccgttggcctagctgcggccgaaggagctagaatttctggggcatccaggattattggcatcgatttgaacccaaacagattcg
-aagaagccaagaaatttggaatcaccgaa
+aagaagccaagaaatttggaatcaccgaattcgtgaaccccaaggatcacagcaaaccagttcaggaggta-----------------------------
+----------------------------------------------------------------
 >atlantica
 atggcaagcacagttggtcaggtcatccgctgcaaagctgccgtggcatgggaagccgggaagccgctcgtgatcgaggaagtcgaggtcgcgccaccga
 aggcgatggaggttcgcgtgaagatcctcttcacctccctttgtcacactgatgtctacttctgggaggccaaggggcagaccccgttgtttcctcgcat
@@ -87,7 +96,8 @@ aaggagtgcagacactgcaagtcggaggaaagcaacatgtgtgaccttcttaggataaacacggatcgcggagaaatgct
 tctcgaagaacggacagcctatttaccacttcgtcggcacttcgacttttagcgaatacacggttatccatgtgggttgtcttgccaagatcaacccggc
 tgcccctttggacaaagtttgtgtcctcagctgtggcatctctacaggtctaggggccacactgaatgtcgccaagccgacgaagggatcttccgtggcg
 atctttggattgggagccgttggcctagctgcggccgaaggagctagaatttctggggcatccaggattattggcatcgatttgaacccaaacagattcg
-aagaagccaagaaatttggaatcaccgaa
+aagaagccaagaaatttggaatcaccgaattcgtgaaccccaaggatcacagcaaacca-----------------------------------------
+----------------------------------------------------------------
 >caiuia
 atggcaagcactgttggtcaggtcatccgctgcaaagctgccgtggcatgggaagccgggaagccgctcgtgatcgaggaagtcgaggtcgcgccaccga
 aggcgatggaggttcgcgtgaagatcctcttcacctccctttgtcacactgatgtctacttctgggaggccaaggggcagaccccgttgtttcctcgcat
@@ -96,7 +106,8 @@ aaggagtgcagacactgcaagtcggaggaaagcaacatgtgtgaccttcttaggataaacacggatcgcggagaaatgct
 tctcgaagaacggacagcctatttaccacttcgtcggcacttcgacttttagcgaatacacggttatccatgtgggttgtcttgccaagatcaacccggc
 tgcccctttggacaaagtttgtgtcctcagctgtggcatctctacaggtctaggggccacactgaatgtcgccaagccgacaaagggatcttccgtggcg
 atctttggattgggagccgttggcctagctgcggccgaaggagctagaatttctggggcatccaggattattggcatcgatttgaacacaaaaagattcg
-aagaagacaagaaatttggaatcaccgaa
+aagaagacaagaaatttggaatcaccgaattcgtgaaccccaaggatcac--------------------------------------------------
+----------------------------------------------------------------
 >astroplocama
 atggcaagcactgttggtcaggtcatccgctgcaaagctgccgtggcatgggaagccgggaagccgctcgtgatcgaggaagtcgaggtcgcgccaccga
 aggcgatggaggttcgcgtgaagatcctcttcacctccctttgtcacactgatgtctacttctgggaggccaaggggcagaccccgttgtttcctcgcat
@@ -105,7 +116,8 @@ aaggagtgcagacactgcaagtcggaggaaagcaacatgtgtgaccttcttaggataaacacggatcgcggagaaatgct
 tctcgaagaacggacagcctatttaccacttcgtcggcacttcgacttttagcgaatacacggttatccatgtgggttgtcttgccaagatcaaccaggc
 tgcccctttggacaaagtttgtgtcctcagctgtggcatctctacaggtctaggggccacactgaatgtcgccaagccgacaaagggatcttccgtggcg
 atctttggattgggagccgttggcctagctgcggccgaaggagctagaatttctggggcatccaggattattggcatcgatttgaacccaaacagattcg
-aagaagccaagaaatttggaatcaccgaa
+aagaagccaagaaatttggaatcaccgaattcgtgaaccccaaggatcacagcaaaccagttcaggaggtgattgcagaaatgacggacgggggcgtcga
+caggagcgtcgagtgcaccggaaacgtcaacgccatgatctccgctttcgaa------------
 >calvescens
 atggcaagcactgtcggtcaggtcatccgctgcaaagctgccgtggcatgggaagccgggaagccgctcgtgatcgaggaagtcgaggtcgcgccaccga
 aggcgatggaggttcgcgtgaagatcctcttcacctccctttgtcacaccgatgtctacttctgggaggccaaggggcagaccccgttgtttcctcgcat
@@ -114,7 +126,8 @@ aaggagtgcagacactgcaagtcggaggaaagcaacatgtgtgaccttcttaggataaacacggatcgcggagaaatgct
 tctcgaagaacggacagcctatttaccacttcgtcggcacttcgacttttagcgaatacacggttatccatgtgggttgtcttgccaagatcaacccggc
 tgcccctttggacaaagtttgtgtcctcagctgtggcatctctacaggtctaggggccacactgaatgtcgccaagccggcgaagggatcttctgtggcg
 atctttggattgggagccgttggcctagctgcggccgaaggagctagaatttctggggcatccaggattattggcatcgatttgaacccaaacagattcg
-aagaa------------------------
+aagaa-----------------------------------------------------------------------------------------------
+----------------------------------------------------------------
 >capixaba
 atggcaagcactgttggtcaggtcatccgctgcaaagctgccgtggcatgggaagccgggaagccgctcgtgatcgaggaagtcgaggtcgcgccaccga
 aggcgatggaggttcgcgtgaagatcctcttcacctccctttgtcacactgatgtctacttctgggaggccaaggggcagaccccgttgtttcctcgcat
@@ -123,7 +136,8 @@ aaggagtgcagacactgcaagtcggaggaaagcaacatgtgtgaccttcttaggataaacacggatcgcggagaaatgct
 tctcgaagaacggacagcctatttaccacttcgtcggcacttcgacttttagcgaatacacggttatccatgtgggttgtcttgccaagatcaacccggc
 tgcccctttggacaaagtttgtgtcctcagctgtggcatctctacaggtctaggggccacactgaatgtcgccaagccgacgaagggatcttccgtggcg
 atctttggattgggagccgttggcctcgctgcggccgaaggagctagaatttctggggcatccaggattattggcatcgatttgaacccaaagagattcg
-aagaa------------------------
+aagaa-----------------------------------------------------------------------------------------------
+----------------------------------------------------------------
 >cipoensis
 atggcaagcactgttggtcaggtcatccgctgcaaagctgccgtggcatgggaagccgggaagccgctcgtgatcgaggaagtcgaggtcgcgccaccga
 aggcgatggaggttcgcgtgaagatcctcttcacctccctttgtcacactgatgtctacttctgggaggccaaggggcagaccccgttgtttcctcgcat
@@ -132,7 +146,8 @@ aaggagtgcaggcactgcaagtcggaggaaagcaacatgtgtgaccttcttaggataaacacggatcgcggagaaatgct
 tctcgaagaacggacagcctatttaccacttcgtcggcacttcgacttttagcgaatacacggttatccatgtgggttgtcttgccaagatcaacccggc
 tgcccctttggacaaagtttgtgtcctcagctgtggcatctctacaggtctaggggccacactgaatgtcgccaagccgacgaagggatcttccgtggcg
 atctttggattgggagccgttggcctagctgcggccgaaggagctagaatttctggggcatccaggattattggcatcgatttgaacccaaacagattcg
-aagaa------------------------
+aagaa-----------------------------------------------------------------------------------------------
+----------------------------------------------------------------
 >caudigera
 atggcaagcactgttggtcaggtcatccgctgcaaagctgccgtggcatgggaagccgggaagccgctcgtgatcgaggaagtcgaggtcgcgccaccga
 aggcgatggaggttcgcgtgaagatcctctacacctccctttgtcacactgatgtctacttctgggaggccaaggggcagaccccgttgtttcctcgcat
@@ -141,7 +156,8 @@ aaggagtgcagacactgcaagtcggaggaaagcaacatgtgtgaccttcttaggataaacacggatcgcggagaaatgct
 tctcgaagaacggacagcctatttaccacttcgtcggcacttcgacttttagcgaatacacggttatccatgtgggttgtcttgccaagatcaacccggc
 tgcccctttggacaaagtctgtgtcctcagctgtggcatctctacaggtctaggggccacactgaatgtcgccaagccgacgaagggatcttccgtggcg
 atctttggattgggagccgttggcctagctgcggccgaaggagctagaatttctggggcatccaggattattggcatcgatttgaacccacacagattcg
-aagaagccaagaaatttggaatcaccgaa
+aagaagccaagaaatttggaatcaccgaattcgtgaaccccaaggatcacagcaaaccagttcatgaggtgattgcagaaatgacggacgggggcgtcga
+caggagcgtcgagtgcaccggaaacgtcaacgccatgatctccgctttcgaatgtgtccacgac
 >cinnamomifolia
 atggcaagcactgttggtcaggtcatccgctgcaaagctgccgtggcatgggaagccgggaagccgctcgtgatcgaggaagtcgaggtcgcgccaccga
 aggcgatggaggttcgcgtgaagatcctcttcacctccctttgtcacactgatgtctacttctgggaggccaaggggcagaccccgttgtttcctcgcat
@@ -150,7 +166,8 @@ aaggagtgcagacactgcaagtcggaggaaagcaacatgtgtgaccttcttaggataaacacggatcgcggagaaatgct
 tctcgaagaacggacagcctatttaccacttcgtcggcacttcgacttttagcgaatacacggttatccatgtgggttgtcttgccaagatcaacccggc
 tgcccctttggacaaagtttgtatcctcagctgtggcatctctacaggtctaggggccacactgaatgtcgccaagccggcgaagggatcttccgtggcg
 atctttggattgggagccgttggcctagctgcggccgaaggagctagaatttctggggcatccaggattattggcatcgatttgaacccaaacagattcg
-aagaa------------------------
+aagaa-----------------------------------------------------------------------------------------------
+----------------------------------------------------------------
 >alborufescens
 atggcaagcactgttggtcaggtcatccgctgcaaagctgccgtggcatgggaagccgggaagccgctcgtgatcgaggaagtcgaggtcgcgccaccga
 aggcgatggaggttcgcgtgaagatcctcttcacctccctttgtcacactgatgtctacttctgggaggccaaggggcagaccccgttgtttcctcgcat
@@ -159,7 +176,8 @@ aaggagtgcagacactgcaagtcggaggaaagcaacatgtgtgaccttcttaggataaacacggatcgcggagaaatgat
 tctcgaagaacggacagcctatttaccacttcgtcggcacttcgacttttagcgaatacacggttatccatgtgggttgtcttgccaagatcaacccggc
 tgcccctttggacaaagtttgtgtcctcagctgtggcatctctacaggtctaggggccacactgaatgtcgccaagccgacgaagggatcttccgtggcg
 atctttggattgggagccgttggcctagctgcggccgaaggagctagaatttctggggcatcaaggattattggcatcgatttgaacccaaacagattcg
-aagaagccaagaaatttggaatcaccgaa
+aagaagccaagaaatttggaatcaccgaattcgtgaaccccaaggatcacagcaaaccagttcaggaggtgattgcagaaatgacggacgggggcgtcga
+caggagcgtcgagtgcaccggaaacgtcaacgccatgatctccgctttcgaatgcgtccacgac
 >corallina
 atggcaagcactgatggtcaggtcatccgctgcaaagctgccgtggcatgggaagccgggaagccgctcgtgatcgaggaagtcgaggtcgcgccaccga
 aggcgatggaggttcgcgtgaagatcctcttcacctccctttgtcacactgatgtctacttctgggaggccaaggggcagaccccgttgtttcctcgcat
@@ -168,7 +186,8 @@ aaggagtgcagacactgcaagtcggaggaaagcaacatgtgtgaccttcttaggataaacacggatcgcggagaaatgct
 tctcgaagaacggacagcctatttaccacttcgtcggcacttcgacttttagcgaatacacggttatccatgtgggttgtcttgccaagatcaacccggc
 tgcccctttggacaaagtttgtgtcctcagctgtggcatctctacaggtctaggggccacactgaatgtcgccaagccgacgaagggatcttccgtggcg
 atctttggattgggagccgttggcctagctgcggccgaaggagctagaatttctggggcatccaggattattggcatcgatttgaacccaaacagattcg
-aagaa------------------------
+aagaa-----------------------------------------------------------------------------------------------
+----------------------------------------------------------------
 >dichrophylla
 atggcaagcactgttggtcaggtcatccgctgcaaagctgccgtggcatgggaagccgggaagccgctcgtgatcgaggaagtcgaggtcgcgccgccga
 aggcgatggaggttcgcgtgaagatcctcttcacctccctttgtcacactgatgtctacttctgggaggccaaggggcagaccccgttgtttcctcgcat
@@ -177,7 +196,8 @@ aaggagtgcagacactgcaagtcggaggaaagcaacatgtgcgaccttcttaggataaacacggatcgcggagaaatgct
 tctcgaagaacggacagcctatttaccacttcgttggcacttcgacttttagcgaatacacggttatccatgtgggttgtcttgccaagatcaacccggc
 tgcccctttggacaaagtttgtgtcctcagctgtggcatctctacgggtctaggggccacactgaatgtcgccaagccgacgaagggatcttccgtggcg
 atctttggattgggagccgttggcctagctgcggccgaaggagctagaatttctggggcatccaggattattggcatcgatttgaacccaagcagattcg
-aagaagccaagaaatttggaatcaccgaa
+aagaagccaagaaatttggaatcaccgaattcgtgaaccccaaggatcacagcaaaccagttcaggaggtgattgcagaaatgacggacgggggcgtcga
+caggagcgtcgagtgcaccggaaacgtcaacgccatgatctccgctttcgaatgcgtccacgac
 >dispar
 atggcaagcactgttggtcaggtcatccgctgcaaagctgctgtggcatgggaagccgggaagccgctcgtgatcgaggaagtcgaggtcgcgccaccga
 aggcgatggaggttcgcgtgaagatcctcttcacctccctttgtcacactgatgtctacttctgggaggccaaggggcagaccccgttgtttcctcgcat
@@ -186,7 +206,8 @@ aaggagtgcaggcactgcaagtcggaggaaagcaacatgtgtgaccttcttaggataaacacggatcgcggagaaatgct
 tctcgaagaacggacagcctatttaccacttcgtcggcacttcgacttttagcgaatacacggttatccatgtgggttgtcttgccaagatcaacccggc
 tgcccctttggacaaagtttgtgtactcagctgtggcatctctacaggtctaggggccacactgaatgtcgccaagccgacgaagggatcttccgtggcg
 atctttggattgggagccgttggcctagctgcggccgaaggagctagaatttctggggcatccaggattattggcatcgatttgaacccaaacagattcg
-aagaagccaagaaatttggaatcaccgaa
+aagaagccaagaaatttggaatcaccgaattc--------------------------------------------------------------------
+----------------------------------------------------------------
 >discolor
 atggcaagcactgttggtcaggtcatccgctgcaaagctgccgtggcatgggaagccgggaagccgctcgtgatcgaggaagtcgaggtcgcgccaccga
 aggcgatggaggttcgcgtgaagatcctcttcacctccctttgtcacactgatgtctacttctgggaggccaaggggcagaccccgttgtttcctcgcat
@@ -195,7 +216,8 @@ aaggagtgcagacactgcaagtcggaggaaagcaacatgtgtgaccttcttaggataaacacggatcgcggagaaatgct
 tctcgaagaacggacagcctatttaccacttcgtcggcacttcgacttttagcgaatacacggttatccatgtgggttgtcttgccaagatcaacccggc
 tgcccctttggacaaagtttgtgtcctcagctgtggcatctctacaggtctaggggccacactgaatgtcgccaagccgacgaagggatcttccgtggca
 atctttggattgggagccgttggcctagctgcggccgaaggagctagaatttctggggcatccaggattattggcatcgatttgaacccaaacagattcg
-aagaagccaagaaatttggaatcaccgaa
+aagaagccaagaaatttggaatcaccgaattcgtgaaccccaaggatcacagcaaaccagttcaggaggtgattgcagaaatgacggacgggggcgtcga
+caggagcgtcgagtgcaccggaaacgtcaacgccatgatctccgctttcgaatgcgtccacgac
 >cubatanensis
 atggcaagcactgttggtcaggtcatccgctgcaaagctgccgtggcatgggaagccgggaagccgctcgtgatcgaggaagtcgaggtcgcgccaccaa
 aggcgatggaggttcgcgtgaagatcctcttcacctccctttgtcacactgatgtctacttctgggaggccaaggggcagaccccgttgtttcctcgcat
@@ -204,7 +226,8 @@ aaggagtgcagacactgcaagtcggaggaaagcaacatgtgtgaccttcttaggataaacacggatcgcggagaaatgct
 tctcgaagaacggacagcctatttaccacttcgtcggcacttcgacttttagcgaatacacggttgtccatgtgggttgtcttgccaagatcaacccggc
 tgcccctttggacaaagtttgtgtcctcagctgtggcatctctacaggtctaggggccacactgaatgtcgccaagccgacgaagggatcttccgtggcg
 atctttggattgggagccgttggcctagctgcggccgaaggagctagaatttctggggcatccaggattattggcatcgatatgaacccaaacagattcg
-aagaagccaagaaatttggaatc------
+aagaagccaagaaatttggaatc-----------------------------------------------------------------------------
+----------------------------------------------------------------
 >fasciculata
 atggcaagcactgatggtcaggtcatccgctgcaaagctgccgtggcatgggaagccgggaagccgctcgtgatcgaggaagttgaggtcgcgccaccga
 aggcgatggaggttcgcgtgaagatcctcttcacctccctttgtcacactgatgtctacttctgggaggccaaggggcagaccccgttgtttcctcgcat
@@ -213,7 +236,8 @@ aaggagtgcagacactgcaagtcggaggaaagcaacatgtgtgaccttcttaggataaacacggatcgcggagaaatgct
 tctcgaagaacggacagcctatttaccacttcgtcggcacttcgacttttagcgaatacacggttatccatgtgggttgtcttgccaagatcaacccggc
 tgcccctttggacaaagtttgtgtcctcagctgtggcatcacgacaggtctaggggccacactgaatgtcgccaagccgacgaagggatcttccgtggcg
 atctttggattgggagccgttggcctagctgcggccgaaggagctagaatttctggggca----------------------------------------
------------------------------
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------
 >formosa
 atggcaagcactgatggtcaggtcatccgctgcaaagctgccgtggcatgggaagccgggaagccgctcgtgatcgaggaagtcgaggtcgcgccaccga
 aggcgatggaggttcgcgtgaagatcctcttcacctccctttgtcacactgatgtctacttctgggaggccaaggggcagaccccgttgtttcctcgcat
@@ -222,7 +246,8 @@ aaggagtgcagacactgcaagtcggaggaaagcaacatgtgtgaccttcttaggataaacacggatcgcggagaaatgct
 tctcgaagaacggacagcctatttaccacttcgtcggcacttcgacttttagcgaatacacggttatccatgtgggttgtcttgccaagatcaacccggc
 tgcccctttggacaaagtttgtgtcctcagctgtggcatctctacaggtctaggggccacactgaatgtcgccaagccgacgaagggatcttccgtggcg
 atctttggattgggagccgttggcctagctgcggccgaaggagctagaatttctggggcatccaggattattggcatcgatttgaacccaaacagattcg
-aagaa------------------------
+aagaa-----------------------------------------------------------------------------------------------
+----------------------------------------------------------------
 >flammea
 atggcaagcactgatggtcaggtcatccgctgcaaagctgccgtggcatgggaagccgggaagccgctcgtgatcgaggaagtcgaggtcgcgccaccga
 aggcgatggaggttcgcgtgaagatcctcttcacctccctttgtcacactgatgtctacttctgggaggccaaggggcagaccccgttgtttcctcgcat
@@ -231,7 +256,8 @@ aaggagtgcagacactgcaagtcggaggaaagcaacatgtgtgaccttcttaggataaacacggatcgcggagaaatgct
 tctcgaagaacggacagcctatttaccacttcgtcggcacttcgacttttagcgaatacacggttatccatgtgggttgtcttgccaagatcaacccggc
 tgcccctttggacaaagtttgtgtcctcagctgtggcatctctacaggtctaggggccacactgaatgtcgccaagccgacgaagggatcttccgtggcg
 atctttggattgggagccgttggcctagctgcggccgaaggagctagaatttctggggcatccaggattattggcatcgatttgaacccaaacagattcg
-aagaa------------------------
+aagaa-----------------------------------------------------------------------------------------------
+----------------------------------------------------------------
 >hypoleuca
 atggcaagcactgttggtcaggtcatccgctgcaaagctgccgtggcatgggaagccgggaagccgctcgtgatcgaggaagtcgaggtcgcgccaccga
 aggcgatggaggttcgcgtgaagatcctcttcacctccctttgtcacactgatgtctacttctgggaggccaaggggcagaccccgttgtttcctcgcat
@@ -240,7 +266,8 @@ aaggagtgcagacactgcaagtcggaggaaagcaacatgtgtgaccttcttaggataaacacggatcgcggagaaatgct
 tctcgaagaacggacagcctatttaccacttcgtcggcacttcgacttttagcgaatacacggttatccatgtgggttgtcttgccaagatcaaccctgc
 tgcccctttggacaaagtttgtgtcctcagctgtggcatctctacaggtctaggggccacactgaatgtcgccaagccgaccaagggatcttccgtggcg
 atctttggattgggagccgttggcctagctgcggccgaaggagctagaatttctggggcatcaaggattattggcatcgatttgaacccaaacagattcg
-aagaagccaagaaatttggaatcaccgaa
+aagaagccaagaaatttggaatcaccgaattcgtgaaccccaaggatcacagcaaaccagttcaggaggta-----------------------------
+----------------------------------------------------------------
 >kriegeriana
 atggcaagcactgttggtcaggtcatccgctgcaaagctgccgtggcatgggaagccgggaagccgctcgtgatcgaggaagtggaggtcgcgccaccga
 aggcgatggaggttcgcgtgaagatcctcttcacctccctttgtcacactgatgtctacttctgggaggccaaggggcagaccccgttgtttcctcgcat
@@ -249,7 +276,8 @@ aaggagtgcagacactgcaagtcggaggaaagcaacatgtgtgaccttcttaggataaacacggatcgcggagaaatgct
 tctcgaagaacggacagcctatttaccacttcgtcggcacttcgacttttagcgaatacacggttatccatgtgggttgtcttgccaagatcaacccggc
 tgcccctttggacaaagtttgtgtcctcagctgtggcatctctacaggtctaggggccacactgaatgtcgccaagccgacgaagggatcttccgtggcg
 atctttggattgggagccgttggcctagctgcggccgaaggagctagaatttctggggcatccaggattattggcatcgatttgaacccaaacagattcg
-aagaa------------------------
+aagaa-----------------------------------------------------------------------------------------------
+----------------------------------------------------------------
 >kollmannii
 atggcaagcactgatggtcaggtcatccgctgcaaagctgccgtggcatgggaagccgggaagccgctcgtgatcgaggaagtcgaggtcgcgccaccga
 aggcgatggaggttcgcgtgaagatcctcttcacctccctttgtcacactgatgtctacttctgggaggccaaggggcagaccccgttgtttcctcgcat
@@ -258,7 +286,8 @@ aaggagtgcagacactgcaagtcggaggaaagcaacatgtgtgaccttcttaggataaacacggatcgcggagaaatgct
 tctcgaagaacggacagcctatttaccacttcgtcggcacttcgacttttagcgaatacacggttatccatgtgggttgtcttgccaagatcaacccggc
 tgcccctttggacaaagtttgtgtcctcagctgtggcatctctacaggtctaggggccacactgaatgtcgccaagccgacgaagggatcttccgtggcg
 atctttggattgggagccgttggcctagctgcggccgaaggagctagaatttctggggcatccaggattattggcatcgatttgaacccaaacagattcg
-aagaagccaagaaatttggaatcaccgaa
+aagaagccaagaaatttggaatcaccgaattcgtgaaccccaaggatcacagcaaaccagttcaggag--------------------------------
+----------------------------------------------------------------
 >chrysophylla
 atggcaagcactgttggtcaggtcatccgctgcaaagctgccgtggcatgggaagccgggaagccgctcgtgatcgaggaagtcgaggtcgcgccaccga
 aggcgatggaggttcgcgtgaagatcctcttcacctccctttgtcacactgatgtctacttctgggaggccaaggggcagaccccgttgtttcctcgcat
@@ -267,7 +296,8 @@ aaggagtgcagacactgcaagtcggaggaaagcaacatgtgtgaccttcttaggataaacacggatcgcggagaaatgct
 tctcgaagaacggacagcctatttaccacttcgtcggcacttcgacttttagcgaatacacggttatccatgtgggttgtcttgccaagatcaacccggc
 tgcccctttggacaaagtttgtgtcctcagctgtggcatctctacaggtctaggggccacactgaatgtcgccaagccaacgaagggatcttccgtggcg
 atctttggattgggagccgttggcctagctgcggccgaaggtgctagaatttctggggcatccaggattattggcatcgatttgaacccaaacagattcg
-aagaa------------------------
+aagaa-----------------------------------------------------------------------------------------------
+----------------------------------------------------------------
 >heliotropoides
 atggcaagcactgttggtcaggtcatccgctgcaaagctgccgtggcatgggaagccgggaagccgctcgtgatcgaggaagtcgaggtcgcgccaccga
 aggcgatggaggttcgcgtgaagatcctcttcacctccctttgtcacactgatgtctacttctgggaggccaaggggcagaccccgttgtttcctcgcat
@@ -276,7 +306,8 @@ aaggagtgcagacactgcaagtcggaggaaagcaacatgtgtgaccttcttaggataaacacggatcgcggtgaaatgct
 tctcgaagaacggacagcctatttaccacttcgtcggcacttcgacttttagcgaatacacggttatccatgtgggttgtcttgccaagatcaacccggc
 tgcccctttggacaaagtttgtgtcctcagctgtggcatctctacaggtctaggggccacactgaatgtcgccaagccggcgaagggatcttccgtggcg
 atctttggattgggagccgttggcctagctgcggccgaaggagctagaatttct----------------------------------------------
------------------------------
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------
 >ferruginata
 atggcaagcactgttggtcaggtcatccgctgcaaagctgccgtggcatgggaagccgggaagccgctcgtgatcgaggaagtcgaggtcgcgccaccga
 aggcgatggaggttcgcgtgaagatcctcttcacctccctttgtcacactgatgtctacttctgggaggccaaggggcagaccccgttgtttcctcgcat
@@ -285,7 +316,18 @@ aaggagtgcaggcactgcaagtcggaggaaagcaacatgtgtgaccttcttaggataaacacggatcgcggagaaatgct
 tctcgaagaacggacagcctatttaccacttcgtcggcacttcgacttttagcgaatacacggttatccatgtgggttgtcttgccaagatcaacccggc
 tgcccctttggacaaagtttgtgtcctcagctgtggcatctctacaggtctaggggccacactgaatgtcgccaagccgacgaagggatcttccgtggca
 atctttggattgggagccgttggcctagctgcggccgaaggagctagaatttctggggcatccaggattattggcatcgatttgaacccaaacagattcg
-aagaa------------------------
+aagaa-----------------------------------------------------------------------------------------------
+----------------------------------------------------------------
+>longispicata
+atggcaagcactgttggtcaggtcatccgctgcaaagctgccgtggcatgggaagccgggaagccgctcgtgatcgaggaagtcgaggtcgcgccaccga
+aggcgatggaggttcgcgtgaagatcctcttcacctccctttgtcacactgatgtctacttctgggaggccaaggggcagaccccgttgtttcctcgcat
+ctttggtcacgaagcggctgggatcgtcgaaagcgtgggcgaaggcgtaacggatcttgcgcctggcgaccacgtcctacctgtattcaccggagagtgc
+aaggagtgcagacactgcaagtcggcggaaagcaacatgtgtgaccttcttaggataaacacggatcgcggagaaatgctcagcgacggccagacgaggt
+tctcgaagaacggacagcccatttaccacttcgtcggcacttcgacttttagcgaatacacggttatccatgtgggttgtcttgccaagatcaacccggc
+tgcccctttggacaaagtttgtgtcctcagctgtggcatctctacaggtctaggggccacactgaatgtcgccaagccgacgaagggatcttccgtggcg
+atctttggattgggagccgttggcctagctgcggccgaaggagctagaatttctggggcatccaggattattggcatcgatttgaacccaaacagattcg
+aagaagccaagaaatttggaatcaccgaattcgtgaaccccaaggatcacagcaaaccagttcaggaggta-----------------------------
+----------------------------------------------------------------
 >laevigata
 atggcaagcactgttggtcaggtcatccgctgcaaagctgccgtggcatgggaagctgggaagccgctcgtgatcgaggaagtcgaggtcgcgccaccga
 aggcgatggaggttcgagtgaagatcctcttcacctccctttgtcacactgatgtctacttctgggaggccaaggggcagaccccgttgtttcctcgcat
@@ -294,7 +336,8 @@ aaggagtgcagacactgcaagtcggaggaaagcaacatgtgtgaccttcttaggataaacacggatcgcggagaaatgct
 tctcgaagaacggacagcctatttaccacttcgtcggcacttcgacttttagcgaatacacggttatccatgtgggttgtcttgccaagatcaacccggc
 tgcccctttggacaaagtttgtgtcctcagctgtggcatctctacaggtctaggggccacactgaatgtcgccaagccgacgaagggatcttctgtggcg
 atctttggattgggagccgttggcctagctgcggccgaaggagctagaatttctggggcatccaggattattggcatcgatttgaacccaaacagattcg
-aagaagccaagaaatttggaatcacagaa
+aagaagccaagaaatttggaatcacagaattc--------------------------------------------------------------------
+----------------------------------------------------------------
 >mellina
 atggcaagcactgttggtcaggtcatccgctgcaaagctgccgtggcatgggaagccgggaagccgctcgtgatcgaggaagtcgaggtcgcgccaccga
 aggcgatggaggttcgcgtgaagatcctcttcacctccctttgtcacactgatgtctacttctgggaggccaaggggcagaccccgttgtttcctcgcat
@@ -303,7 +346,8 @@ aaggagtgcagacactgcaagtcggaggaaagcaacatgtgtgaccttcttaggataaacacggatcgcggagaaatgct
 tctcgaagaacggacagcctatttaccacttcgtcggcacttcgacttttagcgaatacacggttatccatgtgggttgtcttgccaagatcaacccggc
 tgcccctttggacaaagtttgtgtcctcagctgtggcatctctacaggtctaggggccacactgaatgtcgccaagccgacgaagggatcttccgtggcg
 atctttggattgggagccgttggcctagctgcggccgaaggagctagaatttctggggcatccaggattattggcatcgatttgaacccaaaaaga----
------------------------------
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------
 >lymanii
 atggcaagcactgatggtcaggtcatccgctgcaaagctgccgtggcatgggaagccgggaagccgctcgtgatcgaggaagtcgaggtcgcgccaccga
 aggcgatggaggttcgcgtgaagatcctcttcacctccctttgtcacactgatgtctacttctgggaggccaaggggcagaccccgttgtttcctcgcat
@@ -312,7 +356,8 @@ aaggagtgcagacactgcaagtcggaggaaagcaacatgtgtgaccttcttaggataaacacggatcgcggagaaatgct
 tctcgaagaacggacagcctatttaccacttcgtcggcacttcgacttttagcgaatacacggttatccatgtgggttgtcttgccaagatcaacccggc
 tgcccctttggacaaagtttgtgtcctcagctgtggcatctctacaggtctaggggccacactgaatgtcgccaagccgacgaagggatcttccgtggcg
 atctttggattgggagccgttggcctagctgcggccgaaggagctagaatttctggggcatccaggattattggcatcgatttgaacccaaacagattcg
-aagaagccaagaaatttggaatcaccgaa
+aagaagccaagaaatttggaatcaccgaattcgtgaaccccaaggatcacagcaaaccagttcaggaggtgattgcagaaatgacggacgggggcgtcga
+caggagcgtcgagtgcaccggaaacatcaacgccatgatctccgctttcgaatgcgtccacgac
 >macrothyrsa
 atggcaagcactgttggtcaggtcatccgctgcaaagctgccgtggcatgggaagccgggaagccgctcgtgatcgaggaagtcgaggtcgcgccaccga
 aggcgatggaggttcgcgtgaagatcctcttcacctccctttgtcacactgatgtctacttctgggaggccaaggggcagaccccgttgtttcctcgcat
@@ -321,7 +366,8 @@ aaggagtgcagacactgcaagtcggaggaaagcaacatgtgtgaccttcttaggataaacacggatcgcggagaaatgct
 tctcgaagaacggacagcctatttaccacttcgtcggcacttcgacttttagcgaatacactgttatccatgtgggttgtcttgccaagatcaacccggc
 tgcccctttggacaaagtttgtgtcctcagctgtggcatctctacaggtctaggggccacactgaatgtcgccaagccggcgaagggatcttccgtggcg
 atctttggattgggagccgttggcctagctgcggccgaaggagctagaatttctggggcatccaggattattggcatcgatttgaacccaaacagattcg
-aagaagccaagaaatttggaatcaccgaa
+aagaagccaagaaatttggaatcaccgaattcgtgaaccccaaggatcacagcaaaccagttcaggaggtgattgcagaaatgacggatgggggcgtcga
+caggagcgtcgagtgcaccggaaacgtcaatgccatgatctccgctttcgaatgcgtccacgac
 >multispicata
 atggcaagcactgttggtcaggtcatccgctgcaaagctgccgtggcatgggaagccgggaagccgctcgtgatcgaggaagtcgaggtcgcgccaccga
 aggcgatggaggttcgcgtgaagatcctcttcacctccctttgtcacactgatgtctacttctgggaggccaaggggcagaccccgttgtttcctcgcat
@@ -330,7 +376,8 @@ aaggagtgcagacactgcaagtcggaggaaagcaacatgtgtgaccttcttaggataaacacggatcgcggagaaatgct
 tctcgaagaacggacagcctatttaccacttcgtcggcacttcgacttttagcgaatacacggtcatccatgtgggttgtcttgccaagatcaacccggc
 tgcccctttggacaaagtttgtgtcctcagctgtggcatctctacaggtctaggggccacactgaatgtcgccaagccgacaaagggatcttccgtggcg
 atctttggattgggagccgttggcctagct----------------------------------------------------------------------
------------------------------
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------
 >loutergiana
 atggcaagcactgttggtcaggtcatccgctgcaaagctgccgtggcatgggaagccgggaagccgctcgtgatcgaggaagtcgaggtcgcgccgccga
 aggcgatggaggttcgcgtgaagatcctcttcacctccctttgtcacactgatgtctacttctgggaggccaaggggcagaccccgttgtttcctcgcat
@@ -339,7 +386,8 @@ aaggagtgcagacactgcaagtcggaggaaagcaacatgtgtgaccttcttaggataaacacggatcgcggagaaatgct
 tctcgaagaacggacagcctatttaccacttcgtcggcacttcgacttttagcgaatacacggttatccatgtgggttgtcttgccaagatcaacccggc
 tgcccctttggacaaagtttgtatcctcagctgtggcatctctacgggtctaggggccacactgaatgtcgccaggccgacgaagggatcttccgtggcg
 atctttggattgggagccgttggcctagctgcggccgaaggagctagaatttctggggcatccaggattattggcatcgatttgaacccaaacagattcg
-aagaagcaaagaaatttggaatcaccgaa
+aagaagcaaagaaatttggaatcaccgaattcgtgaaccccaaggatcacagcaaaccagttcaggaggtgattgcggaaatgacggacgggggcgtcga
+taggagcgtcgagtgcaccggaaacgacaacgccaggatctcggctttcgaatgcgtccacgat
 >oraria
 atggcaagcactgttggtcaggtcatccgctgcaaagctgccgtggcatgggaagccgggaagccgctcgtgatcgaggaagtcgaggtcgcgccaccga
 aggcgatggaggttcgcgtgaagatcctcttcacctccctttgtcacactgatgtctacttctgggaggccaaggggcagaccccgttgtttcctcgcat
@@ -348,7 +396,8 @@ aaggagtgcagacactgcaagtcggaggaaagcaacatgtgtgaccttcttaggataaacacggatcgcggagaaatgct
 tctcgaagaacggacagcctatttaccacttcgtcggcacttcgacttttagcgaatacacggttatccatgtgggttgtcttgccaagatcaacccggc
 tgcccctttggacaaagtttgtgtcctcagctgtggcatctctacaggtctaggggccacactgaatgtcgccaagccgacaaagggatcttccgtggcg
 atctttggattgggagccgttggcctagct----------------------------------------------------------------------
------------------------------
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------
 >nambyquarae
 atggcaagcactgttggtcaggtcatccgctgcaaagctgccgtggcatgggaagccgggaagccgctcgtgatcgaggaagtcgaggtcgcgccaccga
 aggcgatggaggttcgcgtgaagatcctcttcacctccctttgtcacactgatgtctacttctgggaggccaaggggcagaccccgttgtttcctcgcat
@@ -357,7 +406,8 @@ aaggagtgcagacactgcaagtcggaggaaagcaacatgtgtgaccttcttaggataaacacggatcgcggagaaatgct
 tctcgaagaacggacagcctatttaccacttcgtcggcacttcgacttttagcgaatacacggttatccatgtgggttgtcttgccaagatcaacccggc
 tgcccctttggacaaagtttgtgtcctcagctgtggcatctctactggtctaggggccacactgaatgtcgccaagccgacgaagggatcttccgtggcg
 atctttggattgggagccgttggcctagctgcggccgaaggagctagaatttctggggcatccaggattattggcatcgatttgaacccaaacagattcg
-aagaagccaagaaatttggaatcaccgaa
+aagaagccaagaaatttggaatcaccgaa-----------------------------------------------------------------------
+----------------------------------------------------------------
 >octopetala
 atggcaagcactgttggtcaggtcatccgctgcaaagctgccgtggcatgggaagccgggaaaccgctcgtgatcgaggaagtggaggtcgcgccaccga
 aggccatggaggttcgcgtgaagatcctcttcacctccctttgtcacactgatgtctacttctgggaggccaaggggcagaccccgttgtttcctcgcat
@@ -366,7 +416,8 @@ aaggagtgcagacactgcaagtcggaggaaagcaacatgtgtgaccttcttaggataaacacggatcgcggagaaatgct
 tctcgaagaacggacagcctatttaccacttcgtcggcacttcgacttttagcgaatacacggttatccatgtgggttgtcttgccaagatcaacccggc
 tgcccctttggacaaagtttgtgtcctcagctgtggcatctctacaggtctaggggccacactgaatgtcgccaagccggcgaagggatcttccgtggcg
 atctttggattgggagccgttggcctagctgcggccgaaggagctagaatttctggggcc----------------------------------------
------------------------------
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------
 >navioensis
 atggcaagcactgttggtcaggtcatccgctgcaaagctgccgtggcatgggaagccgggaagccgctcgtgatcgaggaagtcgaggtcgcgccgccga
 aggcgatggaggttcgcgtgaagatcctcttcacctccctttgtcacactgatgtctacttctgggaggccaagggccagaccccgttgtttcctcgcat
@@ -375,7 +426,8 @@ aaggagtgtaggcactgcaagtcggaggaaagcaacatgtgtgaccttcttaggataaacacggatcgcggagaaatgct
 tctcgaagaacggacagcctatttaccacttcgtcggcacttcgacttttagcgaatacacggtcatccatgtgggttgtcttgccaagatcaacccggc
 tgcccctttggacaaagtttgtgtcctcagctgtggcatctctacaggtctaggggccacactgaatgtcgccaagccggtgaagggatcttccgtggcg
 atctttggattgggagccgttggcctagctgcggccgaaggagctagaatttctggggcatcc-------------------------------------
------------------------------
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------
 >lepidota
 atggcaagcactgttggtcaggtcatccgctgcaaagctgccgtggcatgggaagccgggaagccgctcgtgatcgaggaagtcgaggtcgcgccaccga
 aggcgatggaggttcgcgtgaagatcctcttcacctccctttgtcacactgatgtctacttctgggaggccaaggggcagaccccgttgtttcctcgcat
@@ -384,7 +436,8 @@ aaggagtgcagacactgcaagtcggaggaaagcaacatgtgtgaccttcttaggataaacacggatcgcggagaaatgct
 tctcgaagaacggacagcctatttaccacttcgtcggcacttcgacttttagcgaatacacggttatccatgtgggttgtcttgccaagatcaacccggc
 tgcccctttggacaaagtttgtgtcctcagctgtggcatctctacaggtctaggggccacactgaatgtcgccaagccgacgaagggatcttccgtggcg
 atctttggattgggagccgttggcctagctgcggccgaaggagctagaatttctggggcatccaggattattggcatcgatttgaacccaaacagattcg
-aagaagccaagaaatttggaatcaccgaa
+aagaagccaagaaatttggaatcaccgaattcgtgaaccccaaggatcacagcaaaccagttcaggaggta-----------------------------
+----------------------------------------------------------------
 >pepericarpa
 atggcaagcactgatggtcaggtcatccgctgcaaagctgccgtggcatgggaagccgggaagccgctcgtgatcgaggaagtcgaggtcgcgccaccga
 aggcgatggaggttcgcgtgaagatcctcttcacctccctttgtcacactgatgtctacttctgggaggccaaggggcagaccccgttgtttcctcgcat
@@ -393,7 +446,8 @@ aaggagtgcagacactgcaagtcggaggaaagcaacatgtgtgaccttcttaggataaacacggatcgcggagaaatgct
 tctcgaagaacggacagcctatttaccacttcgtcggcacttcgacttttagcgaatacacggttatccatgtgggttgtcttgccaagatcaacccggc
 tgcccctttggacaaagtttgtgtcctcagctgtggcatctctacaggtctaggggccacactgaatgtcgccaagccgacgaagggatcttccgtggcg
 atctttggattgggagccgttggcctagctgcggccgaaggagctagaatttctggggcatccaggattattggcattgatttgaacccaaacagattcg
-aagaa------------------------
+aagaa-----------------------------------------------------------------------------------------------
+----------------------------------------------------------------
 >polyandra
 atggcaagcaccgctggtcaggtcatccgctgcaaagctgccgtggcttgggaagccgggaagccgctcgtggtcgaggaagtggaggtggctcctcccc
 aggccaacgaggtccgggtcaagatcctcttcacctccctttgtcacactgatgtctacttctgggaggccaagggccagacccccctgtttcctcgcat
@@ -402,7 +456,8 @@ aaggagtgcagacactgcaagtcggaggaaagcaacatgtgtgaccttcttaggataaacacggatcgcggagaaatgct
 tctcgaagaacggacagcctatttaccacttcgtcggcacttcgacttttagcgaatacacggttatccatgtgggttgtcttgccaagatcaacccggc
 tgcccctttggacaaagtttgtgtcctcagctgtggcatctctacaggtctaggggccacactgaatgtcgccaagccgacgaagggatcttccgtggcg
 atctttggattgggagccgttggcctagctgcggccgaaggagctagaatttctggggcatccaggattattggcatcgatttgaacccaaaaagattcg
-aagaagccaagaaatttggaatcaccgaa
+aagaagccaagaaatttggaatcaccgaattcgtgaaccccaaggatcacagcaaaccagttcaggaggtgattgcagaaatgacggacgggggcgtcga
+caggagcgtcgagtgcaccggaaacgtcaacgccatgatctctgctttcgaatgcgtccacgac
 >organensis
 atggcaagcactgttggtcaggtcatccgctgcaaagctgccgtggcatgggaagccgggaagccgctcgtgatcgaggaagtcgaggtcgcgccaccga
 aggcgatggaggttcgcgtgaagatcctcttcacctccctttgtcacactgatgtctacttctgggaggccaaggggcagaccccgttgtttcctcgcat
@@ -411,7 +466,8 @@ aaggagtgccgacactgcaagtcggaggaaagcaacatgtgtgaccttcttaggataaacacggatcgcggagaaatgct
 tctcgaagaacggacagcctatttaccacttcgtcggcacttcgacttttagcgaatacacggttatccatgtgggttgtcttgccaagatcaacccggc
 tgcccctttggacaaagtttgtgtcctcagctgtggcatctctacaggtctaggggccacactgaatgtcgccaagccgacgaagggatcttccgtggcg
 atctttggattgggagccgttggcctagctgcggccgaaggagctagaatttctggggcatccaggattattggcatcgatttgaacccaaacagattcg
-aagaa------------------------
+aagaa-----------------------------------------------------------------------------------------------
+----------------------------------------------------------------
 >punctata
 atggcaagcactgttggtcaggtcatccgctgcaaagctgccgtggcatgggaagccgggaagccgctcgtgatcgaggaagtcgaggtcgcgccaccga
 aggcgatggaggttcgcgtgaagatcctcttcacctccctttgtcacactgatgtctacttctgggaggccaaggggcagaccccgttgtttcctcgcat
@@ -420,7 +476,8 @@ aaggagtgcagacactgcaagtcggaggaaagcaacatgtgtgaccttcttaggataaacacggatcgcggagaaatgct
 tctcgaagaacggacagcctatttaccacttcgtcggcacttcgacttttagcgaatacacggttatccatgtgggttgtcttgccaagatcaacccggc
 tgcccctttggacaaagtttgtgtcctcagctgtggcatctctacaggtctaggggccacactgaatgtcgccaagccgacgaagggatcttccgtggcg
 atctttggattgggagccgttggcctagctgcggccgaaggagctagaatttctggggcatccaggattattggcatcgatttgaacccaaacagattcg
-aagaa------------------------
+aagaa-----------------------------------------------------------------------------------------------
+----------------------------------------------------------------
 >renatogoldenbergii
 atggcaagcactgttggtcaggtcatccgctgcaaagctgccgtggcatgggaagccgggaagccgctcgtgatcgaggaagtcgaggtcgcgccaccga
 aggcgatggaggttcgcgtgaagatcctcttcacctccctttgtcacactgatgtctacttctgggaggccaaggggcagaccccgttgtttcctcgcat
@@ -429,7 +486,8 @@ aaggagtgcagacactgcaagtcggaggaaagcaacatgtgtgaccttcttaggataaacacggatcgcggagaaatgct
 tctcaaagaacggacagcctatttaccacttcgtcggcacttcgacttttagcgaatacacggttatccatgtgggttgtcttgccaagatcaacccggc
 tgcccctttggacaaagtttgtgtcctcagctgtggcatctctacaggtctaggggccacactgaatgtcgccaagccaacgaagggatcttccgtggcg
 atctttggattgggagccgttggcctagctgcggccgaaggagctagaatttctggggcatccaggattatcggcatcgatttgaacccaaacagattcg
-aagaagccaagaaatttggaatcaccgaa
+aagaagccaagaaatttggaatcaccgaattcgtgaaccccaaggatcacagcaaaccagttcaggaggta-----------------------------
+----------------------------------------------------------------
 >robusta
 atggcaagcactgatggtcaggtcatccgctgcaaagctgccgtggcatgggaagccgggaagccgctcgtgatcgaggaagtcgaggtcgcgccaccga
 aggcgatggaggttcgcgtgaagatcctcttcacctccctttgtcacactgatgtctacttctgggaggccaaggggcagaccccgttgtttcctcgcat
@@ -438,7 +496,8 @@ aaggagtgcagacactgcaagtcggaggaaagcaacatgtgtgaccttcttaggataaacacggatcgcggagaaatgct
 tctcgaagaacggacagcctatttaccacttcgtcggcacttcgacttttagcgaatacacggttatccatgtgggttgtcttgccaagatcaacccggc
 tgcccctttggacaaagtttgtgtcctcagctgtggcatctctacaggtctaggggccacactgaatgtcgccaagccaacgaagggatcttccgtggca
 atctttggattgggagccgttggcctagctgcggccgaaggagctagaatttctggggcatccaggattattggcatcgatttgaacccaaaaagattcg
-aagaagccaagaaatttggaatcaccgaa
+aagaagccaagaaatttggaatcaccgaattcgtgaaccccaaggatcacagcaaaccagttcaggaggtgattgcagaaatgacggacgggggcgtcga
+caggagcgtcgagtgcaccggaaacatcaacgccatgatctccgctttcgaatgcgtccacgac
 >rondoniensis
 atggcaagcactgttggtcaggtcatccgctgcaaagctgccgtggcatgggaagccgggaagccgctcgtgatcgaggaagtcgaggtcgcgccaccga
 aggcgatggaggttcgcgtgaagatcctcttcacctccctttgtcacactgatgtctacttctgggaggctaaggggcagaccccgttgtttcctcgcat
@@ -447,7 +506,8 @@ aaggagtgcagacactgcaagtcggaggaaagcaacatgtgtgaccttcttaggataaacacggatcgcggagaaatgct
 tctcgaagaacggacagcctatttaccacttcgtcggcacttcgacttttagcgaatacacggttatccatgtgggttgtcttgccaagatcaacccggc
 tgcccctttggacaaagtttgtgtcctcagctgtggcatctctacaggtctaggggccacactgaatgtcgccaagccgacgaagggatcttccgtggcg
 atctttggattgggagccgttggcctagctgcggccgaaggagctagaatttctggggcatccaggattattggcatcgat-------------------
------------------------------
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------
 >penduliflora
 atggcaagcactgatggtcaggtcatccgctgcaaagctgccgtggcatgggaagccgggaagccgctcgtgatcgaggaagtcgaggtcgcgccaccga
 aggcgatggaggttcgcgtgaagatcctcttcacctccctttgtcacactgatgtctacttctgggaggccaaggggcagaccccgttgtttcctcgcat
@@ -456,7 +516,8 @@ agggagtgcagacactgcaagtcggaggaaagcaacatgtgtgaccttcttaggataaacacggatcgcggagaaatgct
 tctcgaagaacggacagcctatttaccacttcgtcggcacttcgacttttagcgaatacacggttatccatgtgggttgtcttgccaagatcaacccggc
 tgcccctttggacaaagtttgtgtcctcagctgtggcatctctacaggtctaggggccacactgaatgtcgccaagccgacgaagggatcttccgtggcg
 atctttggattgggagccgttggcctagctgcggccgaaggagctagaatttctggggcatccaggattattggcattgatttgaacccaaacagattcg
-aagaagccaagaattttggaatcaccgaa
+aagaagccaagaattttggaatcaccgaattcgtgaaccccaaggatcacagcaaaccagttcaggaggtgattgcagaaatgacggacgggggcgtcga
+ccggagcgttgagtgcaccggaaacatcaacgccatgatctccgctttcgaatgcgtccacgac
 >racemifera
 atggcaagcactgatggtcaggtcatccgctgcaaagctgccgtggcatgggaagccgggaagccgctcgtgatcgaggaagtcgaggtcgcgccaccga
 aggcgatggaggttcgcgtgaagatcctcttcacctccctttgtcacactgatgtctacttctgggaggccaaggggcagaccccgttgtttcctcgcat
@@ -465,7 +526,8 @@ aaggagtgcagacactgcaagtcggaggaaagcaacatgtgtgaccttcttaggataaacacggatcgcggagaaatgct
 tctcgaagaacggacagcctatttaccacttcgtcggcacttcgacttttagcgaatacacggttatccatgtgggttgtcttgccaagatcaacccggc
 tgcccctttggacaaagtttgtgtcctcagctgtggcatcacgacaggtctaggggccacactgaatgtcgccaagccgacgaagggatcttccgtggcg
 atctttggattgggagccgttggcctagctgcagccgaaggagctagaatttctggggcatccaggattattggcatcgatttgaacccaaacagattcg
-aagaaggtaag------------------
+aagaaggtaag-----------------------------------------------------------------------------------------
+----------------------------------------------------------------
 >rufescens
 atggcaagcactgttggtcaggtcatccgctgcaaagctgccgtggcatgggaagccgggaagccgctcgtgatcgaggaagtcgaggtcgcgccaccga
 aggcgatggaggttcgcgtgaagatcctcttcacctccctttgtcacactgatgtctacttctgggaggccaaggggcagaccccgttgtttcctcgcat
@@ -474,7 +536,8 @@ aaggagtgcaggcactgcaagtcggaggaaagcaacatgtgtgaccttcttaggataaacacggatcgcggagaaatgct
 tctcgaagaacggacagcctatttaccacttcgtcggcacttcgacttttagcgaatacacggttatccatgtgggttgtctcgccaagatcaacccggc
 tgcccctttggacaaagtttgtgtcctcagctgtggcatctctacaggtctaggggccacactgaatgtcgccaggccgacgaagggatcttccgtggcg
 atctttggattgggagccgttggcctagctgcggccgaaggagctagaatttctggggcgtccaggattattggcatcgatttgaacccaaacagattcg
-aagaagccaagaaatttggaatcaccgaa
+aagaagccaagaaatttggaatcaccgaattcgtgaaccccaaggatcacagcaaaccagttcaggaggtgattgcagaaatgacggacgggggcgtcga
+caggagcgtcgagtgcactggaaacgtcaacgccatgatctctgctttcgaatgcgtccacgac
 >serialis
 ------------------------------------gctgccgtggcatgggaagccgggaagccgctcgtgatcgaggaagtcgaggtcgcgccgccga
 aggcgatggaggttcgcgtgaagatcctcttcacctccctttgtcacactgatgtctacttctgggaggccaagggccagaccccgttgtttcctcgcat
@@ -483,7 +546,8 @@ aaggagtgtaggcactgcaagtcggaggaaagcaacatgtgtgaccttcttaggataaacacggatcgcggagaaatgct
 tctcgaagaacggacagcctatttaccacttcgtcggcacttcgacttttagcgaatacacggtcatccatgtgggttgtcttgccaagatcaacccggc
 tgcccctttggacaaagtttgcgtcctcagctgtggcatctctacaggtctaggggccacactgaatgtcgccaagccggcgaagggatcttccgtggcg
 atctttggattgggagccgttggcctagctgcggccgaaggagctagaatttctggggcatccaggattattggcatcgatttgaacccaaacagattcg
-aagaagccaagaaatttggaatcaccgaa
+aagaagccaagaaatttggaatcaccgaattcgtgaaccccaaggatcacagcaaaccagttcaggaggtgattgcagaaatgacggacgggggtgtcga
+caggagcgtcgagtgcaccggaaacgtcaacgccatgatctccgctttcgaatgcgtccacgac
 >setosociliata
 atggcaagcactgttggtcaggtcatccgctgcaaagctgccgtggcatgggaagccgggaagccgctcgtgatcgaggaagtcgaggtcgcgccaccga
 aggcgatggaggttcgcgtgaagatcctcttcacctccctttgtcacactgatgtctacttctgggaggccaaggggcagaccccgttgtttcctcgcat
@@ -492,7 +556,8 @@ aaggagtgcagacactgcaagtcggaggaaagcaacatgtgtgaccttcttaggataaacacggatcgcggagaaatgct
 tctcgaagaacggacagcctatttaccacttcgtcggcacttcgacttttagcgaatacacggttgtccatgtgggttgtcttgccaagatcaacccggc
 tgcccctttggacaaagtttgtgtcctcagctgtggcatctctacaggtctaggggccacactgaatgtcgccaagccgacgaagggatcttccgtggca
 atctttggattgggagccgttggcctagctgcggccgaaggagctagaatttctggggcatccaggattattggcatcgataggaacccaaacagattcg
-aagaa------------------------
+aagaa-----------------------------------------------------------------------------------------------
+----------------------------------------------------------------
 >pterocaulon
 ------------------------------------gctgccgtggcatgggaagccgggaagccgctcgtgatcgaggaagtggaggtcgcgccaccga
 aggcgatggaggttcgcgtgaagatcctcttcacctccctttgtcacactgatgtctacttctgggaggccaaggggcagaccccgttgtttcctcgcat
@@ -501,7 +566,8 @@ aaggagtgcagacactgcaagtcggaggaaagcaacatgtgtgaccttcttaggataaacacggatcgcggagaaatgct
 tctcgaagaacggacagcctatttaccacttcgtcggcacttcgacttttagcgaatacacggttatccatgtgggttgtcttgccaagatcaacccggc
 tgcccctttggacaaagtttgtgtcctcagctgtggcatctctacaggtctaggggccacactgaatgtcgccaagccgacgaagggatcttccgtggcg
 atctttggattgggagccgttggcctagct----------------------------------------------------------------------
------------------------------
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------
 >secundiflora
 ------------------------------------gctgccgtggcatgggaagccgggaagccgctcgtgatcgaggaagtcgaggtcgcgccgccga
 aggcgatggaggttcgcgtgaagatcctcttcacgtccctttgtcacactgatgtctacttctgggaggccaaggggcagaccccgttgtttcctcgcat
@@ -510,7 +576,8 @@ aaggagtgcaggcactgcaagtcggaggaaagcaacatgtgtgaccttcttaggataaacacggatcgcggagaaatgct
 tctcgaagaacggacagcctatttaccacttcgtcggcacttcgacttttagcgaatacacggttatccatgtgggttgtcttgccaagatcaacccggc
 tgcccctttggacaaagtttgcatcctcagctgtggcatctctacaggtctaggggccacactgaatgtcgccaagccgaccaagggatcttctgtggcg
 atctttggattgggagccgttggcctagctgcggccgatggagctagaatttctggggcatccaggattattggcatcgat-------------------
------------------------------
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------
 >sylvatica
 atggcaagcactgttggtcaggtcatccgctgcaaagctgccgtggcatgggaagccgggaagccgctcgtgatcgaggaagtcgaggtcgcgccaccga
 aggcgatggaggttcgcgtgaagatcctcttcacctccctttgtcacactgatgtctacttctgggaggccaaggggcagaccccgttgtttcctcgcat
@@ -519,7 +586,8 @@ aaggagtgcagacactgcaagtcggaggaaagcaacatgtgtgaccttcttaggataaacacggatcgcggagaaatgct
 tctcgaagaacggacagcctatttaccacttcgtcggcacttcgacttttagcgaatacacggttatccatgtgggttgtcttgccaagatcaacccggc
 tgcccctttggacaaagtttgtgtcctcagctgtggcatctctacaggtctaggggccacactgaatgtcgccaagccgacaaagggatcttccgtggcg
 atctttggattgggagccgttggcctagctgcggccgaaggagctagaatttgtggggcatccaggattattggcatcgatttgaacccaagcagattcg
-aagaagccaagaaatttggaatcaccgaa
+aagaagccaagaaatttggaatcaccgaattcgtaaaccccaaggatcacagcaaaccagttcaggaggta-----------------------------
+----------------------------------------------------------------
 >schwackei
 atggcaagcactgttggtcaggtcatccgctgcaaagctgccgtggcatgggaagccgggaagccgctcgtgatcgaggaagtcgaggtcgcgccaccga
 aggcgatggaggttcgcgtgaagatcctcttcacctccctttgtcacactgatgtctacttctgggaggccaaggggcagaccccgttgtttcctcgcat
@@ -528,7 +596,8 @@ aaggagtgcagacactgcaagtcggaggaaagcaacatgtgtgaccttcttaggataaacacggatcgcggagaaatgct
 tctcgaagaacggacagcctatttaccacttcgtcggcacttcgacttttagcgaatacacggttatccatgtgggttgtcttgccaagatcaacccggc
 tgcccctttggacaaagtttgtgtcctcagctgtggcatctctacaggtctaggggccacactgaatgtcgccaagccgacgaagggatcttctgtggcg
 atctttggattgggagccgttggcctagctgcggccgaaggagctagaatttctggggcatccaggattattggcatcgatttgaacccaagcagattcg
-aagaagccaagaaatttggaatcaccgaa
+aagaagccaagaaatttggaatcaccgaattcgtgaaccccaaggatcacagcaaaccagttcaggaggta-----------------------------
+----------------------------------------------------------------
 >suberosa
 atggcaagcactgttggtcaggtcatccgctgcaaagctgccgtggcatgggaagccgggaagccgctcgtgatcgaggaagtcgaggtcgcgccgccga
 aggctatggaggttcgcgtgaagatcctcttcacctccctttgtcacactgatgtctacttctgggaggccaaggggcagaccccgttgtttcctcgcat
@@ -537,7 +606,8 @@ aaggagtgcagacactgcaagtcggaggaaagcaacatgtgtgaccttcttaggataaacacggatcgcggagaaatgct
 tctcgaagaacggacagcctatttaccacttcgtcggcacttcgacttttagcgaatacacggttatccatgtgggttgtcttgccaagatcaacccggc
 tgcccctttggacaaagtttgtgtcctcagctgtggcatctctacaggtctaggggccacactgaatgtcgccaagccgacgaagggatcttccgtggcg
 atctttggattgggagccgttggcctagctgcggccgaaggagctagaatttctggggcatccaggattattggcatcgatttgaacccaaacagattcg
-aagaa------------------------
+aagaa-----------------------------------------------------------------------------------------------
+----------------------------------------------------------------
 >stenostachya
 atggcaagcactgatggtcaggtcatccgctgcaaagctgccgtggcatgggaagccgggaagccgctcgtgatcgaggaagtcgaggtcgcgccaccga
 aggcgatggaggttcgcgtgaagatcctcttcacctccctttgtcacactgatgtctacttctgggaggccaaggggcagaccccgttgtttcctcgcat
@@ -546,7 +616,8 @@ aaggagtgcagacactgcaagtcggaggaaagcaacatgtgtgaccttcttaggataaacacggatcgcggagaaatgct
 tctcgaagaacggacagcctatttaccacttcgtcggcacttcgacttttagcgaatacacggttatccatgtgggttgtcttgccaagatcaacccggc
 tgcccctttggacaaagtttgtgtcctcagctgtggcatctctacaggtctaggggccacactgaatgtcgccaagccgacgaagggatcttccgtggcc
 atctttggattgggagccgttggcctagctgcggccgaaggagctagaatttctggggcatccaggattattggcatcgatttgaacccaaacagattcg
-aagaagccaagaaatttggaatcaccgaa
+aagaagccaagaaatttggaatcaccgaattcgtgaaccccaaggatcacagcaaaccagttcaggaggtgattgcagaaatgacggacgggggcgtcga
+caggagcgtcgagtgcaccggaaacatcaacgccatgatctccgcttttgaatgcgtccacgac
 >shepherdii
 atggcaagcactaatggtcaggtcatccgctgcaaagctgccgtggcatgggaagccgggaagccgctcgtgatcgaggaagtcgaggtcgcgccaccga
 aggcgatggaggttcgcgtgaagatcctcttcacctccctttgtcacactgatgtctacttctgggaggccaaggggcagaccccgttgtttcctcgcat
@@ -555,7 +626,8 @@ aaggagtgcagacactgcaagtcggaggaaagcaacatgtgtgaccttcttaggataaacacggatcgcggagaaatgct
 tctcgaagaacggacagcctatttaccacttcgtcggcacttcgacttttagcgaatacacggttatccatgtgggttgtcttgccaagatcaacccggc
 tgcccctttggacaaagtttgtgtcctcagctgtggcatctctacaggtctaggggccacactgaatgtcgccaagccgacgaagggatcttccgtggcg
 atctttggattgggagccgttggcctagctgcggccgaaggagctagaatttctggggcatccaggattattggcatcgatttgaacccaaacagattcg
-aagaagccaagaaatttggaatcaccgaa
+aagaagccaagaaatttggaatcaccgaa-----------------------------------------------------------------------
+----------------------------------------------------------------
 >wittii
 atggcaagcactgttggtcaggtcatccgctgcaaagctgccgtggcatgggaagccgggaagccgctcgtgatcgaggaagtcgaggtcgcgccaccga
 aggcgatggaggttcgcgtgaagatcctcttcacctccctttgtcacactgatgtctacttctgggaggccaaggggcagaccccgttgtttcctcgcat
@@ -564,7 +636,8 @@ aaggagtgcagacactgcaagtcggaggaaagcaacatgtgtgaccttcttaggataaacacggatcgcggagaaatgct
 tctcgaagaacggacagcctatttaccacttcgttggcacttcgacttttagcgaatacacggttatccatgtgggttgtcttgccaagatcaacccggc
 tgcccctttggacaaagtttgtgtcctcagctgtggcatctctacaggtctaggggccacactgaatgtcgccaagccgacgaagggatcttccgtggcg
 atctttggattgggagccgttggcctagctgcggccgaaggagctagaatttctggggcatccaggattattggcatcgatttgaacccaaacagattcg
-aagaagccaagaaatttggaatcaccgaa
+aagaagccaagaaatttggaatcaccgaattcgtgaaccccaaggatcacagcaaaccagttcaggaggta-----------------------------
+----------------------------------------------------------------
 >tiliifolia
 ------------------------------------gctgccgtggcatgggaagccgggaagccgctcgtgatcgaggaagtcgaggtcgcgccaccga
 aggcgatggaggttcgcgtgaagatcctcttcacctccctttgtcacactgatgtctacttctgggaggccaaggggcagaccccgttgtttcctcgcat
@@ -573,7 +646,8 @@ aaggagtgcagacactgcaagtcggaggaaagcaacatgtgtgaccttcttaggataaacacggatcgcggagaaatgct
 tctcgaagaacggacagcctatttaccacttcgtcggcacttcgacttttagcgaatacacggttatccatgtgggttgtcttgccaagatcaacccggc
 tgcccctttggacaaagtttgtgtcctcagctgtggcatctctacaggtctaggggccacactgaatgtcgccaagccgacaaagggatcttccgtggcg
 atctttggattgggagccgttggcctagctgcggccgaaggagctagaatttctggggcatccaggattattggcatcgatttgaacccaaacagattcg
-aagaa------------------------
+aagaa-----------------------------------------------------------------------------------------------
+----------------------------------------------------------------
 >wildenowii
 atggcaagcactgatggtcaggtcatccgctgcaaagctgccgtggcatgggaagccgggaagccgctcgtgatcgaggaagtcgaggtcgcgccaccga
 aggcgatggaggttcgcgtgaagatcctcttcacttccctttgtcacactgatgtctacttctgggaggccaaggggcagaccccgttgtttcctcgcat
@@ -582,7 +656,8 @@ aaggagtgcagacactgcaagtcggaggaaagcaacatgtgtgaccttcttaggataaacacggatcgcggagaaatgct
 tctcgaagaacggacagcctatttaccacttcgtcggcacttcgacttttagcgaatacacggttatccatgtgggttgtcttgccaagatcaacccggc
 tgcccctttggacaaagtttgtgtcctcagctgtggcatctctacaggtctaggggccacactgaatgtcgccaagccgacgaagggatcttccgtggcg
 atctttggattgggagccgttggcctagctgcggccgaaggagctagaatttctggggcatccaggattattggcatcgatttgaacccaaaaagattcg
-aagaagccaagaaatttggaatcaccgaa
+aagaagccaagaaatttggaatcaccgaattcgtgaaccccaaggatcacagcaaaccagttcaggaggta-----------------------------
+----------------------------------------------------------------
 >weddellii
 atggcaagcactgttggtcaggtcatccgctgcaaagctgccgtggcatgggaagccgggaagccgctcgtgatcgaggaagtcgaggtcgcgccaccga
 aggcgatggaggttcgcgtgaagatcctcttcacctccctttgtcacactgatgtctacttctgggaggccaaggggcagaccccgttgtttcctcgcat
@@ -591,7 +666,8 @@ aaggagtgcagacactgcaagtcggaggaaagcaacatgtgtgaccttcttaggataaacacggatcgcggagaaatgct
 tctcgaagaacggacagcctatttaccacttcgtcggcacttcgacttttagcgaatacacggttatccatgtgggttgtcttgccaagatcaacccggc
 tgcccctttggacaaagtttgtgtcctcagctgtggcatctctacaggtata------------------------------------------------
 ----------------------------------------------------------------------------------------------------
------------------------------
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------
 >tentaculifera
 atggcaagcactgttggtcaggtcatccgctgcaaagctgccgttgcatgggaagccgggaagccgctcgtgatcgaggaagtcgaggtcgcgccaccga
 aggcgatggaggttcgcgtgaagatcctcttcacctccctttgtcacactgatgtctacttctgggaggccaaggggcagaccccgttgtttcctcgcat
@@ -600,4 +676,5 @@ aaggagtgcagacactgcaagtcggaggaaagcaacatgtgtgaccttcttaggataaacacggatcgcggagaaatgat
 tctcgaagaacggacagcctatttaccacttcgtcggcacttcgacttttagcgaatacacggttatccatgtgggttgtcttgccaagatcaacccggc
 tgcccctttggacaaagtttgtgtcctcagctgtggcatctccacaggtctaggggccacactgaatgtcgccaagccgaagaagggatcttccgtggcg
 atctttggattgggagccgttggcctagctgcggccgaaggagctagaatttctggggcatccaggattattggcatcgatttgaaccaaaacagattcg
-aagaagccaagaaatttggaatcaccgaa
+aagaagccaagaaatttggaatcaccgaattcgtgaaccccaaggatcacagcaaaccagttcaggaggtgattgcagaaatgacgaacgggggcgtcga
+caggagcgtcgagtgcaccggaaacgtcaacgccatgatctccgctttcgaatgcgtccacgac

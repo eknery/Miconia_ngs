@@ -20,7 +20,6 @@ spp_remove = c(
   "fallax",
   "hyemalis",
   "lanata",
-  "longispicata",
   "pennipilis",
   "ruficalyx",
   "sclerophylla",
@@ -28,7 +27,7 @@ spp_remove = c(
 )
 
 ### minimum number of species to maintain a locus
-min_nspp = 40
+min_nspp = 40 # original 40
 
 ### trimming loci in loop
 for(i in 1:length(loci_names) ){
@@ -62,6 +61,7 @@ for(i in 1:length(loci_names) ){
     return(NULL)  # Return NULL to indicate failure
   })
 }
+
 ############################## SELECTING SANGER ###############################
 
 ## choose input directory
@@ -80,7 +80,6 @@ for(locus_name in loci_names){
     "elata",
     "hyemalis",
     "lanata",
-    "longispicata",
     "pennipilis",
     "triplinervis"
   )

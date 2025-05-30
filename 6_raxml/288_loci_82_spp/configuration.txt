@@ -1,0 +1,2 @@
+min spp to consider a locus: 4
+trimming 10%

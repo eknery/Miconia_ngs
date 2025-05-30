@@ -8,9 +8,6 @@ dir_input = "3_trimmed_sequences/" # "0_sanger_data/" ou "3_trimmed_sequences/"
 ### list file names
 loci_names = list.files(path = paste0(dir_input), pattern = ".FNA")
 
-### getting plastid loci from sanger
-# loci_names = loci_names[c(1,2,5,6,7)] 
-
 ### getting all species names across loci
 all_spp_names = c()
 for(i in 1:length(loci_names)){
