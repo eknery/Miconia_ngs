@@ -20,6 +20,7 @@ spp_remove = c(
   "fallax",
   "hyemalis",
   "lanata",
+  "longispicata",
   "pennipilis",
   "ruficalyx",
   "sclerophylla",
@@ -80,6 +81,7 @@ for(locus_name in loci_names){
     "elata",
     "hyemalis",
     "lanata",
+    "longispicata",
     "pennipilis",
     "triplinervis"
   )
